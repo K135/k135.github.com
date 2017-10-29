@@ -17,13 +17,125 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>CLASS ARENA</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=53254807"/>
-  <link rel="stylesheet" type="text/css" href="css/master_b-master.css?crc=3890435629"/>
-  <link rel="stylesheet" type="text/css" href="css/class-arena.css?crc=79677096" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_b-master.css?crc=166075885"/>
+  <link rel="stylesheet" type="text/css" href="css/class-arena.css?crc=3917554716" id="pagesheet"/>
   <!-- JS includes -->
   <!--[if lt IE 9]>
   <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
   <![endif]-->
-   </head>
+    <!--HTML Widget code-->
+  
+		<style>
+		#overlaypass {
+			position: fixed;
+			top: 0;
+			left: 0;
+			width: 100%;
+			height: 100%;
+			background-color: #CECECE;
+			filter:alpha(opacity=50);
+			-moz-opacity:0.5;
+			-khtml-opacity: 0.5;
+			opacity: 1;
+			z-index: 9990000;
+			text-align:center;
+		}
+		.formLogin form{
+			width:95%;
+			max-width:250px;    
+			margin: 0 auto;	
+		}
+		.formLogin{
+			font: 95% Arial, Helvetica, sans-serif;
+			padding: 16px;
+			background: #F7F7F7;
+		}
+		.formLogin h1{
+			padding: 20px 0;
+			font-size: 140%;
+			font-weight: 300;
+			text-align: center;
+			color: #000000;
+		}
+		.formLogin input[type="text"],
+		.formLogin input[type="date"],
+		.formLogin input[type="datetime"],
+		.formLogin input[type="password"],
+		.formLogin input[type="number"],
+		.formLogin input[type="search"],
+		.formLogin input[type="time"],
+		.formLogin input[type="url"],
+		.formLogin textarea,
+		.formLogin select
+		{
+			-webkit-transition: all 0.30s ease-in-out;
+			-moz-transition: all 0.30s ease-in-out;
+			-ms-transition: all 0.30s ease-in-out;
+			-o-transition: all 0.30s ease-in-out;
+			outline: none;
+			box-sizing: border-box;
+			-webkit-box-sizing: border-box;
+			-moz-box-sizing: border-box;
+			width: 100%;
+			background: #fff;
+			margin-bottom: 4%;
+			border: 1px solid #ccc;
+			padding: 3%;
+			color: #555;
+			font: 95% Arial, Helvetica, sans-serif;
+		}
+		.formLogin input[type="text"]:focus,
+		.formLogin input[type="date"]:focus,
+		.formLogin input[type="datetime"]:focus,
+		.formLogin input[type="password"]:focus,
+		.formLogin input[type="number"]:focus,
+		.formLogin input[type="search"]:focus,
+		.formLogin input[type="time"]:focus,
+		.formLogin input[type="url"]:focus,
+		.formLogin textarea:focus,
+		.formLogin select:focus
+		{
+			box-shadow: 0 0 5px #43D1AF;
+			padding: 3%;
+			border: 1px solid #43D1AF;
+		}
+		.formLogin input[type="submit"],
+		.formLogin input[type="button"]{
+			box-sizing: border-box;
+			-webkit-box-sizing: border-box;
+			-moz-box-sizing: border-box;
+			width: 100%;
+			padding: 3%;
+			background: #F7931E;
+			border-bottom: 2px solid #30C29E;
+			border-top-style: none;
+			border-right-style: none;
+			border-left-style: none;   
+			color: #FFFFFF;
+		}
+		.formLogin input[type="submit"]:hover,
+		.formLogin input[type="button"]:hover{
+			background: #2EBC99;
+		}
+		#botonlogin, #pass{
+			font-size: 140%;	
+		}
+		#err{
+			color:#FF0707;
+		}
+		</style>
+		<div id="overlaypass" class="formLogin">
+			<form>
+			<h1>ENTER PASSWORD TO CONTINUE</h1>
+				<input type="password" id="pass">
+				<input type="submit" id="botonlogin" value="LOGIN">
+				<p style="margin-top: 30px;"><span id='err'></span></p>								
+				<div style='width:100%; text-align:center;font-size:10px;'><a target='_blank' href='http://responsive-muse.com/' title='Responsive Muse Widgets and Templates'>Powered by responsive-muse</a></div>				
+			</form>
+		</div>
+		
+
+ </head>
  <body>
 
   <div class="clearfix borderbox" id="page"><!-- column -->
@@ -58,59 +170,70 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
      <div id="u2994"><!-- simple frame --></div>
     </div>
     <img class="colelem" id="u3549-4" alt="CHOOSE YOUR PREFERRED SEMESTER " src="images/u3549-4.png?crc=3786698700" data-IBE-flags="txtStyleSrc" data-image-width="318"/><!-- rasterized frame -->
-    <nav class="MenuBar clearfix colelem" id="menuu2997"><!-- vertical box -->
-     <div class="MenuItemContainer borderbox clearfix colelem" id="u2998"><!-- horizontal box -->
-      <!-- m_editable region-id="editable-static-tag-U3001" template="class-arena.html" data-type="html" data-ice-options="clickable" data-ice-editable="link" -->
-      <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u3001" href="1st.html" data-href="page:U3394" data-muse-uid="U3001"><!-- horizontal box --><!-- m_editable region-id="editable-static-tag-U3004-BP_infinity" template="class-arena.html" data-type="html" data-ice-options="disableImageResize,link,clickable,txtStyleTarget" --><div class="MenuItemLabel borderbox clearfix grpelem" id="u3004-4" data-muse-uid="U3004" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content --><p>1st SEM</p></div><!-- /m_editable --></a>
-      <!-- /m_editable -->
-      <div class="SubMenu MenuLevel1 borderbox clearfix" id="u2999"><!-- vertical box -->
-       <ul class="SubMenuView borderbox clearfix colelem" id="u3000"><!-- vertical box -->
-        <li class="MenuItemContainer borderbox clearfix colelem" id="u3127"><!-- horizontal box --><div class="MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u3129"><!-- horizontal box --><!-- m_editable region-id="editable-static-tag-U3133-BP_infinity" template="class-arena.html" data-type="html" data-ice-options="disableImageResize,link,clickable,txtStyleTarget" --><div class="MenuItemLabel borderbox clearfix grpelem" id="u3133-4" data-muse-uid="U3133" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content --><div id="u3133-3"><p>[Name]</p></div></div><!-- /m_editable --></div></li>
-       </ul>
+    <div class="clearfix colelem" id="pmenuu2997"><!-- group -->
+     <nav class="MenuBar clearfix grpelem" id="menuu2997"><!-- vertical box -->
+      <div class="MenuItemContainer borderbox clearfix colelem" id="u2998"><!-- horizontal box -->
+       <!-- m_editable region-id="editable-static-tag-U3001" template="class-arena.html" data-type="html" data-ice-options="clickable" data-ice-editable="link" -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u3001" href="1st.html" data-href="page:U3394" data-muse-uid="U3001"><!-- horizontal box --><!-- m_editable region-id="editable-static-tag-U3004-BP_infinity" template="class-arena.html" data-type="html" data-ice-options="disableImageResize,link,clickable,txtStyleTarget" --><div class="MenuItemLabel borderbox clearfix grpelem" id="u3004-4" data-muse-uid="U3004" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content --><p>1st SEM</p></div><!-- /m_editable --></a>
+       <!-- /m_editable -->
+       <div class="SubMenu MenuLevel1 borderbox clearfix" id="u2999"><!-- vertical box -->
+        <ul class="SubMenuView borderbox clearfix colelem" id="u3000"><!-- vertical box -->
+         <li class="MenuItemContainer borderbox clearfix colelem" id="u3127"><!-- horizontal box --><div class="MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u3129"><!-- horizontal box --><!-- m_editable region-id="editable-static-tag-U3133-BP_infinity" template="class-arena.html" data-type="html" data-ice-options="disableImageResize,link,clickable,txtStyleTarget" --><div class="MenuItemLabel borderbox clearfix grpelem" id="u3133-4" data-muse-uid="U3133" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content --><div id="u3133-3"><p>[Name]</p></div></div><!-- /m_editable --></div></li>
+        </ul>
+       </div>
       </div>
+      <div class="MenuItemContainer borderbox clearfix colelem" id="u3148"><!-- horizontal box -->
+       <!-- m_editable region-id="editable-static-tag-U3158" template="class-arena.html" data-type="html" data-ice-options="clickable" data-ice-editable="link" -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u3158" href="2nd.html" data-href="page:U3548" data-muse-uid="U3158"><!-- horizontal box --><!-- m_editable region-id="editable-static-tag-U3159-BP_infinity" template="class-arena.html" data-type="html" data-ice-options="disableImageResize,link,clickable,txtStyleTarget" --><div class="MenuItemLabel borderbox clearfix grpelem" id="u3159-4" data-muse-uid="U3159" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content --><p>2nd SEM</p></div><!-- /m_editable --></a>
+       <!-- /m_editable -->
+      </div>
+      <div class="MenuItemContainer borderbox clearfix colelem" id="u3205"><!-- horizontal box -->
+       <!-- m_editable region-id="editable-static-tag-U3208" template="class-arena.html" data-type="html" data-ice-options="clickable" data-ice-editable="link" -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u3208" href="subs.html" data-href="page:U4970" data-muse-uid="U3208"><!-- horizontal box --><!-- m_editable region-id="editable-static-tag-U3211-BP_infinity" template="class-arena.html" data-type="html" data-ice-options="disableImageResize,link,clickable,txtStyleTarget" --><div class="MenuItemLabel borderbox clearfix grpelem" id="u3211-4" data-muse-uid="U3211" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content --><p>3rd SEm</p></div><!-- /m_editable --></a>
+       <!-- /m_editable -->
+      </div>
+      <div class="MenuItemContainer borderbox clearfix colelem" id="u3233"><!-- horizontal box -->
+       <!-- m_editable region-id="editable-static-tag-U3236" template="class-arena.html" data-type="html" data-ice-options="clickable" data-ice-editable="link" -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u3236" href="4th.html" data-href="page:U3504" data-muse-uid="U3236"><!-- horizontal box --><!-- m_editable region-id="editable-static-tag-U3237-BP_infinity" template="class-arena.html" data-type="html" data-ice-options="disableImageResize,link,clickable,txtStyleTarget" --><div class="MenuItemLabel borderbox clearfix grpelem" id="u3237-4" data-muse-uid="U3237" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content --><p>4th SEM</p></div><!-- /m_editable --></a>
+       <!-- /m_editable -->
+      </div>
+      <div class="MenuItemContainer borderbox clearfix colelem" id="u3261"><!-- horizontal box -->
+       <!-- m_editable region-id="editable-static-tag-U3264" template="class-arena.html" data-type="html" data-ice-options="clickable" data-ice-editable="link" -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u3264" href="5th.html" data-href="page:U3482" data-muse-uid="U3264"><!-- horizontal box --><!-- m_editable region-id="editable-static-tag-U3265-BP_infinity" template="class-arena.html" data-type="html" data-ice-options="disableImageResize,link,clickable,txtStyleTarget" --><div class="MenuItemLabel borderbox clearfix grpelem" id="u3265-4" data-muse-uid="U3265" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content --><p>5th SEM</p></div><!-- /m_editable --></a>
+       <!-- /m_editable -->
+      </div>
+      <div class="MenuItemContainer borderbox clearfix colelem" id="u3345"><!-- horizontal box -->
+       <!-- m_editable region-id="editable-static-tag-U3346" template="class-arena.html" data-type="html" data-ice-options="clickable" data-ice-editable="link" -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u3346" href="6th.html" data-href="page:U3460" data-muse-uid="U3346"><!-- horizontal box --><!-- m_editable region-id="editable-static-tag-U3348-BP_infinity" template="class-arena.html" data-type="html" data-ice-options="disableImageResize,link,clickable,txtStyleTarget" --><div class="MenuItemLabel borderbox clearfix grpelem" id="u3348-4" data-muse-uid="U3348" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content --><p>6th SEM</p></div><!-- /m_editable --></a>
+       <!-- /m_editable -->
+      </div>
+      <div class="MenuItemContainer borderbox clearfix colelem" id="u3317"><!-- horizontal box -->
+       <!-- m_editable region-id="editable-static-tag-U3318" template="class-arena.html" data-type="html" data-ice-options="clickable" data-ice-editable="link" -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u3318" href="7th.html" data-href="page:U3438" data-muse-uid="U3318"><!-- horizontal box --><!-- m_editable region-id="editable-static-tag-U3320-BP_infinity" template="class-arena.html" data-type="html" data-ice-options="disableImageResize,link,clickable,txtStyleTarget" --><div class="MenuItemLabel borderbox clearfix grpelem" id="u3320-4" data-muse-uid="U3320" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content --><p>7th SEM</p></div><!-- /m_editable --></a>
+       <!-- /m_editable -->
+      </div>
+      <div class="MenuItemContainer borderbox clearfix colelem" id="u3289"><!-- horizontal box -->
+       <!-- m_editable region-id="editable-static-tag-U3290" template="class-arena.html" data-type="html" data-ice-options="clickable" data-ice-editable="link" -->
+       <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u3290" href="8th.html" data-href="page:U3416" data-muse-uid="U3290"><!-- horizontal box --><!-- m_editable region-id="editable-static-tag-U3292-BP_infinity" template="class-arena.html" data-type="html" data-ice-options="disableImageResize,link,clickable,txtStyleTarget" --><div class="MenuItemLabel borderbox clearfix grpelem" id="u3292-4" data-muse-uid="U3292" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content --><p>8th SEM</p></div><!-- /m_editable --></a>
+       <!-- /m_editable -->
+      </div>
+     </nav>
+     <div class="size_fixed grpelem" id="u5034"><!-- custom html -->
      </div>
-     <div class="MenuItemContainer borderbox clearfix colelem" id="u3148"><!-- horizontal box -->
-      <!-- m_editable region-id="editable-static-tag-U3158" template="class-arena.html" data-type="html" data-ice-options="clickable" data-ice-editable="link" -->
-      <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u3158" href="2nd.html" data-href="page:U3548" data-muse-uid="U3158"><!-- horizontal box --><!-- m_editable region-id="editable-static-tag-U3159-BP_infinity" template="class-arena.html" data-type="html" data-ice-options="disableImageResize,link,clickable,txtStyleTarget" --><div class="MenuItemLabel borderbox clearfix grpelem" id="u3159-4" data-muse-uid="U3159" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content --><p>2nd SEM</p></div><!-- /m_editable --></a>
-      <!-- /m_editable -->
-     </div>
-     <div class="MenuItemContainer borderbox clearfix colelem" id="u3205"><!-- horizontal box -->
-      <!-- m_editable region-id="editable-static-tag-U3208" template="class-arena.html" data-type="html" data-ice-options="clickable" data-ice-editable="link" -->
-      <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u3208" href="subs.html" data-href="page:U4970" data-muse-uid="U3208"><!-- horizontal box --><!-- m_editable region-id="editable-static-tag-U3211-BP_infinity" template="class-arena.html" data-type="html" data-ice-options="disableImageResize,link,clickable,txtStyleTarget" --><div class="MenuItemLabel borderbox clearfix grpelem" id="u3211-4" data-muse-uid="U3211" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content --><p>3rd SEm</p></div><!-- /m_editable --></a>
-      <!-- /m_editable -->
-     </div>
-     <div class="MenuItemContainer borderbox clearfix colelem" id="u3233"><!-- horizontal box -->
-      <!-- m_editable region-id="editable-static-tag-U3236" template="class-arena.html" data-type="html" data-ice-options="clickable" data-ice-editable="link" -->
-      <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u3236" href="4th.html" data-href="page:U3504" data-muse-uid="U3236"><!-- horizontal box --><!-- m_editable region-id="editable-static-tag-U3237-BP_infinity" template="class-arena.html" data-type="html" data-ice-options="disableImageResize,link,clickable,txtStyleTarget" --><div class="MenuItemLabel borderbox clearfix grpelem" id="u3237-4" data-muse-uid="U3237" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content --><p>4th SEM</p></div><!-- /m_editable --></a>
-      <!-- /m_editable -->
-     </div>
-     <div class="MenuItemContainer borderbox clearfix colelem" id="u3261"><!-- horizontal box -->
-      <!-- m_editable region-id="editable-static-tag-U3264" template="class-arena.html" data-type="html" data-ice-options="clickable" data-ice-editable="link" -->
-      <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u3264" href="5th.html" data-href="page:U3482" data-muse-uid="U3264"><!-- horizontal box --><!-- m_editable region-id="editable-static-tag-U3265-BP_infinity" template="class-arena.html" data-type="html" data-ice-options="disableImageResize,link,clickable,txtStyleTarget" --><div class="MenuItemLabel borderbox clearfix grpelem" id="u3265-4" data-muse-uid="U3265" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content --><p>5th SEM</p></div><!-- /m_editable --></a>
-      <!-- /m_editable -->
-     </div>
-     <div class="MenuItemContainer borderbox clearfix colelem" id="u3345"><!-- horizontal box -->
-      <!-- m_editable region-id="editable-static-tag-U3346" template="class-arena.html" data-type="html" data-ice-options="clickable" data-ice-editable="link" -->
-      <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u3346" href="6th.html" data-href="page:U3460" data-muse-uid="U3346"><!-- horizontal box --><!-- m_editable region-id="editable-static-tag-U3348-BP_infinity" template="class-arena.html" data-type="html" data-ice-options="disableImageResize,link,clickable,txtStyleTarget" --><div class="MenuItemLabel borderbox clearfix grpelem" id="u3348-4" data-muse-uid="U3348" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content --><p>6th SEM</p></div><!-- /m_editable --></a>
-      <!-- /m_editable -->
-     </div>
-     <div class="MenuItemContainer borderbox clearfix colelem" id="u3317"><!-- horizontal box -->
-      <!-- m_editable region-id="editable-static-tag-U3318" template="class-arena.html" data-type="html" data-ice-options="clickable" data-ice-editable="link" -->
-      <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u3318" href="7th.html" data-href="page:U3438" data-muse-uid="U3318"><!-- horizontal box --><!-- m_editable region-id="editable-static-tag-U3320-BP_infinity" template="class-arena.html" data-type="html" data-ice-options="disableImageResize,link,clickable,txtStyleTarget" --><div class="MenuItemLabel borderbox clearfix grpelem" id="u3320-4" data-muse-uid="U3320" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content --><p>7th SEM</p></div><!-- /m_editable --></a>
-      <!-- /m_editable -->
-     </div>
-     <div class="MenuItemContainer borderbox clearfix colelem" id="u3289"><!-- horizontal box -->
-      <!-- m_editable region-id="editable-static-tag-U3290" template="class-arena.html" data-type="html" data-ice-options="clickable" data-ice-editable="link" -->
-      <a class="nonblock nontext MenuItem MenuItemWithSubMenu borderbox clearfix grpelem" id="u3290" href="8th.html" data-href="page:U3416" data-muse-uid="U3290"><!-- horizontal box --><!-- m_editable region-id="editable-static-tag-U3292-BP_infinity" template="class-arena.html" data-type="html" data-ice-options="disableImageResize,link,clickable,txtStyleTarget" --><div class="MenuItemLabel borderbox clearfix grpelem" id="u3292-4" data-muse-uid="U3292" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc"><!-- content --><p>8th SEM</p></div><!-- /m_editable --></a>
-      <!-- /m_editable -->
-     </div>
-    </nav>
+    </div>
     <div class="verticalspacer" data-offset-top="486" data-content-above-spacer="486" data-content-below-spacer="21"></div>
     <div class="browser_width colelem" id="u4478-bw">
      <div id="u4478"><!-- simple frame --></div>
     </div>
    </div>
   </div>
+  <!-- JS includes -->
+  <script type="text/javascript">
+   if (document.location.protocol != 'https:') document.write('\x3Cscript src="http://musecdn.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+</script>
+  <script type="text/javascript">
+   window.jQuery || document.write('\x3Cscript src="scripts/jquery-1.8.3.min.js?crc=209076791" type="text/javascript">\x3C/script>');
+</script>
   <!-- Other scripts -->
   <script type="text/javascript">
    // Decide weather to suppress missing file error or not based on preference setting
@@ -137,5 +260,15 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 </script>
   <!-- RequireJS script -->
   <script src="scripts/require.js?crc=85721165" type="text/javascript" async data-main="scripts/museconfig.js?crc=436936948" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
+  
+  <!--HTML Widget code-->
+  	
+		<script>
+		$( "#botonlogin" ).click(function(e) {
+		  if ($("#pass").val() == 'k135') { e.preventDefault(); $('#overlaypass').hide(); $('.formLogin').hide(); }
+		  else  { e.preventDefault(); $('#err').replaceWith("<span id='err'>WRONG PASSWORD, TRY AGAIN</span>"); } 
+		});
+		</script>
+
    </body>
 </html>
