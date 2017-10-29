@@ -18,220 +18,15 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4008092990"/>
   <link rel="stylesheet" type="text/css" href="css/master_b-master.css?crc=166075885"/>
-  <link rel="stylesheet" type="text/css" href="css/imp_-feeds.css?crc=369415405" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/imp_-feeds.css?crc=3894929699" id="pagesheet"/>
   <!-- JS includes -->
   <!--[if lt IE 9]>
   <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
   <![endif]-->
     <!--HTML Widget code-->
   
-<style>
-.device {
-  position: relative;
-  overflow: hidden;
-  width: 100%;
-  padding-top: 70%;
-  margin: 0 auto;
-  border: 2px solid #EBCB63;
-  border-radius: 6px;
-  box-shadow: 10px 10px 0 -2px #202126, 10px 10px 0 rgba(255,255,255, 0.1);
-  -webkit-backface-visibility: hidden;
-          backface-visibility: hidden;
-  -webkit-animation: morphDevice 10s infinite cubic-bezier(1, 0.015, 0.295, 1.225) forwards;
-          animation: morphDevice 10s infinite cubic-bezier(1, 0.015, 0.295, 1.225) forwards;
-}
-.device figcaption {
-  position: absolute;
-  top: 12px;
-  left: 12px;
-  width: 10px;
-  height: 10px;
-  background: rgba(255,255,255, 0.1);
-  box-shadow: 15px 0 0 rgba(255,255,255, 0.1), 30px 0 0 rgba(255,255,255, 0.1);
-  border-radius: 50%;
-  -webkit-animation: morphButtons 10s infinite cubic-bezier(1, 0.015, 0.295, 0.225) forwards;
-          animation: morphButtons 10s infinite cubic-bezier(1, 0.015, 0.295, 0.225) forwards;
-  -webkit-backface-visibility: hidden;
-          backface-visibility: hidden;
-}
+<style>#u5149 {min-height:200px;}</style>
 
-@-webkit-keyframes morphDevice {
-  0%, 15% {
-    width: 100%;
-    padding-top: 70%;
-    margin-top: 0;
-    border-color: #EBCB63;
-    box-shadow: 10px 10px 0 -2px #202126, 10px 10px 0 rgba(255,255,255, 0.1);
-    -webkit-transform: rotate(0);
-            transform: rotate(0);
-  }
-  25%, 40% {
-    width: 70%;
-    padding-top: 55%;
-    margin-top: 7.5%;
-    border-color: #4B8AC4;
-    box-shadow: 9px -9px 0 -2px #202126, 9px -9px 0 rgba(255,255,255, 0.1);
-    -webkit-transform: rotate(90deg);
-            transform: rotate(90deg);
-  }
-  50%, 65% {
-    width: 28%;
-    padding-top: 42%;
-    margin-top: 15%;
-    border-color: #ECE9F2;
-    box-shadow: -8px -8px 0 -2px #202126, -8px -8px 0 rgba(255,255,255, 0.1);
-    -webkit-transform: rotate(180deg);
-            transform: rotate(180deg);
-  }
-  75%, 90% {
-    width: 55%;
-    padding-top: 70%;
-    margin-top: 0;
-    border-color: #57C39F;
-    box-shadow: -9px 9px 0 -2px #202126, -9px 9px 0 rgba(255,255,255, 0.1);
-    -webkit-transform: rotate(270deg);
-            transform: rotate(270deg);
-  }
-  100% {
-    width: 100%;
-    padding-top: 70%;
-    margin-top: 0;
-    border-color: #EBCB63;
-    box-shadow: 10px 10px 0 -2px #202126, 10px 10px 0 rgba(255,255,255, 0.1);
-    -webkit-transform: rotate(360deg);
-            transform: rotate(360deg);
-  }
-}
-
-@keyframes morphDevice {
-  0%, 15% {
-    width: 100%;
-    padding-top: 70%;
-    margin-top: 0;
-    border-color: #EBCB63;
-    box-shadow: 10px 10px 0 -2px #202126, 10px 10px 0 rgba(255,255,255, 0.1);
-    -webkit-transform: rotate(0);
-            transform: rotate(0);
-  }
-  25%, 40% {
-    width: 70%;
-    padding-top: 55%;
-    margin-top: 7.5%;
-    border-color: #4B8AC4;
-    box-shadow: 9px -9px 0 -2px #202126, 9px -9px 0 rgba(255,255,255, 0.1);
-    -webkit-transform: rotate(90deg);
-            transform: rotate(90deg);
-  }
-  50%, 65% {
-    width: 28%;
-    padding-top: 42%;
-    margin-top: 15%;
-    border-color: #ECE9F2;
-    box-shadow: -8px -8px 0 -2px #202126, -8px -8px 0 rgba(255,255,255, 0.1);
-    -webkit-transform: rotate(180deg);
-            transform: rotate(180deg);
-  }
-  75%, 90% {
-    width: 55%;
-    padding-top: 70%;
-    margin-top: 0;
-    border-color: #57C39F;
-    box-shadow: -9px 9px 0 -2px #202126, -9px 9px 0 rgba(255,255,255, 0.1);
-    -webkit-transform: rotate(270deg);
-            transform: rotate(270deg);
-  }
-  100% {
-    width: 100%;
-    padding-top: 70%;
-    margin-top: 0;
-    border-color: #EBCB63;
-    box-shadow: 10px 10px 0 -2px #202126, 10px 10px 0 rgba(255,255,255, 0.1);
-    -webkit-transform: rotate(360deg);
-            transform: rotate(360deg);
-  }
-}
-@-webkit-keyframes morphButtons {
-  0%, 15%, 100% {
-    top: 12px;
-    left: 12px;
-    margin: 0;
-    background: #EBCB63;
-    box-shadow: 15px 0 0 rgba(255,255,255, 0.1), 30px 0 0 rgba(255,255,255, 0.1);
-    -webkit-transform: scale(1);
-            transform: scale(1);
-  }
-  25%, 40% {
-    top: 50%;
-    left: 100%;
-    margin: -5px 0 0 -20px;
-    background: #4B8AC4;
-    box-shadow: 0 0 0 250px rgba(255,255,255, 0.05), 0 0 0 100px transparent;
-    -webkit-transform: scale(0.9);
-            transform: scale(0.9);
-  }
-  50%, 65% {
-    top: 10px;
-    left: 50%;
-    margin: 0 0 0 -5px;
-    background: #ECE9F2;
-    box-shadow: 0 -30px 0 rgba(255,255,255, 0.05), 0 -30px 0 rgba(255,255,255, 0.05);
-    -webkit-transform: scale(0.8);
-            transform: scale(0.8);
-  }
-  75%, 90% {
-    top: 100%;
-    left: 50%;
-    margin: -20px 0 0 -5px;
-    background: #57C39F;
-    box-shadow: 0 0 0 250px rgba(255,255,255, 0.05), 0 0 0 100px transparent;
-    -webkit-transform: scale(0.9);
-            transform: scale(0.9);
-  }
-}
-@keyframes morphButtons {
-  0%, 15%, 100% {
-    top: 12px;
-    left: 12px;
-    margin: 0;
-    background: #EBCB63;
-    box-shadow: 15px 0 0 rgba(255,255,255, 0.1), 30px 0 0 rgba(255,255,255, 0.1);
-    -webkit-transform: scale(1);
-            transform: scale(1);
-  }
-  25%, 40% {
-    top: 50%;
-    left: 100%;
-    margin: -5px 0 0 -20px;
-    background: #4B8AC4;
-    box-shadow: 0 0 0 250px rgba(255,255,255, 0.05), 0 0 0 100px transparent;
-    -webkit-transform: scale(0.9);
-            transform: scale(0.9);
-  }
-  50%, 65% {
-    top: 10px;
-    left: 50%;
-    margin: 0 0 0 -5px;
-    background: #ECE9F2;
-    box-shadow: 0 -30px 0 rgba(255,255,255, 0.05), 0 -30px 0 rgba(255,255,255, 0.05);
-    -webkit-transform: scale(0.8);
-            transform: scale(0.8);
-  }
-  75%, 90% {
-    top: 100%;
-    left: 50%;
-    margin: -20px 0 0 -5px;
-    background: #57C39F;
-    box-shadow: 0 0 0 250px rgba(255,255,255, 0.05), 0 0 0 100px transparent;
-    -webkit-transform: scale(0.9);
-            transform: scale(0.9);
-  }
-}
-
-
-</style>
-
-            <script src="https://www.powr.io/powr.js" powr-token="muse_794cc08a_1509290741" external-type="muse" powr-load="sync"> </script>
-        
  </head>
  <body>
 
@@ -266,23 +61,14 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <div class="browser_width colelem" id="u2994-bw">
      <div id="u2994"><!-- simple frame --></div>
     </div>
-    <div class="clearfix colelem" id="pu5061"><!-- group -->
-     <div class="size_fixed grpelem" id="u5061"><!-- custom html -->
+    <div class="browser_width colelem" id="u5149-bw">
+     <div class="size_browser_width" id="u5149"><!-- custom html -->
       
-<!-- This Adobe Muse widget was created by the team at MuseFree.com -->
-  <figure class="device">
-    <figcaption class="ir">
-    </figcaption>
-  </figure>
+<div id="disqus_thread"></div>
 
      </div>
-     <div class="size_fixed grpelem" id="u5056"><!-- custom html -->
-      
-            <div class="powr-comments" label="hello"></div>
-        
-     </div>
     </div>
-    <div class="verticalspacer" data-offset-top="282" data-content-above-spacer="282" data-content-below-spacer="218"></div>
+    <div class="verticalspacer" data-offset-top="606" data-content-above-spacer="605" data-content-below-spacer="21"></div>
     <div class="browser_width colelem" id="u4478-bw">
      <div id="u4478"><!-- simple frame --></div>
     </div>
@@ -324,7 +110,18 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
   
   <!--HTML Widget code-->
   
+<script>
+    var disqus_config = function () {
+		shortname = 'k135';
+        this.page.url = 'http://k135.000webhostapp.com/imp.-feeds.html';
+    };
+    (function() {
+        var d = document, s = d.createElement('script');
+        s.src = '//k135.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
 
-		
    </body>
 </html>
