@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="k135.000webhostapp.com" resolutions="1x" timestamp="1509304753344">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="k135.000webhostapp.com" resolutions="1x" timestamp="1509304888469">
   <folder name="css">
     <file name="site_global.css" crc="4008092990"/>
     <file name="master_b-master.css" crc="166075885" ref="ee:7th:ei:class-arena:cr:6th:imp.-feeds:5th:about:4th:contact-me:aec:1st:de:2nd:subs:8th:na:3rd"/>
@@ -9,7 +9,7 @@
     <file name="class-arena.css" crc="3917554716" ref="class-arena"/>
     <file name="cr.css" crc="4019094059" ref="cr"/>
     <file name="6th.css" crc="4019094059" ref="6th"/>
-    <file name="imp_-feeds.css" crc="302239283" ref="imp.-feeds"/>
+    <file name="imp_-feeds.css" crc="3794990693" ref="imp.-feeds"/>
     <file name="index.css" crc="377375284" ref="index"/>
     <file name="5th.css" crc="4019094059" ref="5th"/>
     <file name="about.css" crc="4019094059" ref="about"/>
@@ -42,22 +42,22 @@
     <file name="u2433-9.png" crc="394795482" ref="index"/>
     <file name="kns.gif" crc="246227848" seo="true" ref="index:class-arena:imp.-feeds:about:contact-me:1st:8th:7th:6th:5th:4th:3rd:2nd:aec:de:na:ei:ee:cr:subs">
       <caption webpage="na" alt=""/>
-      <caption webpage="about" alt=""/>
+      <caption webpage="subs" alt=""/>
       <caption webpage="2nd" alt=""/>
       <caption webpage="ee" alt=""/>
       <caption webpage="5th" alt=""/>
-      <caption webpage="8th" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="de" alt=""/>
       <caption webpage="3rd" alt=""/>
+      <caption webpage="contact-me" alt=""/>
       <caption webpage="aec" alt=""/>
       <caption webpage="1st" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="imp.-feeds" alt=""/>
+      <caption webpage="ei" alt=""/>
+      <caption webpage="about" alt=""/>
       <caption webpage="6th" alt=""/>
       <caption webpage="cr" alt=""/>
-      <caption webpage="ei" alt=""/>
-      <caption webpage="subs" alt=""/>
-      <caption webpage="contact-me" alt=""/>
+      <caption webpage="imp.-feeds" alt=""/>
+      <caption webpage="8th" alt=""/>
       <caption webpage="class-arena" alt=""/>
       <caption webpage="4th" alt=""/>
       <caption webpage="7th" alt=""/>
@@ -119,7 +119,7 @@
   </folder>
   <file name="index.html" crc="4176653308" seo="true" mt="1509294549033" redirect="true"/>
   <file name="class-arena.html" crc="95678440" seo="true" mt="1509295551611" redirect="true"/>
-  <file name="imp.-feeds.html" crc="3886648036" seo="true" mt="1509304710081" redirect="true"/>
+  <file name="imp.-feeds.html" crc="229456807" seo="true" mt="1509304858025" redirect="true"/>
   <file name="about.html" crc="11420268" seo="true" mt="1509291319043" redirect="true"/>
   <file name="contact-me.html" crc="399201052" seo="true" mt="1509291319043" redirect="true"/>
   <file name="1st.html" crc="259602723" seo="true" mt="1509291454878" redirect="true"/>
