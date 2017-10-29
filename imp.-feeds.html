@@ -16,15 +16,220 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   
   <title>IMP. FEEDS</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4160808239"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4008092990"/>
   <link rel="stylesheet" type="text/css" href="css/master_b-master.css?crc=166075885"/>
-  <link rel="stylesheet" type="text/css" href="css/imp_-feeds.css?crc=3986667709" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/imp_-feeds.css?crc=369415405" id="pagesheet"/>
   <!-- JS includes -->
   <!--[if lt IE 9]>
   <script src="scripts/html5shiv.js?crc=4241844378" type="text/javascript"></script>
   <![endif]-->
     <!--HTML Widget code-->
   
+<style>
+.device {
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  padding-top: 70%;
+  margin: 0 auto;
+  border: 2px solid #EBCB63;
+  border-radius: 6px;
+  box-shadow: 10px 10px 0 -2px #202126, 10px 10px 0 rgba(255,255,255, 0.1);
+  -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
+  -webkit-animation: morphDevice 10s infinite cubic-bezier(1, 0.015, 0.295, 1.225) forwards;
+          animation: morphDevice 10s infinite cubic-bezier(1, 0.015, 0.295, 1.225) forwards;
+}
+.device figcaption {
+  position: absolute;
+  top: 12px;
+  left: 12px;
+  width: 10px;
+  height: 10px;
+  background: rgba(255,255,255, 0.1);
+  box-shadow: 15px 0 0 rgba(255,255,255, 0.1), 30px 0 0 rgba(255,255,255, 0.1);
+  border-radius: 50%;
+  -webkit-animation: morphButtons 10s infinite cubic-bezier(1, 0.015, 0.295, 0.225) forwards;
+          animation: morphButtons 10s infinite cubic-bezier(1, 0.015, 0.295, 0.225) forwards;
+  -webkit-backface-visibility: hidden;
+          backface-visibility: hidden;
+}
+
+@-webkit-keyframes morphDevice {
+  0%, 15% {
+    width: 100%;
+    padding-top: 70%;
+    margin-top: 0;
+    border-color: #EBCB63;
+    box-shadow: 10px 10px 0 -2px #202126, 10px 10px 0 rgba(255,255,255, 0.1);
+    -webkit-transform: rotate(0);
+            transform: rotate(0);
+  }
+  25%, 40% {
+    width: 70%;
+    padding-top: 55%;
+    margin-top: 7.5%;
+    border-color: #4B8AC4;
+    box-shadow: 9px -9px 0 -2px #202126, 9px -9px 0 rgba(255,255,255, 0.1);
+    -webkit-transform: rotate(90deg);
+            transform: rotate(90deg);
+  }
+  50%, 65% {
+    width: 28%;
+    padding-top: 42%;
+    margin-top: 15%;
+    border-color: #ECE9F2;
+    box-shadow: -8px -8px 0 -2px #202126, -8px -8px 0 rgba(255,255,255, 0.1);
+    -webkit-transform: rotate(180deg);
+            transform: rotate(180deg);
+  }
+  75%, 90% {
+    width: 55%;
+    padding-top: 70%;
+    margin-top: 0;
+    border-color: #57C39F;
+    box-shadow: -9px 9px 0 -2px #202126, -9px 9px 0 rgba(255,255,255, 0.1);
+    -webkit-transform: rotate(270deg);
+            transform: rotate(270deg);
+  }
+  100% {
+    width: 100%;
+    padding-top: 70%;
+    margin-top: 0;
+    border-color: #EBCB63;
+    box-shadow: 10px 10px 0 -2px #202126, 10px 10px 0 rgba(255,255,255, 0.1);
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+
+@keyframes morphDevice {
+  0%, 15% {
+    width: 100%;
+    padding-top: 70%;
+    margin-top: 0;
+    border-color: #EBCB63;
+    box-shadow: 10px 10px 0 -2px #202126, 10px 10px 0 rgba(255,255,255, 0.1);
+    -webkit-transform: rotate(0);
+            transform: rotate(0);
+  }
+  25%, 40% {
+    width: 70%;
+    padding-top: 55%;
+    margin-top: 7.5%;
+    border-color: #4B8AC4;
+    box-shadow: 9px -9px 0 -2px #202126, 9px -9px 0 rgba(255,255,255, 0.1);
+    -webkit-transform: rotate(90deg);
+            transform: rotate(90deg);
+  }
+  50%, 65% {
+    width: 28%;
+    padding-top: 42%;
+    margin-top: 15%;
+    border-color: #ECE9F2;
+    box-shadow: -8px -8px 0 -2px #202126, -8px -8px 0 rgba(255,255,255, 0.1);
+    -webkit-transform: rotate(180deg);
+            transform: rotate(180deg);
+  }
+  75%, 90% {
+    width: 55%;
+    padding-top: 70%;
+    margin-top: 0;
+    border-color: #57C39F;
+    box-shadow: -9px 9px 0 -2px #202126, -9px 9px 0 rgba(255,255,255, 0.1);
+    -webkit-transform: rotate(270deg);
+            transform: rotate(270deg);
+  }
+  100% {
+    width: 100%;
+    padding-top: 70%;
+    margin-top: 0;
+    border-color: #EBCB63;
+    box-shadow: 10px 10px 0 -2px #202126, 10px 10px 0 rgba(255,255,255, 0.1);
+    -webkit-transform: rotate(360deg);
+            transform: rotate(360deg);
+  }
+}
+@-webkit-keyframes morphButtons {
+  0%, 15%, 100% {
+    top: 12px;
+    left: 12px;
+    margin: 0;
+    background: #EBCB63;
+    box-shadow: 15px 0 0 rgba(255,255,255, 0.1), 30px 0 0 rgba(255,255,255, 0.1);
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  25%, 40% {
+    top: 50%;
+    left: 100%;
+    margin: -5px 0 0 -20px;
+    background: #4B8AC4;
+    box-shadow: 0 0 0 250px rgba(255,255,255, 0.05), 0 0 0 100px transparent;
+    -webkit-transform: scale(0.9);
+            transform: scale(0.9);
+  }
+  50%, 65% {
+    top: 10px;
+    left: 50%;
+    margin: 0 0 0 -5px;
+    background: #ECE9F2;
+    box-shadow: 0 -30px 0 rgba(255,255,255, 0.05), 0 -30px 0 rgba(255,255,255, 0.05);
+    -webkit-transform: scale(0.8);
+            transform: scale(0.8);
+  }
+  75%, 90% {
+    top: 100%;
+    left: 50%;
+    margin: -20px 0 0 -5px;
+    background: #57C39F;
+    box-shadow: 0 0 0 250px rgba(255,255,255, 0.05), 0 0 0 100px transparent;
+    -webkit-transform: scale(0.9);
+            transform: scale(0.9);
+  }
+}
+@keyframes morphButtons {
+  0%, 15%, 100% {
+    top: 12px;
+    left: 12px;
+    margin: 0;
+    background: #EBCB63;
+    box-shadow: 15px 0 0 rgba(255,255,255, 0.1), 30px 0 0 rgba(255,255,255, 0.1);
+    -webkit-transform: scale(1);
+            transform: scale(1);
+  }
+  25%, 40% {
+    top: 50%;
+    left: 100%;
+    margin: -5px 0 0 -20px;
+    background: #4B8AC4;
+    box-shadow: 0 0 0 250px rgba(255,255,255, 0.05), 0 0 0 100px transparent;
+    -webkit-transform: scale(0.9);
+            transform: scale(0.9);
+  }
+  50%, 65% {
+    top: 10px;
+    left: 50%;
+    margin: 0 0 0 -5px;
+    background: #ECE9F2;
+    box-shadow: 0 -30px 0 rgba(255,255,255, 0.05), 0 -30px 0 rgba(255,255,255, 0.05);
+    -webkit-transform: scale(0.8);
+            transform: scale(0.8);
+  }
+  75%, 90% {
+    top: 100%;
+    left: 50%;
+    margin: -20px 0 0 -5px;
+    background: #57C39F;
+    box-shadow: 0 0 0 250px rgba(255,255,255, 0.05), 0 0 0 100px transparent;
+    -webkit-transform: scale(0.9);
+            transform: scale(0.9);
+  }
+}
+
+
+</style>
+
             <script src="https://www.powr.io/powr.js" powr-token="muse_794cc08a_1509290741" external-type="muse" powr-load="sync"> </script>
         
  </head>
@@ -61,10 +266,21 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     <div class="browser_width colelem" id="u2994-bw">
      <div id="u2994"><!-- simple frame --></div>
     </div>
-    <div class="size_fixed colelem" id="u5056"><!-- custom html -->
-     
+    <div class="clearfix colelem" id="pu5061"><!-- group -->
+     <div class="size_fixed grpelem" id="u5061"><!-- custom html -->
+      
+<!-- This Adobe Muse widget was created by the team at MuseFree.com -->
+  <figure class="device">
+    <figcaption class="ir">
+    </figcaption>
+  </figure>
+
+     </div>
+     <div class="size_fixed grpelem" id="u5056"><!-- custom html -->
+      
             <div class="powr-comments" label="hello"></div>
         
+     </div>
     </div>
     <div class="verticalspacer" data-offset-top="282" data-content-above-spacer="282" data-content-below-spacer="218"></div>
     <div class="browser_width colelem" id="u4478-bw">
@@ -72,6 +288,13 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     </div>
    </div>
   </div>
+  <!-- JS includes -->
+  <script type="text/javascript">
+   if (document.location.protocol != 'https:') document.write('\x3Cscript src="http://musecdn.businesscatalyst.com/scripts/4.0/jquery-1.8.3.min.js" type="text/javascript">\x3C/script>');
+</script>
+  <script type="text/javascript">
+   window.jQuery || document.write('\x3Cscript src="scripts/jquery-1.8.3.min.js?crc=209076791" type="text/javascript">\x3C/script>');
+</script>
   <!-- Other scripts -->
   <script type="text/javascript">
    // Decide weather to suppress missing file error or not based on preference setting
@@ -98,5 +321,10 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
 </script>
   <!-- RequireJS script -->
   <script src="scripts/require.js?crc=85721165" type="text/javascript" async data-main="scripts/museconfig.js?crc=436936948" onload="if (requirejs) requirejs.onError = function(requireType, requireModule) { if (requireType && requireType.toString && requireType.toString().indexOf && 0 <= requireType.toString().indexOf('#scripterror')) window.Muse.assets.check(); }" onerror="window.Muse.assets.check();"></script>
+  
+  <!--HTML Widget code-->
+  
+
+		
    </body>
 </html>
