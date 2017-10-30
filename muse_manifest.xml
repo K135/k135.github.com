@@ -1,28 +1,28 @@
-<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="k135.000webhostapp.com" resolutions="1x" timestamp="1509307579802">
+<manifest alg="2" build="2017.0.3.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="k135.000webhostapp.com" resolutions="1x" timestamp="1509328796952">
   <folder name="css">
     <file name="site_global.css" crc="4008092990"/>
-    <file name="master_b-master.css" crc="3877528135" ref="ee:7th:ei:class-arena:cr:6th:imp.-feeds:5th:about:4th:contact-me:aec:1st:de:2nd:subs:8th:na:3rd"/>
+    <file name="master_b-master.css" crc="4213578597" ref="ee:7th:ei:class-arena:cr:6th:imp.-feeds:5th:about:4th:contact-me:aec:1st:de:2nd:subs:8th:na:3rd"/>
     <file name="master_a-master.css" crc="3871578852" ref="index"/>
-    <file name="ee.css" crc="59881075" ref="ee"/>
-    <file name="7th.css" crc="59881075" ref="7th"/>
-    <file name="ei.css" crc="59881075" ref="ei"/>
-    <file name="class-arena.css" crc="4160225152" ref="class-arena"/>
-    <file name="cr.css" crc="59881075" ref="cr"/>
-    <file name="6th.css" crc="59881075" ref="6th"/>
-    <file name="imp_-feeds.css" crc="3839877884" ref="imp.-feeds"/>
-    <file name="index.css" crc="203110370" ref="index"/>
-    <file name="5th.css" crc="59881075" ref="5th"/>
-    <file name="about.css" crc="59881075" ref="about"/>
-    <file name="4th.css" crc="59881075" ref="4th"/>
-    <file name="contact-me.css" crc="59881075" ref="contact-me"/>
-    <file name="aec.css" crc="4171615521" ref="aec"/>
-    <file name="1st.css" crc="59881075" ref="1st"/>
-    <file name="de.css" crc="59881075" ref="de"/>
-    <file name="2nd.css" crc="59881075" ref="2nd"/>
-    <file name="subs.css" crc="3776032901" ref="subs"/>
-    <file name="8th.css" crc="59881075" ref="8th"/>
-    <file name="na.css" crc="59881075" ref="na"/>
-    <file name="3rd.css" crc="4107083009" ref="3rd"/>
+    <file name="ee.css" crc="4019094059" ref="ee"/>
+    <file name="7th.css" crc="4019094059" ref="7th"/>
+    <file name="ei.css" crc="4019094059" ref="ei"/>
+    <file name="class-arena.css" crc="488116270" ref="class-arena"/>
+    <file name="cr.css" crc="4019094059" ref="cr"/>
+    <file name="6th.css" crc="4019094059" ref="6th"/>
+    <file name="imp_-feeds.css" crc="4099931945" ref="imp.-feeds"/>
+    <file name="index.css" crc="3844908974" ref="index"/>
+    <file name="5th.css" crc="4019094059" ref="5th"/>
+    <file name="about.css" crc="4019094059" ref="about"/>
+    <file name="4th.css" crc="4019094059" ref="4th"/>
+    <file name="contact-me.css" crc="4019094059" ref="contact-me"/>
+    <file name="aec.css" crc="319294041" ref="aec"/>
+    <file name="1st.css" crc="4019094059" ref="1st"/>
+    <file name="de.css" crc="4019094059" ref="de"/>
+    <file name="2nd.css" crc="4019094059" ref="2nd"/>
+    <file name="subs.css" crc="60865866" ref="subs"/>
+    <file name="8th.css" crc="4019094059" ref="8th"/>
+    <file name="na.css" crc="4019094059" ref="na"/>
+    <file name="3rd.css" crc="420627839" ref="3rd"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:class-arena:imp.-feeds:about:contact-me:1st:8th:7th:6th:5th:4th:3rd:2nd:aec:de:na:ei:ee:cr:subs"/>
@@ -41,31 +41,31 @@
   <folder name="images">
     <file name="u2433-9.png" crc="394795482" ref="index"/>
     <file name="kns.gif" crc="246227848" seo="true" ref="index:class-arena:imp.-feeds:about:contact-me:1st:8th:7th:6th:5th:4th:3rd:2nd:aec:de:na:ei:ee:cr:subs">
-      <caption webpage="na" alt=""/>
-      <caption webpage="imp.-feeds" alt=""/>
+      <caption webpage="1st" alt=""/>
+      <caption webpage="class-arena" alt=""/>
+      <caption webpage="cr" alt=""/>
       <caption webpage="2nd" alt=""/>
+      <caption webpage="8th" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="6th" alt=""/>
       <caption webpage="ee" alt=""/>
+      <caption webpage="3rd" alt=""/>
       <caption webpage="5th" alt=""/>
       <caption webpage="7th" alt=""/>
-      <caption webpage="subs" alt=""/>
       <caption webpage="de" alt=""/>
-      <caption webpage="3rd" alt=""/>
-      <caption webpage="aec" alt=""/>
-      <caption webpage="1st" alt=""/>
+      <caption webpage="subs" alt=""/>
       <caption webpage="ei" alt=""/>
-      <caption webpage="about" alt=""/>
-      <caption webpage="6th" alt=""/>
-      <caption webpage="cr" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="contact-me" alt=""/>
-      <caption webpage="class-arena" alt=""/>
       <caption webpage="4th" alt=""/>
-      <caption webpage="8th" alt=""/>
+      <caption webpage="contact-me" alt=""/>
+      <caption webpage="aec" alt=""/>
+      <caption webpage="imp.-feeds" alt=""/>
+      <caption webpage="na" alt=""/>
     </file>
     <file name="10498264_751851691547862_2905110643826272024_o.jpg" crc="3992993737" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:imp.-feeds"/>
+    <file name="blank.gif" crc="4208392903" ref="index:class-arena"/>
     <file name="14753214_1777865865820693_8526560710086482111_o.jpg" crc="67327751" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -117,24 +117,24 @@
     <file name="u4983-4.png" crc="3905454638" ref="subs"/>
     <file name="u4986-4.png" crc="3946977378" ref="subs"/>
   </folder>
-  <file name="index.html" crc="4005427047" seo="true" mt="1509307227478" redirect="true"/>
-  <file name="class-arena.html" crc="332679517" seo="true" mt="1509306955633" redirect="true"/>
-  <file name="imp.-feeds.html" crc="3996654373" seo="true" mt="1509307555965" redirect="true"/>
-  <file name="about.html" crc="4151953476" seo="true" mt="1509306955633" redirect="true"/>
-  <file name="contact-me.html" crc="78182919" seo="true" mt="1509306955633" redirect="true"/>
-  <file name="1st.html" crc="326709129" seo="true" mt="1509306955633" redirect="true"/>
-  <file name="8th.html" crc="3932995344" seo="true" mt="1509306955633" redirect="true"/>
-  <file name="7th.html" crc="318353006" seo="true" mt="1509306955633" redirect="true"/>
-  <file name="6th.html" crc="3773869098" seo="true" mt="1509306955633" redirect="true"/>
-  <file name="5th.html" crc="4142639846" seo="true" mt="1509306955633" redirect="true"/>
-  <file name="4th.html" crc="81963170" seo="true" mt="1509306955633" redirect="true"/>
-  <file name="3rd.html" crc="528704536" seo="true" mt="1509306955633" redirect="true"/>
-  <file name="2nd.html" crc="173741697" seo="true" mt="1509306955633" redirect="true"/>
-  <file name="aec.html" crc="377339046" seo="true" mt="1509306955633" redirect="true"/>
-  <file name="de.html" crc="4080894527" seo="true" mt="1509306955633" redirect="true"/>
-  <file name="na.html" crc="4018231674" seo="true" mt="1509306955633" redirect="true"/>
-  <file name="ei.html" crc="370315132" seo="true" mt="1509306955633" redirect="true"/>
-  <file name="ee.html" crc="188883662" seo="true" mt="1509306955633" redirect="true"/>
-  <file name="cr.html" crc="204453939" seo="true" mt="1509306955633" redirect="true"/>
-  <file name="subs.html" crc="3919534889" seo="true" mt="1509306955633" redirect="true"/>
+  <file name="index.html" crc="3874476538" seo="true" mt="1509294549033" redirect="true"/>
+  <file name="class-arena.html" crc="491148466" seo="true" mt="1509328760499" redirect="true"/>
+  <file name="imp.-feeds.html" crc="3809594036" seo="true" mt="1509328735213" redirect="true"/>
+  <file name="about.html" crc="3911470960" seo="true" mt="1509291319043" redirect="true"/>
+  <file name="contact-me.html" crc="440845292" seo="true" mt="1509291319043" redirect="true"/>
+  <file name="1st.html" crc="499368590" seo="true" mt="1509291454878" redirect="true"/>
+  <file name="8th.html" crc="3816255701" seo="true" mt="1509291319043" redirect="true"/>
+  <file name="7th.html" crc="84351990" seo="true" mt="1509291319043" redirect="true"/>
+  <file name="6th.html" crc="20189232" seo="true" mt="1509291319043" redirect="true"/>
+  <file name="5th.html" crc="224463994" seo="true" mt="1509291319043" redirect="true"/>
+  <file name="4th.html" crc="156370876" seo="true" mt="1509291319043" redirect="true"/>
+  <file name="3rd.html" crc="3802270686" seo="true" mt="1509291319116" redirect="true"/>
+  <file name="2nd.html" crc="4168260401" seo="true" mt="1509291319043" redirect="true"/>
+  <file name="aec.html" crc="3772919260" seo="true" mt="1509291319043" redirect="true"/>
+  <file name="de.html" crc="3960850014" seo="true" mt="1509291319043" redirect="true"/>
+  <file name="na.html" crc="197989006" seo="true" mt="1509291319043" redirect="true"/>
+  <file name="ei.html" crc="240030119" seo="true" mt="1509291319043" redirect="true"/>
+  <file name="ee.html" crc="4040175704" seo="true" mt="1509291319043" redirect="true"/>
+  <file name="cr.html" crc="3956178944" seo="true" mt="1509291319043" redirect="true"/>
+  <file name="subs.html" crc="3923986382" seo="true" mt="1509291319043" redirect="true"/>
 </manifest>
