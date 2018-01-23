@@ -17,32 +17,62 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <title>NEWS</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4058872297"/>
-  <link rel="stylesheet" type="text/css" href="css/news.css?crc=4199637953" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/news.css?crc=4201555005" id="pagesheet"/>
     <!--custom head HTML-->
   <META HTTP-EQUIV="refresh"CONTENT="60">
  </head>
  <body>
 
   <div class="clearfix borderbox" id="page"><!-- column -->
+   <div class="colelem" id="u53615"><!-- custom html -->
+    
+	<html>
+		<head>
+    		<title>load</title>
+		<style>
+		.reload {
+	border-radius: 0px 25px 0px 25px;
+	width: 75px;
+	height:25px;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	background: #ffc107;
+	color: #fff;
+}
+.reload:hover {
+	background: #ff0a6d;
+}
+		</style>
+	</head>
+		<body>
+			<button class="reload" onclick="MyFunc()">Reload</button>
+		<script>
+			function MyFunc() {
+				window.location.reload(true);
+			}
+		</script>
+	</body>
+</html>
+   </div>
    <img class="colelem" id="u23059-4" alt="Recent Feeds" width="280" height="47" src="images/u23059-4.png?crc=171648032"/><!-- rasterized frame -->
    <div class="browser_width colelem" id="u23063-bw">
     <div id="u23063"><!-- simple frame --></div>
    </div>
-   <div class="clearfix colelem" id="u53222-12" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
+   <div class="clearfix colelem" id="u53222-16" data-muse-temp-textContainer-sizePolicy="true" data-muse-temp-textContainer-pinning="true"><!-- content -->
     <p>test feed</p>
     <p>feed2</p>
     <p>feed3</p>
     <p>feed5</p>
     <p>feed6</p>
+    <p>9</p>
+    <p>10</p>
    </div>
    <img class="colelem" id="u23066-4" alt="Featured News" width="280" height="50" src="images/u23066-4.png?crc=65642048"/><!-- rasterized frame -->
    <div class="browser_width colelem" id="u23069-bw">
     <div id="u23069"><!-- simple frame --></div>
    </div>
-   <div class="colelem" id="u53608"><!-- custom html -->
-    <input type="button" value="Refresh Page" onClick="window.location.reload()">
-   </div>
-   <div class="verticalspacer" data-offset-top="426" data-content-above-spacer="426" data-content-below-spacer="74" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   <div class="verticalspacer" data-offset-top="469" data-content-above-spacer="403" data-content-below-spacer="96" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
   </div>
   <!-- Other scripts -->
   <script type="text/javascript">
