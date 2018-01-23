@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="k135.github.io" resolutions="1x" timestamp="1516704094862">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="k135.github.io" resolutions="1x" timestamp="1516705299872">
   <folder name="css">
     <file name="site_global.css" crc="3947600981"/>
-    <file name="master_c-master.css" crc="205232038" ref="civil:impotant-cnts:maths:ele:eme:moti-vds:results:phy:cc:caed:eln:pcd:chem:aec:tt:cs:mec:is:ec:civ:cs34:cs78:cs56:ec34:ec78:ec56:mc34:mc76:mc56:cs12:ec12:mc12:is12:is78:is34:is56:cv78:cv56:cv34:cv12:e-store:feed:exm-tricks:home:semister:1st2nd:3rd:pic-galary:lib"/>
-    <file name="nomq_preview_master_c-master.css" crc="3824530138" ref="civil:impotant-cnts:maths:ele:eme:moti-vds:results:phy:cc:caed:eln:pcd:chem:aec:tt:cs:mec:is:ec:civ:cs34:cs78:cs56:ec34:ec78:ec56:mc34:mc76:mc56:cs12:ec12:mc12:is12:is78:is34:is56:cv78:cv56:cv34:cv12:e-store:feed:exm-tricks:home:semister:1st2nd:3rd:pic-galary:lib"/>
+    <file name="master_c-master.css" crc="205232038" ref="civil:impotant-cnts:maths:ele:eme:moti-vds:results:phy:cc:caed:eln:pcd:chem:aec:tt:cs:mec:is:ec:civ:cs34:cs78:cs56:ec34:ec78:ec56:mc34:mc76:mc56:cs12:ec12:mc12:is12:is78:is34:is56:cv78:cv56:cv34:cv12:e-store:feed:exm-tricks:semister:1st2nd:3rd:pic-galary:lib"/>
+    <file name="nomq_preview_master_c-master.css" crc="3824530138" ref="civil:impotant-cnts:maths:ele:eme:moti-vds:results:phy:cc:caed:eln:pcd:chem:aec:tt:cs:mec:is:ec:civ:cs34:cs78:cs56:ec34:ec78:ec56:mc34:mc76:mc56:cs12:ec12:mc12:is12:is78:is34:is56:cv78:cv56:cv34:cv12:e-store:feed:exm-tricks:semister:1st2nd:3rd:pic-galary:lib"/>
     <file name="master_d-master.css" crc="243252737" ref="cs34:cs78:cs56:ec34:ec78:ec56:mc34:mc76:mc56:cs12:ec12:mc12:is12:is78:is34:is56:cv78:cv56:cv34:cv12"/>
     <file name="nomq_preview_master_d-master.css" crc="264813627" ref="cs34:cs78:cs56:ec34:ec78:ec56:mc34:mc76:mc56:cs12:ec12:mc12:is12:is78:is34:is56:cv78:cv56:cv34:cv12"/>
     <file name="6th.css" crc="262780114" ref="6th"/>
@@ -284,8 +284,8 @@
     <file name="untitled-213.css" crc="262780114" ref="untitled-213"/>
     <file name="untitled-215.css" crc="262780114" ref="untitled-215"/>
     <file name="untitled-263.css" crc="262780114" ref="untitled-263"/>
-    <file name="home.css" crc="4021863856" ref="home"/>
-    <file name="nomq_home.css" crc="107561724" ref="home"/>
+    <file name="home.css" crc="4153071030" ref="home"/>
+    <file name="nomq_home.css" crc="4225558902" ref="home"/>
     <file name="untitled-264.css" crc="262780114" ref="untitled-264"/>
     <file name="index.css" crc="8165337" ref="index"/>
     <file name="nomq_index.css" crc="513124149" ref="index"/>
@@ -327,18 +327,18 @@
     <file name="whatinput.js" crc="86476730" ref="home:index:class-arena:news:semister:1st2nd:3rd:4th:8th:7th:6th:5th:civil:7mec:maths:ele:eme:3mech:3civil:3cs:3ec:4mech:4civil:4cs:4ec:5mec:5cv:5is:5cs:5ec:6mec:6cv:6is:6cs:6ec:7cv:7is:7cs:7ec:8mec:8cv:8is:8cs:8ec:pc:phy:cc:caed:eln:pcd:chem:aec:qp3ec:em:ei:na:de:dms:usp:co:dsc:ade:qp3cs:som:qp3cv:bmc:eg:bs:fm:bdt:qp3mec:mcw:ms:mom:mp:qp4ec:lic:psc:ss:csy:se:qp4cs:dc:oops:mm:daa:ads:qp4cv:as:bgte:ct:ah:adt:qp4mc:kom:mmm:mto:fme:tt:cs:is:mec:ec:civ:cs34:cs78:cs56:ec34:ec78:ec56:mc34:mc76:mc56:cs12:ec12:mc12:is12:is78:is56:is34:cv78:cv56:cv34:cv12:360:feed:exm-tricks:pic-galary:lib:impotant-cnts:all-ap:cnt-me:add:moti-vds:sngs:movies:results:more-news:untitled-153:untitled-154:untitled-155:untitled-156:untitled-157:untitled-158:untitled-159:untitled-160:untitled-161:untitled-162:untitled-163:untitled-164:untitled-152:untitled-165:untitled-166:untitled-167:untitled-168:untitled-169:untitled-170:untitled-171:untitled-172:untitled-173:untitled-174:untitled-175:untitled-176:untitled-177:untitled-178:untitled-179:untitled-180:untitled-181:untitled-182:untitled-183:untitled-184:untitled-185:untitled-186:untitled-187:untitled-188:untitled-189:untitled-190:untitled-191:untitled-192:untitled-193:untitled-194:untitled-195:untitled-196:untitled-197:untitled-198:untitled-199:untitled-200:untitled-201:untitled-202:untitled-203:untitled-204:untitled-205:untitled-206:untitled-207:untitled-208:untitled-209:untitled-210:untitled-211:untitled-212:untitled-213:untitled-214:untitled-215:untitled-216:untitled-217:untitled-218:untitled-219:untitled-220:untitled-221:untitled-222:untitled-223:untitled-224:untitled-225:untitled-226:untitled-227:untitled-228:untitled-229:untitled-230:untitled-231:untitled-232:untitled-233:untitled-234:untitled-235:untitled-236:untitled-237:untitled-238:untitled-239:untitled-240:untitled-241:untitled-242:untitled-243:untitled-244:untitled-245:untitled-246:untitled-247:untitled-248:untitled-249:untitled-250:untitled-251:untitled-252:untitled-253:untitled-254:untitled-255:untitled-256:untitled-257:untitled-258:untitled-259:untitled-260:untitled-261:untitled-262:untitled-263:untitled-264:untitled-265:untitled-266:untitled-267:untitled-268:untitled-269:untitled-270:untitled-271:untitled-272:e-store:fb-cmnt:untitled-275"/>
     <file name="museconfig.js" crc="380897831" ref="home:index:class-arena:news:semister:1st2nd:3rd:4th:8th:7th:6th:5th:civil:7mec:maths:ele:eme:3mech:3civil:3cs:3ec:4mech:4civil:4cs:4ec:5mec:5cv:5is:5cs:5ec:6mec:6cv:6is:6cs:6ec:7cv:7is:7cs:7ec:8mec:8cv:8is:8cs:8ec:pc:phy:cc:caed:eln:pcd:chem:aec:qp3ec:em:ei:na:de:dms:usp:co:dsc:ade:qp3cs:som:qp3cv:bmc:eg:bs:fm:bdt:qp3mec:mcw:ms:mom:mp:qp4ec:lic:psc:ss:csy:se:qp4cs:dc:oops:mm:daa:ads:qp4cv:as:bgte:ct:ah:adt:qp4mc:kom:mmm:mto:fme:tt:cs:is:mec:ec:civ:cs34:cs78:cs56:ec34:ec78:ec56:mc34:mc76:mc56:cs12:ec12:mc12:is12:is78:is56:is34:cv78:cv56:cv34:cv12:360:feed:exm-tricks:pic-galary:lib:impotant-cnts:all-ap:cnt-me:add:moti-vds:sngs:movies:results:more-news:untitled-153:untitled-154:untitled-155:untitled-156:untitled-157:untitled-158:untitled-159:untitled-160:untitled-161:untitled-162:untitled-163:untitled-164:untitled-152:untitled-165:untitled-166:untitled-167:untitled-168:untitled-169:untitled-170:untitled-171:untitled-172:untitled-173:untitled-174:untitled-175:untitled-176:untitled-177:untitled-178:untitled-179:untitled-180:untitled-181:untitled-182:untitled-183:untitled-184:untitled-185:untitled-186:untitled-187:untitled-188:untitled-189:untitled-190:untitled-191:untitled-192:untitled-193:untitled-194:untitled-195:untitled-196:untitled-197:untitled-198:untitled-199:untitled-200:untitled-201:untitled-202:untitled-203:untitled-204:untitled-205:untitled-206:untitled-207:untitled-208:untitled-209:untitled-210:untitled-211:untitled-212:untitled-213:untitled-214:untitled-215:untitled-216:untitled-217:untitled-218:untitled-219:untitled-220:untitled-221:untitled-222:untitled-223:untitled-224:untitled-225:untitled-226:untitled-227:untitled-228:untitled-229:untitled-230:untitled-231:untitled-232:untitled-233:untitled-234:untitled-235:untitled-236:untitled-237:untitled-238:untitled-239:untitled-240:untitled-241:untitled-242:untitled-243:untitled-244:untitled-245:untitled-246:untitled-247:untitled-248:untitled-249:untitled-250:untitled-251:untitled-252:untitled-253:untitled-254:untitled-255:untitled-256:untitled-257:untitled-258:untitled-259:untitled-260:untitled-261:untitled-262:untitled-263:untitled-264:untitled-265:untitled-266:untitled-267:untitled-268:untitled-269:untitled-270:untitled-271:untitled-272:e-store:fb-cmnt:untitled-275"/>
     <file name="jquery.watch.js" crc="99325471" ref="home:index:class-arena:news:semister:1st2nd:3rd:4th:8th:7th:6th:5th:civil:7mec:maths:ele:eme:3mech:3civil:3cs:3ec:4mech:4civil:4cs:4ec:5mec:5cv:5is:5cs:5ec:6mec:6cv:6is:6cs:6ec:7cv:7is:7cs:7ec:8mec:8cv:8is:8cs:8ec:pc:phy:cc:caed:eln:pcd:chem:aec:qp3ec:em:ei:na:de:dms:usp:co:dsc:ade:qp3cs:som:qp3cv:bmc:eg:bs:fm:bdt:qp3mec:mcw:ms:mom:mp:qp4ec:lic:psc:ss:csy:se:qp4cs:dc:oops:mm:daa:ads:qp4cv:as:bgte:ct:ah:adt:qp4mc:kom:mmm:mto:fme:tt:cs:is:mec:ec:civ:cs34:cs78:cs56:ec34:ec78:ec56:mc34:mc76:mc56:cs12:ec12:mc12:is12:is78:is56:is34:cv78:cv56:cv34:cv12:360:feed:exm-tricks:pic-galary:lib:impotant-cnts:all-ap:cnt-me:add:moti-vds:sngs:movies:results:more-news:untitled-153:untitled-154:untitled-155:untitled-156:untitled-157:untitled-158:untitled-159:untitled-160:untitled-161:untitled-162:untitled-163:untitled-164:untitled-152:untitled-165:untitled-166:untitled-167:untitled-168:untitled-169:untitled-170:untitled-171:untitled-172:untitled-173:untitled-174:untitled-175:untitled-176:untitled-177:untitled-178:untitled-179:untitled-180:untitled-181:untitled-182:untitled-183:untitled-184:untitled-185:untitled-186:untitled-187:untitled-188:untitled-189:untitled-190:untitled-191:untitled-192:untitled-193:untitled-194:untitled-195:untitled-196:untitled-197:untitled-198:untitled-199:untitled-200:untitled-201:untitled-202:untitled-203:untitled-204:untitled-205:untitled-206:untitled-207:untitled-208:untitled-209:untitled-210:untitled-211:untitled-212:untitled-213:untitled-214:untitled-215:untitled-216:untitled-217:untitled-218:untitled-219:untitled-220:untitled-221:untitled-222:untitled-223:untitled-224:untitled-225:untitled-226:untitled-227:untitled-228:untitled-229:untitled-230:untitled-231:untitled-232:untitled-233:untitled-234:untitled-235:untitled-236:untitled-237:untitled-238:untitled-239:untitled-240:untitled-241:untitled-242:untitled-243:untitled-244:untitled-245:untitled-246:untitled-247:untitled-248:untitled-249:untitled-250:untitled-251:untitled-252:untitled-253:untitled-254:untitled-255:untitled-256:untitled-257:untitled-258:untitled-259:untitled-260:untitled-261:untitled-262:untitled-263:untitled-264:untitled-265:untitled-266:untitled-267:untitled-268:untitled-269:untitled-270:untitled-271:untitled-272:e-store:fb-cmnt:untitled-275"/>
-    <file name="jquery.musemenu.js" crc="3784699396" ref="home:semister:1st2nd:3rd:civil:maths:ele:eme:phy:cc:caed:eln:pcd:chem:aec:tt:cs:is:mec:ec:civ:cs34:cs78:cs56:ec34:ec78:ec56:mc34:mc76:mc56:cs12:ec12:mc12:is12:is78:is56:is34:cv78:cv56:cv34:cv12:feed:exm-tricks:pic-galary:lib:impotant-cnts:moti-vds:results:e-store"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="semister:1st2nd:3rd:civil:maths:ele:eme:phy:cc:caed:eln:pcd:chem:aec:tt:cs:is:mec:ec:civ:cs34:cs78:cs56:ec34:ec78:ec56:mc34:mc76:mc56:cs12:ec12:mc12:is12:is78:is56:is34:cv78:cv56:cv34:cv12:feed:exm-tricks:pic-galary:lib:impotant-cnts:moti-vds:results:e-store"/>
     <file name="webpro.js" crc="242022427" ref="home:semister:1st2nd:3rd:civil:maths:ele:eme:phy:cc:caed:eln:pcd:chem:aec:tt:cs:is:mec:ec:civ:cs34:cs78:cs56:ec34:ec78:ec56:mc34:mc76:mc56:cs12:ec12:mc12:is12:is78:is56:is34:cv78:cv56:cv34:cv12:feed:exm-tricks:pic-galary:lib:impotant-cnts:moti-vds:results:e-store:untitled-275"/>
     <file name="musewpslideshow.js" crc="457073769" ref="home:semister:1st2nd:3rd:civil:maths:ele:eme:phy:cc:caed:eln:pcd:chem:aec:tt:cs:is:mec:ec:civ:cs34:cs78:cs56:ec34:ec78:ec56:mc34:mc76:mc56:cs12:ec12:mc12:is12:is78:is56:is34:cv78:cv56:cv34:cv12:feed:exm-tricks:pic-galary:lib:impotant-cnts:moti-vds:results:e-store"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="home:semister:1st2nd:3rd:civil:maths:ele:eme:phy:cc:caed:eln:pcd:chem:aec:tt:cs:is:mec:ec:civ:cs34:cs78:cs56:ec34:ec78:ec56:mc34:mc76:mc56:cs12:ec12:mc12:is12:is78:is56:is34:cv78:cv56:cv34:cv12:feed:exm-tricks:pic-galary:lib:impotant-cnts:moti-vds:results:e-store"/>
     <file name="touchswipe.js" crc="4066113679" ref="home:semister:1st2nd:3rd:civil:maths:ele:eme:phy:cc:caed:eln:pcd:chem:aec:tt:cs:is:mec:ec:civ:cs34:cs78:cs56:ec34:ec78:ec56:mc34:mc76:mc56:cs12:ec12:mc12:is12:is78:is56:is34:cv78:cv56:cv34:cv12:feed:exm-tricks:pic-galary:lib:impotant-cnts:moti-vds:results:e-store"/>
-    <file name="html5shiv.js" crc="4241844378" ref="home:class-arena:news:semister:1st2nd:3rd:4th:8th:7th:6th:5th:civil:7mec:maths:ele:eme:3mech:3civil:3cs:3ec:4mech:4civil:4cs:4ec:5mec:5cv:5is:5cs:5ec:6mec:6cv:6is:6cs:6ec:7cv:7is:7cs:7ec:8mec:8cv:8is:8cs:8ec:pc:phy:cc:caed:eln:pcd:chem:aec:qp3ec:em:ei:na:de:dms:usp:co:dsc:ade:qp3cs:som:qp3cv:bmc:eg:bs:fm:bdt:qp3mec:mcw:ms:mom:mp:qp4ec:lic:psc:ss:csy:se:qp4cs:dc:oops:mm:daa:ads:qp4cv:as:bgte:ct:ah:adt:qp4mc:kom:mmm:mto:fme:tt:cs:is:mec:ec:civ:cs34:cs78:cs56:ec34:ec78:ec56:mc34:mc76:mc56:cs12:ec12:mc12:is12:is78:is56:is34:cv78:cv56:cv34:cv12:360:feed:exm-tricks:pic-galary:lib:impotant-cnts:all-ap:cnt-me:add:moti-vds:sngs:movies:results:more-news:untitled-153:untitled-154:untitled-155:untitled-156:untitled-157:untitled-158:untitled-159:untitled-160:untitled-161:untitled-162:untitled-163:untitled-164:untitled-152:untitled-165:untitled-166:untitled-167:untitled-168:untitled-169:untitled-170:untitled-171:untitled-172:untitled-173:untitled-174:untitled-175:untitled-176:untitled-177:untitled-178:untitled-179:untitled-180:untitled-181:untitled-182:untitled-183:untitled-184:untitled-185:untitled-186:untitled-187:untitled-188:untitled-189:untitled-190:untitled-191:untitled-192:untitled-193:untitled-194:untitled-195:untitled-196:untitled-197:untitled-198:untitled-199:untitled-200:untitled-201:untitled-202:untitled-203:untitled-204:untitled-205:untitled-206:untitled-207:untitled-208:untitled-209:untitled-210:untitled-211:untitled-212:untitled-213:untitled-214:untitled-215:untitled-216:untitled-217:untitled-218:untitled-219:untitled-220:untitled-221:untitled-222:untitled-223:untitled-224:untitled-225:untitled-226:untitled-227:untitled-228:untitled-229:untitled-230:untitled-231:untitled-232:untitled-233:untitled-234:untitled-235:untitled-236:untitled-237:untitled-238:untitled-239:untitled-240:untitled-241:untitled-242:untitled-243:untitled-244:untitled-245:untitled-246:untitled-247:untitled-248:untitled-249:untitled-250:untitled-251:untitled-252:untitled-253:untitled-254:untitled-255:untitled-256:untitled-257:untitled-258:untitled-259:untitled-260:untitled-261:untitled-262:untitled-263:untitled-264:untitled-265:untitled-266:untitled-267:untitled-268:untitled-269:untitled-270:untitled-271:untitled-272:e-store:fb-cmnt:untitled-275"/>
+    <file name="html5shiv.js" crc="4241844378" ref="class-arena:news:semister:1st2nd:3rd:4th:8th:7th:6th:5th:civil:7mec:maths:ele:eme:3mech:3civil:3cs:3ec:4mech:4civil:4cs:4ec:5mec:5cv:5is:5cs:5ec:6mec:6cv:6is:6cs:6ec:7cv:7is:7cs:7ec:8mec:8cv:8is:8cs:8ec:pc:phy:cc:caed:eln:pcd:chem:aec:qp3ec:em:ei:na:de:dms:usp:co:dsc:ade:qp3cs:som:qp3cv:bmc:eg:bs:fm:bdt:qp3mec:mcw:ms:mom:mp:qp4ec:lic:psc:ss:csy:se:qp4cs:dc:oops:mm:daa:ads:qp4cv:as:bgte:ct:ah:adt:qp4mc:kom:mmm:mto:fme:tt:cs:is:mec:ec:civ:cs34:cs78:cs56:ec34:ec78:ec56:mc34:mc76:mc56:cs12:ec12:mc12:is12:is78:is56:is34:cv78:cv56:cv34:cv12:360:feed:exm-tricks:pic-galary:lib:impotant-cnts:all-ap:cnt-me:add:moti-vds:sngs:movies:results:more-news:untitled-153:untitled-154:untitled-155:untitled-156:untitled-157:untitled-158:untitled-159:untitled-160:untitled-161:untitled-162:untitled-163:untitled-164:untitled-152:untitled-165:untitled-166:untitled-167:untitled-168:untitled-169:untitled-170:untitled-171:untitled-172:untitled-173:untitled-174:untitled-175:untitled-176:untitled-177:untitled-178:untitled-179:untitled-180:untitled-181:untitled-182:untitled-183:untitled-184:untitled-185:untitled-186:untitled-187:untitled-188:untitled-189:untitled-190:untitled-191:untitled-192:untitled-193:untitled-194:untitled-195:untitled-196:untitled-197:untitled-198:untitled-199:untitled-200:untitled-201:untitled-202:untitled-203:untitled-204:untitled-205:untitled-206:untitled-207:untitled-208:untitled-209:untitled-210:untitled-211:untitled-212:untitled-213:untitled-214:untitled-215:untitled-216:untitled-217:untitled-218:untitled-219:untitled-220:untitled-221:untitled-222:untitled-223:untitled-224:untitled-225:untitled-226:untitled-227:untitled-228:untitled-229:untitled-230:untitled-231:untitled-232:untitled-233:untitled-234:untitled-235:untitled-236:untitled-237:untitled-238:untitled-239:untitled-240:untitled-241:untitled-242:untitled-243:untitled-244:untitled-245:untitled-246:untitled-247:untitled-248:untitled-249:untitled-250:untitled-251:untitled-252:untitled-253:untitled-254:untitled-255:untitled-256:untitled-257:untitled-258:untitled-259:untitled-260:untitled-261:untitled-262:untitled-263:untitled-264:untitled-265:untitled-266:untitled-267:untitled-268:untitled-269:untitled-270:untitled-271:untitled-272:e-store:fb-cmnt:untitled-275"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="home:index:semister:1st2nd:3rd:civil:maths:ele:eme:phy:cc:caed:eln:pcd:chem:aec:tt:cs:is:mec:ec:civ:cs34:cs78:cs56:ec34:ec78:ec56:mc34:mc76:mc56:cs12:ec12:mc12:is12:is78:is56:is34:cv78:cv56:cv34:cv12:feed:exm-tricks:pic-galary:lib:impotant-cnts:moti-vds:results:e-store"/>
     <file name="require.js" crc="4157109226" ref="home:index:class-arena:news:semister:1st2nd:3rd:4th:8th:7th:6th:5th:civil:7mec:maths:ele:eme:3mech:3civil:3cs:3ec:4mech:4civil:4cs:4ec:5mec:5cv:5is:5cs:5ec:6mec:6cv:6is:6cs:6ec:7cv:7is:7cs:7ec:8mec:8cv:8is:8cs:8ec:pc:phy:cc:caed:eln:pcd:chem:aec:qp3ec:em:ei:na:de:dms:usp:co:dsc:ade:qp3cs:som:qp3cv:bmc:eg:bs:fm:bdt:qp3mec:mcw:ms:mom:mp:qp4ec:lic:psc:ss:csy:se:qp4cs:dc:oops:mm:daa:ads:qp4cv:as:bgte:ct:ah:adt:qp4mc:kom:mmm:mto:fme:tt:cs:is:mec:ec:civ:cs34:cs78:cs56:ec34:ec78:ec56:mc34:mc76:mc56:cs12:ec12:mc12:is12:is78:is56:is34:cv78:cv56:cv34:cv12:360:feed:exm-tricks:pic-galary:lib:impotant-cnts:all-ap:cnt-me:add:moti-vds:sngs:movies:results:more-news:untitled-153:untitled-154:untitled-155:untitled-156:untitled-157:untitled-158:untitled-159:untitled-160:untitled-161:untitled-162:untitled-163:untitled-164:untitled-152:untitled-165:untitled-166:untitled-167:untitled-168:untitled-169:untitled-170:untitled-171:untitled-172:untitled-173:untitled-174:untitled-175:untitled-176:untitled-177:untitled-178:untitled-179:untitled-180:untitled-181:untitled-182:untitled-183:untitled-184:untitled-185:untitled-186:untitled-187:untitled-188:untitled-189:untitled-190:untitled-191:untitled-192:untitled-193:untitled-194:untitled-195:untitled-196:untitled-197:untitled-198:untitled-199:untitled-200:untitled-201:untitled-202:untitled-203:untitled-204:untitled-205:untitled-206:untitled-207:untitled-208:untitled-209:untitled-210:untitled-211:untitled-212:untitled-213:untitled-214:untitled-215:untitled-216:untitled-217:untitled-218:untitled-219:untitled-220:untitled-221:untitled-222:untitled-223:untitled-224:untitled-225:untitled-226:untitled-227:untitled-228:untitled-229:untitled-230:untitled-231:untitled-232:untitled-233:untitled-234:untitled-235:untitled-236:untitled-237:untitled-238:untitled-239:untitled-240:untitled-241:untitled-242:untitled-243:untitled-244:untitled-245:untitled-246:untitled-247:untitled-248:untitled-249:untitled-250:untitled-251:untitled-252:untitled-253:untitled-254:untitled-255:untitled-256:untitled-257:untitled-258:untitled-259:untitled-260:untitled-261:untitled-262:untitled-263:untitled-264:untitled-265:untitled-266:untitled-267:untitled-268:untitled-269:untitled-270:untitled-271:untitled-272:e-store:fb-cmnt:untitled-275"/>
     <file name="musewpdisclosure.js" crc="119288625" ref="pic-galary:e-store:untitled-275"/>
   </folder>
   <folder name="images">
-    <file name="photo.png" crc="389899646" seo="true" ref="home:index:semister:1st2nd:3rd:civil:maths:ele:eme:phy:cc:caed:eln:pcd:chem:aec:tt:cs:is:mec:ec:civ:cs34:cs78:cs56:ec34:ec78:ec56:mc34:mc76:mc56:cs12:ec12:mc12:is12:is78:is56:is34:cv78:cv56:cv34:cv12:feed:exm-tricks:pic-galary:lib:impotant-cnts:moti-vds:results:e-store">
+    <file name="photo.png" crc="389899646" seo="true" ref="index:semister:1st2nd:3rd:civil:maths:ele:eme:phy:cc:caed:eln:pcd:chem:aec:tt:cs:is:mec:ec:civ:cs34:cs78:cs56:ec34:ec78:ec56:mc34:mc76:mc56:cs12:ec12:mc12:is12:is78:is56:is34:cv78:cv56:cv34:cv12:feed:exm-tricks:pic-galary:lib:impotant-cnts:moti-vds:results:e-store">
       <caption webpage="mec" alt=""/>
       <caption webpage="mec" alt=""/>
       <caption webpage="mec" alt=""/>
@@ -991,7 +991,7 @@
       <caption webpage="cs" alt=""/>
     </file>
     <file name="blank.gif" crc="4208392903" ref="home:index:semister:1st2nd:3rd:civil:maths:ele:eme:phy:cc:caed:eln:pcd:chem:aec:tt:cs:is:mec:ec:civ:cs34:cs78:cs56:ec34:ec78:ec56:mc34:mc76:mc56:cs12:ec12:mc12:is12:is78:is56:is34:cv78:cv56:cv34:cv12:feed:exm-tricks:pic-galary:lib:impotant-cnts:moti-vds:results:e-store"/>
-    <file name="menu_icon_04_white_3line-crop-u14811.png" crc="4113681886" seo="true" ref="home:semister:1st2nd:3rd:civil:maths:ele:eme:phy:cc:caed:eln:pcd:chem:aec:tt:cs:is:mec:ec:civ:cs34:cs78:cs56:ec34:ec78:ec56:mc34:mc76:mc56:cs12:ec12:mc12:is12:is78:is56:is34:cv78:cv56:cv34:cv12:feed:exm-tricks:pic-galary:lib:impotant-cnts:moti-vds:results:e-store">
+    <file name="menu_icon_04_white_3line-crop-u14811.png" crc="4113681886" seo="true" ref="semister:1st2nd:3rd:civil:maths:ele:eme:phy:cc:caed:eln:pcd:chem:aec:tt:cs:is:mec:ec:civ:cs34:cs78:cs56:ec34:ec78:ec56:mc34:mc76:mc56:cs12:ec12:mc12:is12:is78:is56:is34:cv78:cv56:cv34:cv12:feed:exm-tricks:pic-galary:lib:impotant-cnts:moti-vds:results:e-store">
       <caption webpage="mec" alt=""/>
       <caption webpage="mec" alt=""/>
       <caption webpage="mec" alt=""/>
@@ -1629,7 +1629,7 @@
       <caption webpage="cv12" alt=""/>
       <caption webpage="cv12" alt=""/>
     </file>
-    <file name="close_light.png" crc="126613487" seo="true" ref="home:semister:1st2nd:3rd:civil:maths:ele:eme:phy:cc:caed:eln:pcd:chem:aec:tt:cs:is:mec:ec:civ:cs34:cs78:cs56:ec34:ec78:ec56:mc34:mc76:mc56:cs12:ec12:mc12:is12:is78:is56:is34:cv78:cv56:cv34:cv12:feed:exm-tricks:pic-galary:lib:impotant-cnts:moti-vds:results:e-store">
+    <file name="close_light.png" crc="126613487" seo="true" ref="semister:1st2nd:3rd:civil:maths:ele:eme:phy:cc:caed:eln:pcd:chem:aec:tt:cs:is:mec:ec:civ:cs34:cs78:cs56:ec34:ec78:ec56:mc34:mc76:mc56:cs12:ec12:mc12:is12:is78:is56:is34:cv78:cv56:cv34:cv12:feed:exm-tricks:pic-galary:lib:impotant-cnts:moti-vds:results:e-store">
       <caption webpage="mec" alt=""/>
       <caption webpage="mec" alt=""/>
       <caption webpage="mec" alt=""/>
@@ -2271,24 +2271,8 @@
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
     </file>
     <file name="10498264_751851691547862_2905110643826272024_o.jpg" crc="3992993737" seo="true" ref="home">
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
@@ -2297,24 +2281,8 @@
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
     </file>
     <file name="11879195_971675462882803_6540340150170608876_o.jpg" crc="3829629014" seo="true" ref="home">
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
@@ -2323,24 +2291,8 @@
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
     </file>
     <file name="17017070_1107927916002886_93508154744323640_o.jpg" crc="4188758354" seo="true" ref="home">
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
@@ -2349,24 +2301,8 @@
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
     </file>
     <file name="17807635_1867227863551159_1150622815762493134_o.jpg" crc="3995893335" seo="true" ref="home">
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
@@ -2375,24 +2311,8 @@
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
     </file>
     <file name="17855616_1867239830216629_5575951197224521046_o.jpg" crc="104027833" seo="true" ref="home">
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
@@ -2401,24 +2321,8 @@
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
     </file>
     <file name="17880375_1867237183550227_4410171942946316158_o.jpg" crc="167172993" seo="true" ref="home">
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
@@ -2427,24 +2331,8 @@
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
     </file>
     <file name="17917610_1867240026883276_4331466286102484591_o.jpg" crc="3982961833" seo="true" ref="home">
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
@@ -2453,24 +2341,8 @@
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
     </file>
     <file name="18274813_1879029505703911_2341616446771790682_n.jpg" crc="4261552451" seo="true" ref="home">
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
@@ -2479,24 +2351,8 @@
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
     </file>
     <file name="18698253_1204476276348049_2909079173344367843_n.jpg" crc="362260395" seo="true" ref="home">
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
@@ -2505,24 +2361,8 @@
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
     </file>
     <file name="top engineering colleges in karnataka rank wise.jpg" crc="4144829324" seo="true" ref="home">
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
-      <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
       <caption webpage="home" alt=""/>
@@ -2995,8 +2835,13 @@
     <file name="pasted image 250x250.jpg" crc="4234927774" seo="true" ref="fb-cmnt">
       <caption webpage="fb-cmnt" alt=""/>
     </file>
+    <file name="944655_139228056266586_1314664118_n.jpg" crc="4053757112" seo="true" ref="home">
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+      <caption webpage="home" alt=""/>
+    </file>
   </folder>
-  <file name="home.html" crc="3819991539" seo="true" mt="1516702784444" redirect="true"/>
+  <file name="home.html" crc="3953492698" seo="true" mt="1516705157905" redirect="true"/>
   <file name="index.html" crc="3910980846" seo="true" mt="1516702442861" redirect="true"/>
   <file name="class-arena.html" crc="3887716115" seo="true" mt="1515831571407" redirect="true"/>
   <file name="news.html" crc="4036345996" seo="true" mt="1515828331970" redirect="true"/>

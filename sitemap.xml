@@ -15,15 +15,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://k135.github.io/images/photo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/menu_icon_04_white_3line-crop-u14811.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/close_light.png</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://k135.github.io/images/919640_645609698787151_1575441357_o.jpg</image:loc>
     </image:image>
     <image:image>
@@ -82,6 +73,9 @@
     </image:image>
     <image:image>
       <image:loc>http://k135.github.io/images/top%20engineering%20colleges%20in%20karnataka%20rank%20wise.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://k135.github.io/images/944655_139228056266586_1314664118_n.jpg</image:loc>
     </image:image>
   </url>
   <url>
