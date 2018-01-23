@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="k135.github.io" resolutions="1x" timestamp="1516711812237">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="k135.github.io" resolutions="1x" timestamp="1516712317604">
   <folder name="css">
     <file name="site_global.css" crc="4058872297"/>
     <file name="master_d-master.css" crc="243252737" ref="cs34:cs78:cs56:ec34:ec78:ec56:mc34:mc76:mc56:cs12:ec12:mc12:is12:is78:is56:is34:cv78:cv56:cv34:cv12"/>
     <file name="nomq_preview_master_d-master.css" crc="264813627" ref="cs34:cs78:cs56:ec34:ec78:ec56:mc34:mc76:mc56:cs12:ec12:mc12:is12:is78:is56:is34:cv78:cv56:cv34:cv12"/>
-    <file name="master_c-master.css" crc="3854266799" ref="e-store:tt:cs:is:mec:home:ec:cs34:1st2nd:semister:3rd:civ:cs78:cs56:ec34:ec78:ec56:mc34:civil:mc76:mc56:maths:cs12:ele:ec12:eme:mc12:is12:is78:is56:is34:cv78:cv56:cv34:cv12:feed:exm-tricks:pic-galary:lib:impotant-cnts:moti-vds:results:phy:cc:caed:eln:pcd:chem:aec"/>
-    <file name="nomq_preview_master_c-master.css" crc="160786895" ref="e-store:tt:cs:is:mec:home:ec:cs34:1st2nd:semister:3rd:civ:cs78:cs56:ec34:ec78:ec56:mc34:civil:mc76:mc56:maths:cs12:ele:ec12:eme:mc12:is12:is78:is56:is34:cv78:cv56:cv34:cv12:feed:exm-tricks:pic-galary:lib:impotant-cnts:moti-vds:results:phy:cc:caed:eln:pcd:chem:aec"/>
+    <file name="master_c-master.css" crc="10360747" ref="e-store:tt:cs:is:mec:home:ec:cs34:1st2nd:semister:3rd:civ:cs78:cs56:ec34:ec78:ec56:mc34:civil:mc76:mc56:maths:cs12:ele:ec12:eme:mc12:is12:is78:is56:is34:cv78:cv56:cv34:cv12:feed:exm-tricks:pic-galary:lib:impotant-cnts:moti-vds:results:phy:cc:caed:eln:pcd:chem:aec"/>
+    <file name="nomq_preview_master_c-master.css" crc="3824530138" ref="e-store:tt:cs:is:mec:home:ec:cs34:1st2nd:semister:3rd:civ:cs78:cs56:ec34:ec78:ec56:mc34:civil:mc76:mc56:maths:cs12:ele:ec12:eme:mc12:is12:is78:is56:is34:cv78:cv56:cv34:cv12:feed:exm-tricks:pic-galary:lib:impotant-cnts:moti-vds:results:phy:cc:caed:eln:pcd:chem:aec"/>
     <file name="untitled-266.css" crc="262780114" ref="untitled-266"/>
     <file name="untitled-275.css" crc="370438961" ref="untitled-275"/>
     <file name="na.css" crc="262780114" ref="na"/>
@@ -114,8 +114,8 @@
     <file name="nomq_is.css" crc="3814615894" ref="is"/>
     <file name="mec.css" crc="4067646061" ref="mec"/>
     <file name="nomq_mec.css" crc="3993791353" ref="mec"/>
-    <file name="home.css" crc="3777892821" ref="home"/>
-    <file name="nomq_home.css" crc="167942744" ref="home"/>
+    <file name="home.css" crc="4074830279" ref="home"/>
+    <file name="nomq_home.css" crc="28708879" ref="home"/>
     <file name="class-arena.css" crc="192952777" ref="class-arena"/>
     <file name="index.css" crc="4132953572" ref="index"/>
     <file name="nomq_index.css" crc="513124149" ref="index"/>
@@ -332,7 +332,7 @@
     <file name="jquery.museoverlay.js" crc="483674903" ref="home:semister:1st2nd:3rd:civil:maths:ele:eme:phy:cc:caed:eln:pcd:chem:aec:tt:cs:is:mec:ec:civ:cs34:cs78:cs56:ec34:ec78:ec56:mc34:mc76:mc56:cs12:ec12:mc12:is12:is78:is56:is34:cv78:cv56:cv34:cv12:feed:exm-tricks:pic-galary:lib:impotant-cnts:moti-vds:results:e-store"/>
     <file name="touchswipe.js" crc="4066113679" ref="home:semister:1st2nd:3rd:civil:maths:ele:eme:phy:cc:caed:eln:pcd:chem:aec:tt:cs:is:mec:ec:civ:cs34:cs78:cs56:ec34:ec78:ec56:mc34:mc76:mc56:cs12:ec12:mc12:is12:is78:is56:is34:cv78:cv56:cv34:cv12:feed:exm-tricks:pic-galary:lib:impotant-cnts:moti-vds:results:e-store"/>
     <file name="jquery.musemenu.js" crc="3784699396" ref="home:semister:1st2nd:3rd:civil:maths:ele:eme:phy:cc:caed:eln:pcd:chem:aec:tt:cs:is:mec:ec:civ:cs34:cs78:cs56:ec34:ec78:ec56:mc34:mc76:mc56:cs12:ec12:mc12:is12:is78:is56:is34:cv78:cv56:cv34:cv12:feed:exm-tricks:pic-galary:lib:impotant-cnts:moti-vds:results:e-store"/>
-    <file name="html5shiv.js" crc="4241844378" ref="home:index:class-arena:semister:1st2nd:3rd:4th:8th:7th:6th:5th:civil:7mec:maths:ele:eme:3mech:3civil:3cs:3ec:4mech:4civil:4cs:4ec:5mec:5cv:5is:5cs:5ec:6mec:6cv:6is:6cs:6ec:7cv:7is:7cs:7ec:8mec:8cv:8is:8cs:8ec:pc:phy:cc:caed:eln:pcd:chem:aec:qp3ec:em:ei:na:de:dms:usp:co:dsc:ade:qp3cs:som:qp3cv:bmc:eg:bs:fm:bdt:qp3mec:mcw:ms:mom:mp:qp4ec:lic:psc:ss:csy:se:qp4cs:dc:oops:mm:daa:ads:qp4cv:as:bgte:ct:ah:adt:qp4mc:kom:mmm:mto:fme:tt:cs:is:mec:ec:civ:cs34:cs78:cs56:ec34:ec78:ec56:mc34:mc76:mc56:cs12:ec12:mc12:is12:is78:is56:is34:cv78:cv56:cv34:cv12:360:feed:exm-tricks:pic-galary:lib:impotant-cnts:all-ap:cnt-me:add:moti-vds:sngs:movies:results:more-news:untitled-153:untitled-154:untitled-155:untitled-156:untitled-157:untitled-158:untitled-159:untitled-160:untitled-161:untitled-162:untitled-163:untitled-164:untitled-152:untitled-165:untitled-166:untitled-167:untitled-168:untitled-169:untitled-170:untitled-171:untitled-172:untitled-173:untitled-174:untitled-175:untitled-176:untitled-177:untitled-178:untitled-179:untitled-180:untitled-181:untitled-182:untitled-183:untitled-184:untitled-185:untitled-186:untitled-187:untitled-188:untitled-189:untitled-190:untitled-191:untitled-192:untitled-193:untitled-194:untitled-195:untitled-196:untitled-197:untitled-198:untitled-199:untitled-200:untitled-201:untitled-202:untitled-203:untitled-204:untitled-205:untitled-206:untitled-207:untitled-208:untitled-209:untitled-210:untitled-211:untitled-212:untitled-213:untitled-214:untitled-215:untitled-216:untitled-217:untitled-218:untitled-219:untitled-220:untitled-221:untitled-222:untitled-223:untitled-224:untitled-225:untitled-226:untitled-227:untitled-228:untitled-229:untitled-230:untitled-231:untitled-232:untitled-233:untitled-234:untitled-235:untitled-236:untitled-237:untitled-238:untitled-239:untitled-240:untitled-241:untitled-242:untitled-243:untitled-244:untitled-245:untitled-246:untitled-247:untitled-248:untitled-249:untitled-250:untitled-251:untitled-252:untitled-253:untitled-254:untitled-255:untitled-256:untitled-257:untitled-258:untitled-259:untitled-260:untitled-261:untitled-262:untitled-263:untitled-264:untitled-265:untitled-266:untitled-267:untitled-268:untitled-269:untitled-270:untitled-271:untitled-272:e-store:fb-cmnt:untitled-275"/>
+    <file name="html5shiv.js" crc="4241844378" ref="home:index:class-arena:semister:1st2nd:3rd:4th:8th:7th:6th:5th:civil:7mec:maths:ele:eme:3mech:3civil:3cs:3ec:4mech:4civil:4cs:4ec:5mec:5cv:5is:5cs:5ec:6mec:6cv:6is:6cs:6ec:7cv:7is:7cs:7ec:8mec:8cv:8is:8cs:8ec:pc:phy:cc:caed:eln:pcd:chem:aec:qp3ec:em:ei:na:de:dms:usp:co:dsc:ade:qp3cs:som:qp3cv:bmc:eg:bs:fm:bdt:qp3mec:mcw:ms:mom:mp:qp4ec:lic:psc:ss:csy:se:qp4cs:dc:oops:mm:daa:ads:qp4cv:as:bgte:ct:ah:adt:qp4mc:kom:mmm:mto:fme:tt:cs:is:mec:ec:civ:cs34:cs78:cs56:ec34:ec78:ec56:mc34:mc76:mc56:cs12:ec12:mc12:is12:is78:is56:is34:cv78:cv56:cv34:cv12:360:feed:exm-tricks:pic-galary:lib:impotant-cnts:all-ap:cnt-me:add:moti-vds:sngs:movies:results:more-news:untitled-153:untitled-154:untitled-155:untitled-156:untitled-157:untitled-158:untitled-159:untitled-160:untitled-161:untitled-162:untitled-163:untitled-164:untitled-152:untitled-165:untitled-166:untitled-167:untitled-168:untitled-169:untitled-170:untitled-171:untitled-172:untitled-173:untitled-174:untitled-175:untitled-176:untitled-177:untitled-178:untitled-179:untitled-180:untitled-181:untitled-182:untitled-183:untitled-184:untitled-185:untitled-186:untitled-187:untitled-188:untitled-189:untitled-190:untitled-191:untitled-192:untitled-193:untitled-194:untitled-195:untitled-196:untitled-197:untitled-198:untitled-199:untitled-200:untitled-201:untitled-202:untitled-203:untitled-204:untitled-205:untitled-206:untitled-207:untitled-208:untitled-209:untitled-210:untitled-211:untitled-212:untitled-213:untitled-214:untitled-215:untitled-216:untitled-217:untitled-218:untitled-219:untitled-220:untitled-221:untitled-222:untitled-223:untitled-224:untitled-225:untitled-226:untitled-227:untitled-228:untitled-229:untitled-230:untitled-231:untitled-232:untitled-233:untitled-234:untitled-235:untitled-236:untitled-237:untitled-238:untitled-239:untitled-240:untitled-241:untitled-242:untitled-243:untitled-244:untitled-245:untitled-246:untitled-247:untitled-248:untitled-249:untitled-250:untitled-251:untitled-252:untitled-253:untitled-254:untitled-255:untitled-256:untitled-257:untitled-258:untitled-259:untitled-260:untitled-261:untitled-262:untitled-263:untitled-264:untitled-265:untitled-266:untitled-267:untitled-268:untitled-269:untitled-270:untitled-271:untitled-272:e-store:fb-cmnt:untitled-275:news"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="home:index:semister:1st2nd:3rd:civil:maths:ele:eme:phy:cc:caed:eln:pcd:chem:aec:tt:cs:is:mec:ec:civ:cs34:cs78:cs56:ec34:ec78:ec56:mc34:mc76:mc56:cs12:ec12:mc12:is12:is78:is56:is34:cv78:cv56:cv34:cv12:feed:exm-tricks:pic-galary:lib:impotant-cnts:moti-vds:results:e-store"/>
     <file name="require.js" crc="4157109226" ref="home:index:class-arena:news:semister:1st2nd:3rd:4th:8th:7th:6th:5th:civil:7mec:maths:ele:eme:3mech:3civil:3cs:3ec:4mech:4civil:4cs:4ec:5mec:5cv:5is:5cs:5ec:6mec:6cv:6is:6cs:6ec:7cv:7is:7cs:7ec:8mec:8cv:8is:8cs:8ec:pc:phy:cc:caed:eln:pcd:chem:aec:qp3ec:em:ei:na:de:dms:usp:co:dsc:ade:qp3cs:som:qp3cv:bmc:eg:bs:fm:bdt:qp3mec:mcw:ms:mom:mp:qp4ec:lic:psc:ss:csy:se:qp4cs:dc:oops:mm:daa:ads:qp4cv:as:bgte:ct:ah:adt:qp4mc:kom:mmm:mto:fme:tt:cs:is:mec:ec:civ:cs34:cs78:cs56:ec34:ec78:ec56:mc34:mc76:mc56:cs12:ec12:mc12:is12:is78:is56:is34:cv78:cv56:cv34:cv12:360:feed:exm-tricks:pic-galary:lib:impotant-cnts:all-ap:cnt-me:add:moti-vds:sngs:movies:results:more-news:untitled-153:untitled-154:untitled-155:untitled-156:untitled-157:untitled-158:untitled-159:untitled-160:untitled-161:untitled-162:untitled-163:untitled-164:untitled-152:untitled-165:untitled-166:untitled-167:untitled-168:untitled-169:untitled-170:untitled-171:untitled-172:untitled-173:untitled-174:untitled-175:untitled-176:untitled-177:untitled-178:untitled-179:untitled-180:untitled-181:untitled-182:untitled-183:untitled-184:untitled-185:untitled-186:untitled-187:untitled-188:untitled-189:untitled-190:untitled-191:untitled-192:untitled-193:untitled-194:untitled-195:untitled-196:untitled-197:untitled-198:untitled-199:untitled-200:untitled-201:untitled-202:untitled-203:untitled-204:untitled-205:untitled-206:untitled-207:untitled-208:untitled-209:untitled-210:untitled-211:untitled-212:untitled-213:untitled-214:untitled-215:untitled-216:untitled-217:untitled-218:untitled-219:untitled-220:untitled-221:untitled-222:untitled-223:untitled-224:untitled-225:untitled-226:untitled-227:untitled-228:untitled-229:untitled-230:untitled-231:untitled-232:untitled-233:untitled-234:untitled-235:untitled-236:untitled-237:untitled-238:untitled-239:untitled-240:untitled-241:untitled-242:untitled-243:untitled-244:untitled-245:untitled-246:untitled-247:untitled-248:untitled-249:untitled-250:untitled-251:untitled-252:untitled-253:untitled-254:untitled-255:untitled-256:untitled-257:untitled-258:untitled-259:untitled-260:untitled-261:untitled-262:untitled-263:untitled-264:untitled-265:untitled-266:untitled-267:untitled-268:untitled-269:untitled-270:untitled-271:untitled-272:e-store:fb-cmnt:untitled-275"/>
     <file name="musewpdisclosure.js" crc="119288625" ref="pic-galary:e-store:untitled-275"/>
@@ -446,110 +446,19 @@
     </file>
     <file name="loading.gif" crc="3815509949" ref="home:pic-galary"/>
     <file name="photo.png" crc="389899646" seo="true" ref="home:index:semister:1st2nd:3rd:civil:maths:ele:eme:phy:cc:caed:eln:pcd:chem:aec:tt:cs:is:mec:ec:civ:cs34:cs78:cs56:ec34:ec78:ec56:mc34:mc76:mc56:cs12:ec12:mc12:is12:is78:is56:is34:cv78:cv56:cv34:cv12:feed:exm-tricks:pic-galary:lib:impotant-cnts:moti-vds:results:e-store">
-      <caption webpage="e-store" alt=""/>
-      <caption webpage="e-store" alt=""/>
-      <caption webpage="e-store" alt=""/>
-      <caption webpage="e-store" alt=""/>
-      <caption webpage="e-store" alt=""/>
-      <caption webpage="e-store" alt=""/>
-      <caption webpage="e-store" alt=""/>
-      <caption webpage="e-store" alt=""/>
-      <caption webpage="e-store" alt=""/>
-      <caption webpage="e-store" alt=""/>
-      <caption webpage="e-store" alt=""/>
-      <caption webpage="e-store" alt=""/>
-      <caption webpage="e-store" alt=""/>
-      <caption webpage="phy" alt=""/>
-      <caption webpage="phy" alt=""/>
-      <caption webpage="phy" alt=""/>
-      <caption webpage="phy" alt=""/>
-      <caption webpage="phy" alt=""/>
-      <caption webpage="phy" alt=""/>
-      <caption webpage="phy" alt=""/>
-      <caption webpage="phy" alt=""/>
-      <caption webpage="phy" alt=""/>
-      <caption webpage="phy" alt=""/>
-      <caption webpage="phy" alt=""/>
-      <caption webpage="phy" alt=""/>
-      <caption webpage="phy" alt=""/>
-      <caption webpage="ec" alt=""/>
-      <caption webpage="ec" alt=""/>
-      <caption webpage="ec" alt=""/>
-      <caption webpage="ec" alt=""/>
-      <caption webpage="ec" alt=""/>
-      <caption webpage="ec" alt=""/>
-      <caption webpage="ec" alt=""/>
-      <caption webpage="ec" alt=""/>
-      <caption webpage="ec" alt=""/>
-      <caption webpage="ec" alt=""/>
-      <caption webpage="ec" alt=""/>
-      <caption webpage="ec" alt=""/>
-      <caption webpage="ec" alt=""/>
-      <caption webpage="civil" alt=""/>
-      <caption webpage="civil" alt=""/>
-      <caption webpage="civil" alt=""/>
-      <caption webpage="civil" alt=""/>
-      <caption webpage="civil" alt=""/>
-      <caption webpage="civil" alt=""/>
-      <caption webpage="civil" alt=""/>
-      <caption webpage="civil" alt=""/>
-      <caption webpage="civil" alt=""/>
-      <caption webpage="civil" alt=""/>
-      <caption webpage="civil" alt=""/>
-      <caption webpage="civil" alt=""/>
-      <caption webpage="civil" alt=""/>
-      <caption webpage="cc" alt=""/>
-      <caption webpage="cc" alt=""/>
-      <caption webpage="cc" alt=""/>
-      <caption webpage="cc" alt=""/>
-      <caption webpage="cc" alt=""/>
-      <caption webpage="cc" alt=""/>
-      <caption webpage="cc" alt=""/>
-      <caption webpage="cc" alt=""/>
-      <caption webpage="cc" alt=""/>
-      <caption webpage="cc" alt=""/>
-      <caption webpage="cc" alt=""/>
-      <caption webpage="cc" alt=""/>
-      <caption webpage="cc" alt=""/>
-      <caption webpage="feed" alt=""/>
-      <caption webpage="feed" alt=""/>
-      <caption webpage="feed" alt=""/>
-      <caption webpage="feed" alt=""/>
-      <caption webpage="feed" alt=""/>
-      <caption webpage="feed" alt=""/>
-      <caption webpage="feed" alt=""/>
-      <caption webpage="feed" alt=""/>
-      <caption webpage="feed" alt=""/>
-      <caption webpage="feed" alt=""/>
-      <caption webpage="feed" alt=""/>
-      <caption webpage="feed" alt=""/>
-      <caption webpage="feed" alt=""/>
-      <caption webpage="ele" alt=""/>
-      <caption webpage="ele" alt=""/>
-      <caption webpage="ele" alt=""/>
-      <caption webpage="ele" alt=""/>
-      <caption webpage="ele" alt=""/>
-      <caption webpage="ele" alt=""/>
-      <caption webpage="ele" alt=""/>
-      <caption webpage="ele" alt=""/>
-      <caption webpage="ele" alt=""/>
-      <caption webpage="ele" alt=""/>
-      <caption webpage="ele" alt=""/>
-      <caption webpage="ele" alt=""/>
-      <caption webpage="ele" alt=""/>
-      <caption webpage="exm-tricks" alt=""/>
-      <caption webpage="exm-tricks" alt=""/>
-      <caption webpage="exm-tricks" alt=""/>
-      <caption webpage="exm-tricks" alt=""/>
-      <caption webpage="exm-tricks" alt=""/>
-      <caption webpage="exm-tricks" alt=""/>
-      <caption webpage="exm-tricks" alt=""/>
-      <caption webpage="exm-tricks" alt=""/>
-      <caption webpage="exm-tricks" alt=""/>
-      <caption webpage="exm-tricks" alt=""/>
-      <caption webpage="exm-tricks" alt=""/>
-      <caption webpage="exm-tricks" alt=""/>
-      <caption webpage="exm-tricks" alt=""/>
+      <caption webpage="cv56" alt=""/>
+      <caption webpage="cv56" alt=""/>
+      <caption webpage="cv56" alt=""/>
+      <caption webpage="cv56" alt=""/>
+      <caption webpage="cv56" alt=""/>
+      <caption webpage="cv56" alt=""/>
+      <caption webpage="cv56" alt=""/>
+      <caption webpage="cv56" alt=""/>
+      <caption webpage="cv56" alt=""/>
+      <caption webpage="cv56" alt=""/>
+      <caption webpage="cv56" alt=""/>
+      <caption webpage="cv56" alt=""/>
+      <caption webpage="cv56" alt=""/>
       <caption webpage="ec12" alt=""/>
       <caption webpage="ec12" alt=""/>
       <caption webpage="ec12" alt=""/>
@@ -563,6 +472,84 @@
       <caption webpage="ec12" alt=""/>
       <caption webpage="ec12" alt=""/>
       <caption webpage="ec12" alt=""/>
+      <caption webpage="eln" alt=""/>
+      <caption webpage="eln" alt=""/>
+      <caption webpage="eln" alt=""/>
+      <caption webpage="eln" alt=""/>
+      <caption webpage="eln" alt=""/>
+      <caption webpage="eln" alt=""/>
+      <caption webpage="eln" alt=""/>
+      <caption webpage="eln" alt=""/>
+      <caption webpage="eln" alt=""/>
+      <caption webpage="eln" alt=""/>
+      <caption webpage="eln" alt=""/>
+      <caption webpage="eln" alt=""/>
+      <caption webpage="eln" alt=""/>
+      <caption webpage="ec56" alt=""/>
+      <caption webpage="ec56" alt=""/>
+      <caption webpage="ec56" alt=""/>
+      <caption webpage="ec56" alt=""/>
+      <caption webpage="ec56" alt=""/>
+      <caption webpage="ec56" alt=""/>
+      <caption webpage="ec56" alt=""/>
+      <caption webpage="ec56" alt=""/>
+      <caption webpage="ec56" alt=""/>
+      <caption webpage="ec56" alt=""/>
+      <caption webpage="ec56" alt=""/>
+      <caption webpage="ec56" alt=""/>
+      <caption webpage="ec56" alt=""/>
+      <caption webpage="cc" alt=""/>
+      <caption webpage="cc" alt=""/>
+      <caption webpage="cc" alt=""/>
+      <caption webpage="cc" alt=""/>
+      <caption webpage="cc" alt=""/>
+      <caption webpage="cc" alt=""/>
+      <caption webpage="cc" alt=""/>
+      <caption webpage="cc" alt=""/>
+      <caption webpage="cc" alt=""/>
+      <caption webpage="cc" alt=""/>
+      <caption webpage="cc" alt=""/>
+      <caption webpage="cc" alt=""/>
+      <caption webpage="cc" alt=""/>
+      <caption webpage="civ" alt=""/>
+      <caption webpage="civ" alt=""/>
+      <caption webpage="civ" alt=""/>
+      <caption webpage="civ" alt=""/>
+      <caption webpage="civ" alt=""/>
+      <caption webpage="civ" alt=""/>
+      <caption webpage="civ" alt=""/>
+      <caption webpage="civ" alt=""/>
+      <caption webpage="civ" alt=""/>
+      <caption webpage="civ" alt=""/>
+      <caption webpage="civ" alt=""/>
+      <caption webpage="civ" alt=""/>
+      <caption webpage="civ" alt=""/>
+      <caption webpage="ele" alt=""/>
+      <caption webpage="ele" alt=""/>
+      <caption webpage="ele" alt=""/>
+      <caption webpage="ele" alt=""/>
+      <caption webpage="ele" alt=""/>
+      <caption webpage="ele" alt=""/>
+      <caption webpage="ele" alt=""/>
+      <caption webpage="ele" alt=""/>
+      <caption webpage="ele" alt=""/>
+      <caption webpage="ele" alt=""/>
+      <caption webpage="ele" alt=""/>
+      <caption webpage="ele" alt=""/>
+      <caption webpage="ele" alt=""/>
+      <caption webpage="is" alt=""/>
+      <caption webpage="is" alt=""/>
+      <caption webpage="is" alt=""/>
+      <caption webpage="is" alt=""/>
+      <caption webpage="is" alt=""/>
+      <caption webpage="is" alt=""/>
+      <caption webpage="is" alt=""/>
+      <caption webpage="is" alt=""/>
+      <caption webpage="is" alt=""/>
+      <caption webpage="is" alt=""/>
+      <caption webpage="is" alt=""/>
+      <caption webpage="is" alt=""/>
+      <caption webpage="is" alt=""/>
       <caption webpage="mc12" alt=""/>
       <caption webpage="mc12" alt=""/>
       <caption webpage="mc12" alt=""/>
@@ -576,19 +563,32 @@
       <caption webpage="mc12" alt=""/>
       <caption webpage="mc12" alt=""/>
       <caption webpage="mc12" alt=""/>
-      <caption webpage="ec78" alt=""/>
-      <caption webpage="ec78" alt=""/>
-      <caption webpage="ec78" alt=""/>
-      <caption webpage="ec78" alt=""/>
-      <caption webpage="ec78" alt=""/>
-      <caption webpage="ec78" alt=""/>
-      <caption webpage="ec78" alt=""/>
-      <caption webpage="ec78" alt=""/>
-      <caption webpage="ec78" alt=""/>
-      <caption webpage="ec78" alt=""/>
-      <caption webpage="ec78" alt=""/>
-      <caption webpage="ec78" alt=""/>
-      <caption webpage="ec78" alt=""/>
+      <caption webpage="cs" alt=""/>
+      <caption webpage="cs" alt=""/>
+      <caption webpage="cs" alt=""/>
+      <caption webpage="cs" alt=""/>
+      <caption webpage="cs" alt=""/>
+      <caption webpage="cs" alt=""/>
+      <caption webpage="cs" alt=""/>
+      <caption webpage="cs" alt=""/>
+      <caption webpage="cs" alt=""/>
+      <caption webpage="cs" alt=""/>
+      <caption webpage="cs" alt=""/>
+      <caption webpage="cs" alt=""/>
+      <caption webpage="cs" alt=""/>
+      <caption webpage="is78" alt=""/>
+      <caption webpage="is78" alt=""/>
+      <caption webpage="is78" alt=""/>
+      <caption webpage="is78" alt=""/>
+      <caption webpage="is78" alt=""/>
+      <caption webpage="is78" alt=""/>
+      <caption webpage="is78" alt=""/>
+      <caption webpage="is78" alt=""/>
+      <caption webpage="is78" alt=""/>
+      <caption webpage="is78" alt=""/>
+      <caption webpage="is78" alt=""/>
+      <caption webpage="is78" alt=""/>
+      <caption webpage="is78" alt=""/>
       <caption webpage="1st2nd" alt=""/>
       <caption webpage="1st2nd" alt=""/>
       <caption webpage="1st2nd" alt=""/>
@@ -615,32 +615,32 @@
       <caption webpage="moti-vds" alt=""/>
       <caption webpage="moti-vds" alt=""/>
       <caption webpage="moti-vds" alt=""/>
-      <caption webpage="semister" alt=""/>
-      <caption webpage="semister" alt=""/>
-      <caption webpage="semister" alt=""/>
-      <caption webpage="semister" alt=""/>
-      <caption webpage="semister" alt=""/>
-      <caption webpage="semister" alt=""/>
-      <caption webpage="semister" alt=""/>
-      <caption webpage="semister" alt=""/>
-      <caption webpage="semister" alt=""/>
-      <caption webpage="semister" alt=""/>
-      <caption webpage="semister" alt=""/>
-      <caption webpage="semister" alt=""/>
-      <caption webpage="semister" alt=""/>
-      <caption webpage="is78" alt=""/>
-      <caption webpage="is78" alt=""/>
-      <caption webpage="is78" alt=""/>
-      <caption webpage="is78" alt=""/>
-      <caption webpage="is78" alt=""/>
-      <caption webpage="is78" alt=""/>
-      <caption webpage="is78" alt=""/>
-      <caption webpage="is78" alt=""/>
-      <caption webpage="is78" alt=""/>
-      <caption webpage="is78" alt=""/>
-      <caption webpage="is78" alt=""/>
-      <caption webpage="is78" alt=""/>
-      <caption webpage="is78" alt=""/>
+      <caption webpage="aec" alt=""/>
+      <caption webpage="aec" alt=""/>
+      <caption webpage="aec" alt=""/>
+      <caption webpage="aec" alt=""/>
+      <caption webpage="aec" alt=""/>
+      <caption webpage="aec" alt=""/>
+      <caption webpage="aec" alt=""/>
+      <caption webpage="aec" alt=""/>
+      <caption webpage="aec" alt=""/>
+      <caption webpage="aec" alt=""/>
+      <caption webpage="aec" alt=""/>
+      <caption webpage="aec" alt=""/>
+      <caption webpage="aec" alt=""/>
+      <caption webpage="feed" alt=""/>
+      <caption webpage="feed" alt=""/>
+      <caption webpage="feed" alt=""/>
+      <caption webpage="feed" alt=""/>
+      <caption webpage="feed" alt=""/>
+      <caption webpage="feed" alt=""/>
+      <caption webpage="feed" alt=""/>
+      <caption webpage="feed" alt=""/>
+      <caption webpage="feed" alt=""/>
+      <caption webpage="feed" alt=""/>
+      <caption webpage="feed" alt=""/>
+      <caption webpage="feed" alt=""/>
+      <caption webpage="feed" alt=""/>
       <caption webpage="chem" alt=""/>
       <caption webpage="chem" alt=""/>
       <caption webpage="chem" alt=""/>
@@ -654,19 +654,19 @@
       <caption webpage="chem" alt=""/>
       <caption webpage="chem" alt=""/>
       <caption webpage="chem" alt=""/>
-      <caption webpage="ec56" alt=""/>
-      <caption webpage="ec56" alt=""/>
-      <caption webpage="ec56" alt=""/>
-      <caption webpage="ec56" alt=""/>
-      <caption webpage="ec56" alt=""/>
-      <caption webpage="ec56" alt=""/>
-      <caption webpage="ec56" alt=""/>
-      <caption webpage="ec56" alt=""/>
-      <caption webpage="ec56" alt=""/>
-      <caption webpage="ec56" alt=""/>
-      <caption webpage="ec56" alt=""/>
-      <caption webpage="ec56" alt=""/>
-      <caption webpage="ec56" alt=""/>
+      <caption webpage="exm-tricks" alt=""/>
+      <caption webpage="exm-tricks" alt=""/>
+      <caption webpage="exm-tricks" alt=""/>
+      <caption webpage="exm-tricks" alt=""/>
+      <caption webpage="exm-tricks" alt=""/>
+      <caption webpage="exm-tricks" alt=""/>
+      <caption webpage="exm-tricks" alt=""/>
+      <caption webpage="exm-tricks" alt=""/>
+      <caption webpage="exm-tricks" alt=""/>
+      <caption webpage="exm-tricks" alt=""/>
+      <caption webpage="exm-tricks" alt=""/>
+      <caption webpage="exm-tricks" alt=""/>
+      <caption webpage="exm-tricks" alt=""/>
       <caption webpage="tt" alt=""/>
       <caption webpage="tt" alt=""/>
       <caption webpage="tt" alt=""/>
@@ -706,19 +706,19 @@
       <caption webpage="cs78" alt=""/>
       <caption webpage="cs78" alt=""/>
       <caption webpage="cs78" alt=""/>
-      <caption webpage="aec" alt=""/>
-      <caption webpage="aec" alt=""/>
-      <caption webpage="aec" alt=""/>
-      <caption webpage="aec" alt=""/>
-      <caption webpage="aec" alt=""/>
-      <caption webpage="aec" alt=""/>
-      <caption webpage="aec" alt=""/>
-      <caption webpage="aec" alt=""/>
-      <caption webpage="aec" alt=""/>
-      <caption webpage="aec" alt=""/>
-      <caption webpage="aec" alt=""/>
-      <caption webpage="aec" alt=""/>
-      <caption webpage="aec" alt=""/>
+      <caption webpage="semister" alt=""/>
+      <caption webpage="semister" alt=""/>
+      <caption webpage="semister" alt=""/>
+      <caption webpage="semister" alt=""/>
+      <caption webpage="semister" alt=""/>
+      <caption webpage="semister" alt=""/>
+      <caption webpage="semister" alt=""/>
+      <caption webpage="semister" alt=""/>
+      <caption webpage="semister" alt=""/>
+      <caption webpage="semister" alt=""/>
+      <caption webpage="semister" alt=""/>
+      <caption webpage="semister" alt=""/>
+      <caption webpage="semister" alt=""/>
       <caption webpage="mec" alt=""/>
       <caption webpage="mec" alt=""/>
       <caption webpage="mec" alt=""/>
@@ -920,19 +920,19 @@
       <caption webpage="is12" alt=""/>
       <caption webpage="is12" alt=""/>
       <caption webpage="is12" alt=""/>
-      <caption webpage="eln" alt=""/>
-      <caption webpage="eln" alt=""/>
-      <caption webpage="eln" alt=""/>
-      <caption webpage="eln" alt=""/>
-      <caption webpage="eln" alt=""/>
-      <caption webpage="eln" alt=""/>
-      <caption webpage="eln" alt=""/>
-      <caption webpage="eln" alt=""/>
-      <caption webpage="eln" alt=""/>
-      <caption webpage="eln" alt=""/>
-      <caption webpage="eln" alt=""/>
-      <caption webpage="eln" alt=""/>
-      <caption webpage="eln" alt=""/>
+      <caption webpage="ec78" alt=""/>
+      <caption webpage="ec78" alt=""/>
+      <caption webpage="ec78" alt=""/>
+      <caption webpage="ec78" alt=""/>
+      <caption webpage="ec78" alt=""/>
+      <caption webpage="ec78" alt=""/>
+      <caption webpage="ec78" alt=""/>
+      <caption webpage="ec78" alt=""/>
+      <caption webpage="ec78" alt=""/>
+      <caption webpage="ec78" alt=""/>
+      <caption webpage="ec78" alt=""/>
+      <caption webpage="ec78" alt=""/>
+      <caption webpage="ec78" alt=""/>
       <caption webpage="ec34" alt=""/>
       <caption webpage="ec34" alt=""/>
       <caption webpage="ec34" alt=""/>
@@ -985,58 +985,58 @@
       <caption webpage="cs12" alt=""/>
       <caption webpage="cs12" alt=""/>
       <caption webpage="cs12" alt=""/>
-      <caption webpage="cv56" alt=""/>
-      <caption webpage="cv56" alt=""/>
-      <caption webpage="cv56" alt=""/>
-      <caption webpage="cv56" alt=""/>
-      <caption webpage="cv56" alt=""/>
-      <caption webpage="cv56" alt=""/>
-      <caption webpage="cv56" alt=""/>
-      <caption webpage="cv56" alt=""/>
-      <caption webpage="cv56" alt=""/>
-      <caption webpage="cv56" alt=""/>
-      <caption webpage="cv56" alt=""/>
-      <caption webpage="cv56" alt=""/>
-      <caption webpage="cv56" alt=""/>
-      <caption webpage="maths" alt=""/>
-      <caption webpage="maths" alt=""/>
-      <caption webpage="maths" alt=""/>
-      <caption webpage="maths" alt=""/>
-      <caption webpage="maths" alt=""/>
-      <caption webpage="maths" alt=""/>
-      <caption webpage="maths" alt=""/>
-      <caption webpage="maths" alt=""/>
-      <caption webpage="maths" alt=""/>
-      <caption webpage="maths" alt=""/>
-      <caption webpage="maths" alt=""/>
-      <caption webpage="maths" alt=""/>
-      <caption webpage="maths" alt=""/>
-      <caption webpage="cs" alt=""/>
-      <caption webpage="cs" alt=""/>
-      <caption webpage="cs" alt=""/>
-      <caption webpage="cs" alt=""/>
-      <caption webpage="cs" alt=""/>
-      <caption webpage="cs" alt=""/>
-      <caption webpage="cs" alt=""/>
-      <caption webpage="cs" alt=""/>
-      <caption webpage="cs" alt=""/>
-      <caption webpage="cs" alt=""/>
-      <caption webpage="cs" alt=""/>
-      <caption webpage="cs" alt=""/>
-      <caption webpage="cs" alt=""/>
-      <caption webpage="is" alt=""/>
-      <caption webpage="is" alt=""/>
-      <caption webpage="is" alt=""/>
-      <caption webpage="is" alt=""/>
-      <caption webpage="is" alt=""/>
-      <caption webpage="is" alt=""/>
-      <caption webpage="is" alt=""/>
-      <caption webpage="is" alt=""/>
-      <caption webpage="is" alt=""/>
-      <caption webpage="is" alt=""/>
-      <caption webpage="is" alt=""/>
-      <caption webpage="is" alt=""/>
-      <caption webpage="is" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="phy" alt=""/>
+      <caption webpage="phy" alt=""/>
+      <caption webpage="phy" alt=""/>
+      <caption webpage="phy" alt=""/>
+      <caption webpage="phy" alt=""/>
+      <caption webpage="phy" alt=""/>
+      <caption webpage="phy" alt=""/>
+      <caption webpage="phy" alt=""/>
+      <caption webpage="phy" alt=""/>
+      <caption webpage="phy" alt=""/>
+      <caption webpage="phy" alt=""/>
+      <caption webpage="phy" alt=""/>
+      <caption webpage="phy" alt=""/>
+      <caption webpage="ec" alt=""/>
+      <caption webpage="ec" alt=""/>
+      <caption webpage="ec" alt=""/>
+      <caption webpage="ec" alt=""/>
+      <caption webpage="ec" alt=""/>
+      <caption webpage="ec" alt=""/>
+      <caption webpage="ec" alt=""/>
+      <caption webpage="ec" alt=""/>
+      <caption webpage="ec" alt=""/>
+      <caption webpage="ec" alt=""/>
+      <caption webpage="ec" alt=""/>
+      <caption webpage="ec" alt=""/>
+      <caption webpage="ec" alt=""/>
+      <caption webpage="civil" alt=""/>
+      <caption webpage="civil" alt=""/>
+      <caption webpage="civil" alt=""/>
+      <caption webpage="civil" alt=""/>
+      <caption webpage="civil" alt=""/>
+      <caption webpage="civil" alt=""/>
+      <caption webpage="civil" alt=""/>
+      <caption webpage="civil" alt=""/>
+      <caption webpage="civil" alt=""/>
+      <caption webpage="civil" alt=""/>
+      <caption webpage="civil" alt=""/>
+      <caption webpage="civil" alt=""/>
+      <caption webpage="civil" alt=""/>
       <caption webpage="is56" alt=""/>
       <caption webpage="is56" alt=""/>
       <caption webpage="is56" alt=""/>
@@ -1050,19 +1050,19 @@
       <caption webpage="is56" alt=""/>
       <caption webpage="is56" alt=""/>
       <caption webpage="is56" alt=""/>
-      <caption webpage="civ" alt=""/>
-      <caption webpage="civ" alt=""/>
-      <caption webpage="civ" alt=""/>
-      <caption webpage="civ" alt=""/>
-      <caption webpage="civ" alt=""/>
-      <caption webpage="civ" alt=""/>
-      <caption webpage="civ" alt=""/>
-      <caption webpage="civ" alt=""/>
-      <caption webpage="civ" alt=""/>
-      <caption webpage="civ" alt=""/>
-      <caption webpage="civ" alt=""/>
-      <caption webpage="civ" alt=""/>
-      <caption webpage="civ" alt=""/>
+      <caption webpage="maths" alt=""/>
+      <caption webpage="maths" alt=""/>
+      <caption webpage="maths" alt=""/>
+      <caption webpage="maths" alt=""/>
+      <caption webpage="maths" alt=""/>
+      <caption webpage="maths" alt=""/>
+      <caption webpage="maths" alt=""/>
+      <caption webpage="maths" alt=""/>
+      <caption webpage="maths" alt=""/>
+      <caption webpage="maths" alt=""/>
+      <caption webpage="maths" alt=""/>
+      <caption webpage="maths" alt=""/>
+      <caption webpage="maths" alt=""/>
       <caption webpage="pic-galary" alt=""/>
       <caption webpage="pic-galary" alt=""/>
       <caption webpage="pic-galary" alt=""/>
@@ -1079,110 +1079,19 @@
       <caption webpage="pic-galary" alt=""/>
     </file>
     <file name="menu_icon_04_white_3line-crop-u14811.png" crc="4113681886" seo="true" ref="home:semister:1st2nd:3rd:civil:maths:ele:eme:phy:cc:caed:eln:pcd:chem:aec:tt:cs:is:mec:ec:civ:cs34:cs78:cs56:ec34:ec78:ec56:mc34:mc76:mc56:cs12:ec12:mc12:is12:is78:is56:is34:cv78:cv56:cv34:cv12:feed:exm-tricks:pic-galary:lib:impotant-cnts:moti-vds:results:e-store">
-      <caption webpage="e-store" alt=""/>
-      <caption webpage="e-store" alt=""/>
-      <caption webpage="e-store" alt=""/>
-      <caption webpage="e-store" alt=""/>
-      <caption webpage="e-store" alt=""/>
-      <caption webpage="e-store" alt=""/>
-      <caption webpage="e-store" alt=""/>
-      <caption webpage="e-store" alt=""/>
-      <caption webpage="e-store" alt=""/>
-      <caption webpage="e-store" alt=""/>
-      <caption webpage="e-store" alt=""/>
-      <caption webpage="e-store" alt=""/>
-      <caption webpage="e-store" alt=""/>
-      <caption webpage="phy" alt=""/>
-      <caption webpage="phy" alt=""/>
-      <caption webpage="phy" alt=""/>
-      <caption webpage="phy" alt=""/>
-      <caption webpage="phy" alt=""/>
-      <caption webpage="phy" alt=""/>
-      <caption webpage="phy" alt=""/>
-      <caption webpage="phy" alt=""/>
-      <caption webpage="phy" alt=""/>
-      <caption webpage="phy" alt=""/>
-      <caption webpage="phy" alt=""/>
-      <caption webpage="phy" alt=""/>
-      <caption webpage="phy" alt=""/>
-      <caption webpage="ec" alt=""/>
-      <caption webpage="ec" alt=""/>
-      <caption webpage="ec" alt=""/>
-      <caption webpage="ec" alt=""/>
-      <caption webpage="ec" alt=""/>
-      <caption webpage="ec" alt=""/>
-      <caption webpage="ec" alt=""/>
-      <caption webpage="ec" alt=""/>
-      <caption webpage="ec" alt=""/>
-      <caption webpage="ec" alt=""/>
-      <caption webpage="ec" alt=""/>
-      <caption webpage="ec" alt=""/>
-      <caption webpage="ec" alt=""/>
-      <caption webpage="civil" alt=""/>
-      <caption webpage="civil" alt=""/>
-      <caption webpage="civil" alt=""/>
-      <caption webpage="civil" alt=""/>
-      <caption webpage="civil" alt=""/>
-      <caption webpage="civil" alt=""/>
-      <caption webpage="civil" alt=""/>
-      <caption webpage="civil" alt=""/>
-      <caption webpage="civil" alt=""/>
-      <caption webpage="civil" alt=""/>
-      <caption webpage="civil" alt=""/>
-      <caption webpage="civil" alt=""/>
-      <caption webpage="civil" alt=""/>
-      <caption webpage="cc" alt=""/>
-      <caption webpage="cc" alt=""/>
-      <caption webpage="cc" alt=""/>
-      <caption webpage="cc" alt=""/>
-      <caption webpage="cc" alt=""/>
-      <caption webpage="cc" alt=""/>
-      <caption webpage="cc" alt=""/>
-      <caption webpage="cc" alt=""/>
-      <caption webpage="cc" alt=""/>
-      <caption webpage="cc" alt=""/>
-      <caption webpage="cc" alt=""/>
-      <caption webpage="cc" alt=""/>
-      <caption webpage="cc" alt=""/>
-      <caption webpage="feed" alt=""/>
-      <caption webpage="feed" alt=""/>
-      <caption webpage="feed" alt=""/>
-      <caption webpage="feed" alt=""/>
-      <caption webpage="feed" alt=""/>
-      <caption webpage="feed" alt=""/>
-      <caption webpage="feed" alt=""/>
-      <caption webpage="feed" alt=""/>
-      <caption webpage="feed" alt=""/>
-      <caption webpage="feed" alt=""/>
-      <caption webpage="feed" alt=""/>
-      <caption webpage="feed" alt=""/>
-      <caption webpage="feed" alt=""/>
-      <caption webpage="ele" alt=""/>
-      <caption webpage="ele" alt=""/>
-      <caption webpage="ele" alt=""/>
-      <caption webpage="ele" alt=""/>
-      <caption webpage="ele" alt=""/>
-      <caption webpage="ele" alt=""/>
-      <caption webpage="ele" alt=""/>
-      <caption webpage="ele" alt=""/>
-      <caption webpage="ele" alt=""/>
-      <caption webpage="ele" alt=""/>
-      <caption webpage="ele" alt=""/>
-      <caption webpage="ele" alt=""/>
-      <caption webpage="ele" alt=""/>
-      <caption webpage="exm-tricks" alt=""/>
-      <caption webpage="exm-tricks" alt=""/>
-      <caption webpage="exm-tricks" alt=""/>
-      <caption webpage="exm-tricks" alt=""/>
-      <caption webpage="exm-tricks" alt=""/>
-      <caption webpage="exm-tricks" alt=""/>
-      <caption webpage="exm-tricks" alt=""/>
-      <caption webpage="exm-tricks" alt=""/>
-      <caption webpage="exm-tricks" alt=""/>
-      <caption webpage="exm-tricks" alt=""/>
-      <caption webpage="exm-tricks" alt=""/>
-      <caption webpage="exm-tricks" alt=""/>
-      <caption webpage="exm-tricks" alt=""/>
+      <caption webpage="cv56" alt=""/>
+      <caption webpage="cv56" alt=""/>
+      <caption webpage="cv56" alt=""/>
+      <caption webpage="cv56" alt=""/>
+      <caption webpage="cv56" alt=""/>
+      <caption webpage="cv56" alt=""/>
+      <caption webpage="cv56" alt=""/>
+      <caption webpage="cv56" alt=""/>
+      <caption webpage="cv56" alt=""/>
+      <caption webpage="cv56" alt=""/>
+      <caption webpage="cv56" alt=""/>
+      <caption webpage="cv56" alt=""/>
+      <caption webpage="cv56" alt=""/>
       <caption webpage="ec12" alt=""/>
       <caption webpage="ec12" alt=""/>
       <caption webpage="ec12" alt=""/>
@@ -1196,6 +1105,84 @@
       <caption webpage="ec12" alt=""/>
       <caption webpage="ec12" alt=""/>
       <caption webpage="ec12" alt=""/>
+      <caption webpage="eln" alt=""/>
+      <caption webpage="eln" alt=""/>
+      <caption webpage="eln" alt=""/>
+      <caption webpage="eln" alt=""/>
+      <caption webpage="eln" alt=""/>
+      <caption webpage="eln" alt=""/>
+      <caption webpage="eln" alt=""/>
+      <caption webpage="eln" alt=""/>
+      <caption webpage="eln" alt=""/>
+      <caption webpage="eln" alt=""/>
+      <caption webpage="eln" alt=""/>
+      <caption webpage="eln" alt=""/>
+      <caption webpage="eln" alt=""/>
+      <caption webpage="ec56" alt=""/>
+      <caption webpage="ec56" alt=""/>
+      <caption webpage="ec56" alt=""/>
+      <caption webpage="ec56" alt=""/>
+      <caption webpage="ec56" alt=""/>
+      <caption webpage="ec56" alt=""/>
+      <caption webpage="ec56" alt=""/>
+      <caption webpage="ec56" alt=""/>
+      <caption webpage="ec56" alt=""/>
+      <caption webpage="ec56" alt=""/>
+      <caption webpage="ec56" alt=""/>
+      <caption webpage="ec56" alt=""/>
+      <caption webpage="ec56" alt=""/>
+      <caption webpage="cc" alt=""/>
+      <caption webpage="cc" alt=""/>
+      <caption webpage="cc" alt=""/>
+      <caption webpage="cc" alt=""/>
+      <caption webpage="cc" alt=""/>
+      <caption webpage="cc" alt=""/>
+      <caption webpage="cc" alt=""/>
+      <caption webpage="cc" alt=""/>
+      <caption webpage="cc" alt=""/>
+      <caption webpage="cc" alt=""/>
+      <caption webpage="cc" alt=""/>
+      <caption webpage="cc" alt=""/>
+      <caption webpage="cc" alt=""/>
+      <caption webpage="civ" alt=""/>
+      <caption webpage="civ" alt=""/>
+      <caption webpage="civ" alt=""/>
+      <caption webpage="civ" alt=""/>
+      <caption webpage="civ" alt=""/>
+      <caption webpage="civ" alt=""/>
+      <caption webpage="civ" alt=""/>
+      <caption webpage="civ" alt=""/>
+      <caption webpage="civ" alt=""/>
+      <caption webpage="civ" alt=""/>
+      <caption webpage="civ" alt=""/>
+      <caption webpage="civ" alt=""/>
+      <caption webpage="civ" alt=""/>
+      <caption webpage="ele" alt=""/>
+      <caption webpage="ele" alt=""/>
+      <caption webpage="ele" alt=""/>
+      <caption webpage="ele" alt=""/>
+      <caption webpage="ele" alt=""/>
+      <caption webpage="ele" alt=""/>
+      <caption webpage="ele" alt=""/>
+      <caption webpage="ele" alt=""/>
+      <caption webpage="ele" alt=""/>
+      <caption webpage="ele" alt=""/>
+      <caption webpage="ele" alt=""/>
+      <caption webpage="ele" alt=""/>
+      <caption webpage="ele" alt=""/>
+      <caption webpage="is" alt=""/>
+      <caption webpage="is" alt=""/>
+      <caption webpage="is" alt=""/>
+      <caption webpage="is" alt=""/>
+      <caption webpage="is" alt=""/>
+      <caption webpage="is" alt=""/>
+      <caption webpage="is" alt=""/>
+      <caption webpage="is" alt=""/>
+      <caption webpage="is" alt=""/>
+      <caption webpage="is" alt=""/>
+      <caption webpage="is" alt=""/>
+      <caption webpage="is" alt=""/>
+      <caption webpage="is" alt=""/>
       <caption webpage="mc12" alt=""/>
       <caption webpage="mc12" alt=""/>
       <caption webpage="mc12" alt=""/>
@@ -1209,19 +1196,32 @@
       <caption webpage="mc12" alt=""/>
       <caption webpage="mc12" alt=""/>
       <caption webpage="mc12" alt=""/>
-      <caption webpage="ec78" alt=""/>
-      <caption webpage="ec78" alt=""/>
-      <caption webpage="ec78" alt=""/>
-      <caption webpage="ec78" alt=""/>
-      <caption webpage="ec78" alt=""/>
-      <caption webpage="ec78" alt=""/>
-      <caption webpage="ec78" alt=""/>
-      <caption webpage="ec78" alt=""/>
-      <caption webpage="ec78" alt=""/>
-      <caption webpage="ec78" alt=""/>
-      <caption webpage="ec78" alt=""/>
-      <caption webpage="ec78" alt=""/>
-      <caption webpage="ec78" alt=""/>
+      <caption webpage="cs" alt=""/>
+      <caption webpage="cs" alt=""/>
+      <caption webpage="cs" alt=""/>
+      <caption webpage="cs" alt=""/>
+      <caption webpage="cs" alt=""/>
+      <caption webpage="cs" alt=""/>
+      <caption webpage="cs" alt=""/>
+      <caption webpage="cs" alt=""/>
+      <caption webpage="cs" alt=""/>
+      <caption webpage="cs" alt=""/>
+      <caption webpage="cs" alt=""/>
+      <caption webpage="cs" alt=""/>
+      <caption webpage="cs" alt=""/>
+      <caption webpage="is78" alt=""/>
+      <caption webpage="is78" alt=""/>
+      <caption webpage="is78" alt=""/>
+      <caption webpage="is78" alt=""/>
+      <caption webpage="is78" alt=""/>
+      <caption webpage="is78" alt=""/>
+      <caption webpage="is78" alt=""/>
+      <caption webpage="is78" alt=""/>
+      <caption webpage="is78" alt=""/>
+      <caption webpage="is78" alt=""/>
+      <caption webpage="is78" alt=""/>
+      <caption webpage="is78" alt=""/>
+      <caption webpage="is78" alt=""/>
       <caption webpage="1st2nd" alt=""/>
       <caption webpage="1st2nd" alt=""/>
       <caption webpage="1st2nd" alt=""/>
@@ -1248,32 +1248,32 @@
       <caption webpage="moti-vds" alt=""/>
       <caption webpage="moti-vds" alt=""/>
       <caption webpage="moti-vds" alt=""/>
-      <caption webpage="semister" alt=""/>
-      <caption webpage="semister" alt=""/>
-      <caption webpage="semister" alt=""/>
-      <caption webpage="semister" alt=""/>
-      <caption webpage="semister" alt=""/>
-      <caption webpage="semister" alt=""/>
-      <caption webpage="semister" alt=""/>
-      <caption webpage="semister" alt=""/>
-      <caption webpage="semister" alt=""/>
-      <caption webpage="semister" alt=""/>
-      <caption webpage="semister" alt=""/>
-      <caption webpage="semister" alt=""/>
-      <caption webpage="semister" alt=""/>
-      <caption webpage="is78" alt=""/>
-      <caption webpage="is78" alt=""/>
-      <caption webpage="is78" alt=""/>
-      <caption webpage="is78" alt=""/>
-      <caption webpage="is78" alt=""/>
-      <caption webpage="is78" alt=""/>
-      <caption webpage="is78" alt=""/>
-      <caption webpage="is78" alt=""/>
-      <caption webpage="is78" alt=""/>
-      <caption webpage="is78" alt=""/>
-      <caption webpage="is78" alt=""/>
-      <caption webpage="is78" alt=""/>
-      <caption webpage="is78" alt=""/>
+      <caption webpage="aec" alt=""/>
+      <caption webpage="aec" alt=""/>
+      <caption webpage="aec" alt=""/>
+      <caption webpage="aec" alt=""/>
+      <caption webpage="aec" alt=""/>
+      <caption webpage="aec" alt=""/>
+      <caption webpage="aec" alt=""/>
+      <caption webpage="aec" alt=""/>
+      <caption webpage="aec" alt=""/>
+      <caption webpage="aec" alt=""/>
+      <caption webpage="aec" alt=""/>
+      <caption webpage="aec" alt=""/>
+      <caption webpage="aec" alt=""/>
+      <caption webpage="feed" alt=""/>
+      <caption webpage="feed" alt=""/>
+      <caption webpage="feed" alt=""/>
+      <caption webpage="feed" alt=""/>
+      <caption webpage="feed" alt=""/>
+      <caption webpage="feed" alt=""/>
+      <caption webpage="feed" alt=""/>
+      <caption webpage="feed" alt=""/>
+      <caption webpage="feed" alt=""/>
+      <caption webpage="feed" alt=""/>
+      <caption webpage="feed" alt=""/>
+      <caption webpage="feed" alt=""/>
+      <caption webpage="feed" alt=""/>
       <caption webpage="chem" alt=""/>
       <caption webpage="chem" alt=""/>
       <caption webpage="chem" alt=""/>
@@ -1287,19 +1287,19 @@
       <caption webpage="chem" alt=""/>
       <caption webpage="chem" alt=""/>
       <caption webpage="chem" alt=""/>
-      <caption webpage="ec56" alt=""/>
-      <caption webpage="ec56" alt=""/>
-      <caption webpage="ec56" alt=""/>
-      <caption webpage="ec56" alt=""/>
-      <caption webpage="ec56" alt=""/>
-      <caption webpage="ec56" alt=""/>
-      <caption webpage="ec56" alt=""/>
-      <caption webpage="ec56" alt=""/>
-      <caption webpage="ec56" alt=""/>
-      <caption webpage="ec56" alt=""/>
-      <caption webpage="ec56" alt=""/>
-      <caption webpage="ec56" alt=""/>
-      <caption webpage="ec56" alt=""/>
+      <caption webpage="exm-tricks" alt=""/>
+      <caption webpage="exm-tricks" alt=""/>
+      <caption webpage="exm-tricks" alt=""/>
+      <caption webpage="exm-tricks" alt=""/>
+      <caption webpage="exm-tricks" alt=""/>
+      <caption webpage="exm-tricks" alt=""/>
+      <caption webpage="exm-tricks" alt=""/>
+      <caption webpage="exm-tricks" alt=""/>
+      <caption webpage="exm-tricks" alt=""/>
+      <caption webpage="exm-tricks" alt=""/>
+      <caption webpage="exm-tricks" alt=""/>
+      <caption webpage="exm-tricks" alt=""/>
+      <caption webpage="exm-tricks" alt=""/>
       <caption webpage="tt" alt=""/>
       <caption webpage="tt" alt=""/>
       <caption webpage="tt" alt=""/>
@@ -1339,19 +1339,19 @@
       <caption webpage="cs78" alt=""/>
       <caption webpage="cs78" alt=""/>
       <caption webpage="cs78" alt=""/>
-      <caption webpage="aec" alt=""/>
-      <caption webpage="aec" alt=""/>
-      <caption webpage="aec" alt=""/>
-      <caption webpage="aec" alt=""/>
-      <caption webpage="aec" alt=""/>
-      <caption webpage="aec" alt=""/>
-      <caption webpage="aec" alt=""/>
-      <caption webpage="aec" alt=""/>
-      <caption webpage="aec" alt=""/>
-      <caption webpage="aec" alt=""/>
-      <caption webpage="aec" alt=""/>
-      <caption webpage="aec" alt=""/>
-      <caption webpage="aec" alt=""/>
+      <caption webpage="semister" alt=""/>
+      <caption webpage="semister" alt=""/>
+      <caption webpage="semister" alt=""/>
+      <caption webpage="semister" alt=""/>
+      <caption webpage="semister" alt=""/>
+      <caption webpage="semister" alt=""/>
+      <caption webpage="semister" alt=""/>
+      <caption webpage="semister" alt=""/>
+      <caption webpage="semister" alt=""/>
+      <caption webpage="semister" alt=""/>
+      <caption webpage="semister" alt=""/>
+      <caption webpage="semister" alt=""/>
+      <caption webpage="semister" alt=""/>
       <caption webpage="mec" alt=""/>
       <caption webpage="mec" alt=""/>
       <caption webpage="mec" alt=""/>
@@ -1563,19 +1563,19 @@
       <caption webpage="is12" alt=""/>
       <caption webpage="is12" alt=""/>
       <caption webpage="is12" alt=""/>
-      <caption webpage="eln" alt=""/>
-      <caption webpage="eln" alt=""/>
-      <caption webpage="eln" alt=""/>
-      <caption webpage="eln" alt=""/>
-      <caption webpage="eln" alt=""/>
-      <caption webpage="eln" alt=""/>
-      <caption webpage="eln" alt=""/>
-      <caption webpage="eln" alt=""/>
-      <caption webpage="eln" alt=""/>
-      <caption webpage="eln" alt=""/>
-      <caption webpage="eln" alt=""/>
-      <caption webpage="eln" alt=""/>
-      <caption webpage="eln" alt=""/>
+      <caption webpage="ec78" alt=""/>
+      <caption webpage="ec78" alt=""/>
+      <caption webpage="ec78" alt=""/>
+      <caption webpage="ec78" alt=""/>
+      <caption webpage="ec78" alt=""/>
+      <caption webpage="ec78" alt=""/>
+      <caption webpage="ec78" alt=""/>
+      <caption webpage="ec78" alt=""/>
+      <caption webpage="ec78" alt=""/>
+      <caption webpage="ec78" alt=""/>
+      <caption webpage="ec78" alt=""/>
+      <caption webpage="ec78" alt=""/>
+      <caption webpage="ec78" alt=""/>
       <caption webpage="ec34" alt=""/>
       <caption webpage="ec34" alt=""/>
       <caption webpage="ec34" alt=""/>
@@ -1615,58 +1615,58 @@
       <caption webpage="cs12" alt=""/>
       <caption webpage="cs12" alt=""/>
       <caption webpage="cs12" alt=""/>
-      <caption webpage="cv56" alt=""/>
-      <caption webpage="cv56" alt=""/>
-      <caption webpage="cv56" alt=""/>
-      <caption webpage="cv56" alt=""/>
-      <caption webpage="cv56" alt=""/>
-      <caption webpage="cv56" alt=""/>
-      <caption webpage="cv56" alt=""/>
-      <caption webpage="cv56" alt=""/>
-      <caption webpage="cv56" alt=""/>
-      <caption webpage="cv56" alt=""/>
-      <caption webpage="cv56" alt=""/>
-      <caption webpage="cv56" alt=""/>
-      <caption webpage="cv56" alt=""/>
-      <caption webpage="maths" alt=""/>
-      <caption webpage="maths" alt=""/>
-      <caption webpage="maths" alt=""/>
-      <caption webpage="maths" alt=""/>
-      <caption webpage="maths" alt=""/>
-      <caption webpage="maths" alt=""/>
-      <caption webpage="maths" alt=""/>
-      <caption webpage="maths" alt=""/>
-      <caption webpage="maths" alt=""/>
-      <caption webpage="maths" alt=""/>
-      <caption webpage="maths" alt=""/>
-      <caption webpage="maths" alt=""/>
-      <caption webpage="maths" alt=""/>
-      <caption webpage="cs" alt=""/>
-      <caption webpage="cs" alt=""/>
-      <caption webpage="cs" alt=""/>
-      <caption webpage="cs" alt=""/>
-      <caption webpage="cs" alt=""/>
-      <caption webpage="cs" alt=""/>
-      <caption webpage="cs" alt=""/>
-      <caption webpage="cs" alt=""/>
-      <caption webpage="cs" alt=""/>
-      <caption webpage="cs" alt=""/>
-      <caption webpage="cs" alt=""/>
-      <caption webpage="cs" alt=""/>
-      <caption webpage="cs" alt=""/>
-      <caption webpage="is" alt=""/>
-      <caption webpage="is" alt=""/>
-      <caption webpage="is" alt=""/>
-      <caption webpage="is" alt=""/>
-      <caption webpage="is" alt=""/>
-      <caption webpage="is" alt=""/>
-      <caption webpage="is" alt=""/>
-      <caption webpage="is" alt=""/>
-      <caption webpage="is" alt=""/>
-      <caption webpage="is" alt=""/>
-      <caption webpage="is" alt=""/>
-      <caption webpage="is" alt=""/>
-      <caption webpage="is" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="phy" alt=""/>
+      <caption webpage="phy" alt=""/>
+      <caption webpage="phy" alt=""/>
+      <caption webpage="phy" alt=""/>
+      <caption webpage="phy" alt=""/>
+      <caption webpage="phy" alt=""/>
+      <caption webpage="phy" alt=""/>
+      <caption webpage="phy" alt=""/>
+      <caption webpage="phy" alt=""/>
+      <caption webpage="phy" alt=""/>
+      <caption webpage="phy" alt=""/>
+      <caption webpage="phy" alt=""/>
+      <caption webpage="phy" alt=""/>
+      <caption webpage="ec" alt=""/>
+      <caption webpage="ec" alt=""/>
+      <caption webpage="ec" alt=""/>
+      <caption webpage="ec" alt=""/>
+      <caption webpage="ec" alt=""/>
+      <caption webpage="ec" alt=""/>
+      <caption webpage="ec" alt=""/>
+      <caption webpage="ec" alt=""/>
+      <caption webpage="ec" alt=""/>
+      <caption webpage="ec" alt=""/>
+      <caption webpage="ec" alt=""/>
+      <caption webpage="ec" alt=""/>
+      <caption webpage="ec" alt=""/>
+      <caption webpage="civil" alt=""/>
+      <caption webpage="civil" alt=""/>
+      <caption webpage="civil" alt=""/>
+      <caption webpage="civil" alt=""/>
+      <caption webpage="civil" alt=""/>
+      <caption webpage="civil" alt=""/>
+      <caption webpage="civil" alt=""/>
+      <caption webpage="civil" alt=""/>
+      <caption webpage="civil" alt=""/>
+      <caption webpage="civil" alt=""/>
+      <caption webpage="civil" alt=""/>
+      <caption webpage="civil" alt=""/>
+      <caption webpage="civil" alt=""/>
       <caption webpage="is56" alt=""/>
       <caption webpage="is56" alt=""/>
       <caption webpage="is56" alt=""/>
@@ -1680,19 +1680,19 @@
       <caption webpage="is56" alt=""/>
       <caption webpage="is56" alt=""/>
       <caption webpage="is56" alt=""/>
-      <caption webpage="civ" alt=""/>
-      <caption webpage="civ" alt=""/>
-      <caption webpage="civ" alt=""/>
-      <caption webpage="civ" alt=""/>
-      <caption webpage="civ" alt=""/>
-      <caption webpage="civ" alt=""/>
-      <caption webpage="civ" alt=""/>
-      <caption webpage="civ" alt=""/>
-      <caption webpage="civ" alt=""/>
-      <caption webpage="civ" alt=""/>
-      <caption webpage="civ" alt=""/>
-      <caption webpage="civ" alt=""/>
-      <caption webpage="civ" alt=""/>
+      <caption webpage="maths" alt=""/>
+      <caption webpage="maths" alt=""/>
+      <caption webpage="maths" alt=""/>
+      <caption webpage="maths" alt=""/>
+      <caption webpage="maths" alt=""/>
+      <caption webpage="maths" alt=""/>
+      <caption webpage="maths" alt=""/>
+      <caption webpage="maths" alt=""/>
+      <caption webpage="maths" alt=""/>
+      <caption webpage="maths" alt=""/>
+      <caption webpage="maths" alt=""/>
+      <caption webpage="maths" alt=""/>
+      <caption webpage="maths" alt=""/>
       <caption webpage="pic-galary" alt=""/>
       <caption webpage="pic-galary" alt=""/>
       <caption webpage="pic-galary" alt=""/>
@@ -1709,110 +1709,19 @@
       <caption webpage="pic-galary" alt=""/>
     </file>
     <file name="close_light.png" crc="126613487" seo="true" ref="home:semister:1st2nd:3rd:civil:maths:ele:eme:phy:cc:caed:eln:pcd:chem:aec:tt:cs:is:mec:ec:civ:cs34:cs78:cs56:ec34:ec78:ec56:mc34:mc76:mc56:cs12:ec12:mc12:is12:is78:is56:is34:cv78:cv56:cv34:cv12:feed:exm-tricks:pic-galary:lib:impotant-cnts:moti-vds:results:e-store">
-      <caption webpage="e-store" alt=""/>
-      <caption webpage="e-store" alt=""/>
-      <caption webpage="e-store" alt=""/>
-      <caption webpage="e-store" alt=""/>
-      <caption webpage="e-store" alt=""/>
-      <caption webpage="e-store" alt=""/>
-      <caption webpage="e-store" alt=""/>
-      <caption webpage="e-store" alt=""/>
-      <caption webpage="e-store" alt=""/>
-      <caption webpage="e-store" alt=""/>
-      <caption webpage="e-store" alt=""/>
-      <caption webpage="e-store" alt=""/>
-      <caption webpage="e-store" alt=""/>
-      <caption webpage="phy" alt=""/>
-      <caption webpage="phy" alt=""/>
-      <caption webpage="phy" alt=""/>
-      <caption webpage="phy" alt=""/>
-      <caption webpage="phy" alt=""/>
-      <caption webpage="phy" alt=""/>
-      <caption webpage="phy" alt=""/>
-      <caption webpage="phy" alt=""/>
-      <caption webpage="phy" alt=""/>
-      <caption webpage="phy" alt=""/>
-      <caption webpage="phy" alt=""/>
-      <caption webpage="phy" alt=""/>
-      <caption webpage="phy" alt=""/>
-      <caption webpage="ec" alt=""/>
-      <caption webpage="ec" alt=""/>
-      <caption webpage="ec" alt=""/>
-      <caption webpage="ec" alt=""/>
-      <caption webpage="ec" alt=""/>
-      <caption webpage="ec" alt=""/>
-      <caption webpage="ec" alt=""/>
-      <caption webpage="ec" alt=""/>
-      <caption webpage="ec" alt=""/>
-      <caption webpage="ec" alt=""/>
-      <caption webpage="ec" alt=""/>
-      <caption webpage="ec" alt=""/>
-      <caption webpage="ec" alt=""/>
-      <caption webpage="civil" alt=""/>
-      <caption webpage="civil" alt=""/>
-      <caption webpage="civil" alt=""/>
-      <caption webpage="civil" alt=""/>
-      <caption webpage="civil" alt=""/>
-      <caption webpage="civil" alt=""/>
-      <caption webpage="civil" alt=""/>
-      <caption webpage="civil" alt=""/>
-      <caption webpage="civil" alt=""/>
-      <caption webpage="civil" alt=""/>
-      <caption webpage="civil" alt=""/>
-      <caption webpage="civil" alt=""/>
-      <caption webpage="civil" alt=""/>
-      <caption webpage="cc" alt=""/>
-      <caption webpage="cc" alt=""/>
-      <caption webpage="cc" alt=""/>
-      <caption webpage="cc" alt=""/>
-      <caption webpage="cc" alt=""/>
-      <caption webpage="cc" alt=""/>
-      <caption webpage="cc" alt=""/>
-      <caption webpage="cc" alt=""/>
-      <caption webpage="cc" alt=""/>
-      <caption webpage="cc" alt=""/>
-      <caption webpage="cc" alt=""/>
-      <caption webpage="cc" alt=""/>
-      <caption webpage="cc" alt=""/>
-      <caption webpage="feed" alt=""/>
-      <caption webpage="feed" alt=""/>
-      <caption webpage="feed" alt=""/>
-      <caption webpage="feed" alt=""/>
-      <caption webpage="feed" alt=""/>
-      <caption webpage="feed" alt=""/>
-      <caption webpage="feed" alt=""/>
-      <caption webpage="feed" alt=""/>
-      <caption webpage="feed" alt=""/>
-      <caption webpage="feed" alt=""/>
-      <caption webpage="feed" alt=""/>
-      <caption webpage="feed" alt=""/>
-      <caption webpage="feed" alt=""/>
-      <caption webpage="ele" alt=""/>
-      <caption webpage="ele" alt=""/>
-      <caption webpage="ele" alt=""/>
-      <caption webpage="ele" alt=""/>
-      <caption webpage="ele" alt=""/>
-      <caption webpage="ele" alt=""/>
-      <caption webpage="ele" alt=""/>
-      <caption webpage="ele" alt=""/>
-      <caption webpage="ele" alt=""/>
-      <caption webpage="ele" alt=""/>
-      <caption webpage="ele" alt=""/>
-      <caption webpage="ele" alt=""/>
-      <caption webpage="ele" alt=""/>
-      <caption webpage="exm-tricks" alt=""/>
-      <caption webpage="exm-tricks" alt=""/>
-      <caption webpage="exm-tricks" alt=""/>
-      <caption webpage="exm-tricks" alt=""/>
-      <caption webpage="exm-tricks" alt=""/>
-      <caption webpage="exm-tricks" alt=""/>
-      <caption webpage="exm-tricks" alt=""/>
-      <caption webpage="exm-tricks" alt=""/>
-      <caption webpage="exm-tricks" alt=""/>
-      <caption webpage="exm-tricks" alt=""/>
-      <caption webpage="exm-tricks" alt=""/>
-      <caption webpage="exm-tricks" alt=""/>
-      <caption webpage="exm-tricks" alt=""/>
+      <caption webpage="cv56" alt=""/>
+      <caption webpage="cv56" alt=""/>
+      <caption webpage="cv56" alt=""/>
+      <caption webpage="cv56" alt=""/>
+      <caption webpage="cv56" alt=""/>
+      <caption webpage="cv56" alt=""/>
+      <caption webpage="cv56" alt=""/>
+      <caption webpage="cv56" alt=""/>
+      <caption webpage="cv56" alt=""/>
+      <caption webpage="cv56" alt=""/>
+      <caption webpage="cv56" alt=""/>
+      <caption webpage="cv56" alt=""/>
+      <caption webpage="cv56" alt=""/>
       <caption webpage="ec12" alt=""/>
       <caption webpage="ec12" alt=""/>
       <caption webpage="ec12" alt=""/>
@@ -1826,6 +1735,84 @@
       <caption webpage="ec12" alt=""/>
       <caption webpage="ec12" alt=""/>
       <caption webpage="ec12" alt=""/>
+      <caption webpage="eln" alt=""/>
+      <caption webpage="eln" alt=""/>
+      <caption webpage="eln" alt=""/>
+      <caption webpage="eln" alt=""/>
+      <caption webpage="eln" alt=""/>
+      <caption webpage="eln" alt=""/>
+      <caption webpage="eln" alt=""/>
+      <caption webpage="eln" alt=""/>
+      <caption webpage="eln" alt=""/>
+      <caption webpage="eln" alt=""/>
+      <caption webpage="eln" alt=""/>
+      <caption webpage="eln" alt=""/>
+      <caption webpage="eln" alt=""/>
+      <caption webpage="ec56" alt=""/>
+      <caption webpage="ec56" alt=""/>
+      <caption webpage="ec56" alt=""/>
+      <caption webpage="ec56" alt=""/>
+      <caption webpage="ec56" alt=""/>
+      <caption webpage="ec56" alt=""/>
+      <caption webpage="ec56" alt=""/>
+      <caption webpage="ec56" alt=""/>
+      <caption webpage="ec56" alt=""/>
+      <caption webpage="ec56" alt=""/>
+      <caption webpage="ec56" alt=""/>
+      <caption webpage="ec56" alt=""/>
+      <caption webpage="ec56" alt=""/>
+      <caption webpage="cc" alt=""/>
+      <caption webpage="cc" alt=""/>
+      <caption webpage="cc" alt=""/>
+      <caption webpage="cc" alt=""/>
+      <caption webpage="cc" alt=""/>
+      <caption webpage="cc" alt=""/>
+      <caption webpage="cc" alt=""/>
+      <caption webpage="cc" alt=""/>
+      <caption webpage="cc" alt=""/>
+      <caption webpage="cc" alt=""/>
+      <caption webpage="cc" alt=""/>
+      <caption webpage="cc" alt=""/>
+      <caption webpage="cc" alt=""/>
+      <caption webpage="civ" alt=""/>
+      <caption webpage="civ" alt=""/>
+      <caption webpage="civ" alt=""/>
+      <caption webpage="civ" alt=""/>
+      <caption webpage="civ" alt=""/>
+      <caption webpage="civ" alt=""/>
+      <caption webpage="civ" alt=""/>
+      <caption webpage="civ" alt=""/>
+      <caption webpage="civ" alt=""/>
+      <caption webpage="civ" alt=""/>
+      <caption webpage="civ" alt=""/>
+      <caption webpage="civ" alt=""/>
+      <caption webpage="civ" alt=""/>
+      <caption webpage="ele" alt=""/>
+      <caption webpage="ele" alt=""/>
+      <caption webpage="ele" alt=""/>
+      <caption webpage="ele" alt=""/>
+      <caption webpage="ele" alt=""/>
+      <caption webpage="ele" alt=""/>
+      <caption webpage="ele" alt=""/>
+      <caption webpage="ele" alt=""/>
+      <caption webpage="ele" alt=""/>
+      <caption webpage="ele" alt=""/>
+      <caption webpage="ele" alt=""/>
+      <caption webpage="ele" alt=""/>
+      <caption webpage="ele" alt=""/>
+      <caption webpage="is" alt=""/>
+      <caption webpage="is" alt=""/>
+      <caption webpage="is" alt=""/>
+      <caption webpage="is" alt=""/>
+      <caption webpage="is" alt=""/>
+      <caption webpage="is" alt=""/>
+      <caption webpage="is" alt=""/>
+      <caption webpage="is" alt=""/>
+      <caption webpage="is" alt=""/>
+      <caption webpage="is" alt=""/>
+      <caption webpage="is" alt=""/>
+      <caption webpage="is" alt=""/>
+      <caption webpage="is" alt=""/>
       <caption webpage="mc12" alt=""/>
       <caption webpage="mc12" alt=""/>
       <caption webpage="mc12" alt=""/>
@@ -1839,19 +1826,32 @@
       <caption webpage="mc12" alt=""/>
       <caption webpage="mc12" alt=""/>
       <caption webpage="mc12" alt=""/>
-      <caption webpage="ec78" alt=""/>
-      <caption webpage="ec78" alt=""/>
-      <caption webpage="ec78" alt=""/>
-      <caption webpage="ec78" alt=""/>
-      <caption webpage="ec78" alt=""/>
-      <caption webpage="ec78" alt=""/>
-      <caption webpage="ec78" alt=""/>
-      <caption webpage="ec78" alt=""/>
-      <caption webpage="ec78" alt=""/>
-      <caption webpage="ec78" alt=""/>
-      <caption webpage="ec78" alt=""/>
-      <caption webpage="ec78" alt=""/>
-      <caption webpage="ec78" alt=""/>
+      <caption webpage="cs" alt=""/>
+      <caption webpage="cs" alt=""/>
+      <caption webpage="cs" alt=""/>
+      <caption webpage="cs" alt=""/>
+      <caption webpage="cs" alt=""/>
+      <caption webpage="cs" alt=""/>
+      <caption webpage="cs" alt=""/>
+      <caption webpage="cs" alt=""/>
+      <caption webpage="cs" alt=""/>
+      <caption webpage="cs" alt=""/>
+      <caption webpage="cs" alt=""/>
+      <caption webpage="cs" alt=""/>
+      <caption webpage="cs" alt=""/>
+      <caption webpage="is78" alt=""/>
+      <caption webpage="is78" alt=""/>
+      <caption webpage="is78" alt=""/>
+      <caption webpage="is78" alt=""/>
+      <caption webpage="is78" alt=""/>
+      <caption webpage="is78" alt=""/>
+      <caption webpage="is78" alt=""/>
+      <caption webpage="is78" alt=""/>
+      <caption webpage="is78" alt=""/>
+      <caption webpage="is78" alt=""/>
+      <caption webpage="is78" alt=""/>
+      <caption webpage="is78" alt=""/>
+      <caption webpage="is78" alt=""/>
       <caption webpage="1st2nd" alt=""/>
       <caption webpage="1st2nd" alt=""/>
       <caption webpage="1st2nd" alt=""/>
@@ -1878,32 +1878,32 @@
       <caption webpage="moti-vds" alt=""/>
       <caption webpage="moti-vds" alt=""/>
       <caption webpage="moti-vds" alt=""/>
-      <caption webpage="semister" alt=""/>
-      <caption webpage="semister" alt=""/>
-      <caption webpage="semister" alt=""/>
-      <caption webpage="semister" alt=""/>
-      <caption webpage="semister" alt=""/>
-      <caption webpage="semister" alt=""/>
-      <caption webpage="semister" alt=""/>
-      <caption webpage="semister" alt=""/>
-      <caption webpage="semister" alt=""/>
-      <caption webpage="semister" alt=""/>
-      <caption webpage="semister" alt=""/>
-      <caption webpage="semister" alt=""/>
-      <caption webpage="semister" alt=""/>
-      <caption webpage="is78" alt=""/>
-      <caption webpage="is78" alt=""/>
-      <caption webpage="is78" alt=""/>
-      <caption webpage="is78" alt=""/>
-      <caption webpage="is78" alt=""/>
-      <caption webpage="is78" alt=""/>
-      <caption webpage="is78" alt=""/>
-      <caption webpage="is78" alt=""/>
-      <caption webpage="is78" alt=""/>
-      <caption webpage="is78" alt=""/>
-      <caption webpage="is78" alt=""/>
-      <caption webpage="is78" alt=""/>
-      <caption webpage="is78" alt=""/>
+      <caption webpage="aec" alt=""/>
+      <caption webpage="aec" alt=""/>
+      <caption webpage="aec" alt=""/>
+      <caption webpage="aec" alt=""/>
+      <caption webpage="aec" alt=""/>
+      <caption webpage="aec" alt=""/>
+      <caption webpage="aec" alt=""/>
+      <caption webpage="aec" alt=""/>
+      <caption webpage="aec" alt=""/>
+      <caption webpage="aec" alt=""/>
+      <caption webpage="aec" alt=""/>
+      <caption webpage="aec" alt=""/>
+      <caption webpage="aec" alt=""/>
+      <caption webpage="feed" alt=""/>
+      <caption webpage="feed" alt=""/>
+      <caption webpage="feed" alt=""/>
+      <caption webpage="feed" alt=""/>
+      <caption webpage="feed" alt=""/>
+      <caption webpage="feed" alt=""/>
+      <caption webpage="feed" alt=""/>
+      <caption webpage="feed" alt=""/>
+      <caption webpage="feed" alt=""/>
+      <caption webpage="feed" alt=""/>
+      <caption webpage="feed" alt=""/>
+      <caption webpage="feed" alt=""/>
+      <caption webpage="feed" alt=""/>
       <caption webpage="chem" alt=""/>
       <caption webpage="chem" alt=""/>
       <caption webpage="chem" alt=""/>
@@ -1917,19 +1917,19 @@
       <caption webpage="chem" alt=""/>
       <caption webpage="chem" alt=""/>
       <caption webpage="chem" alt=""/>
-      <caption webpage="ec56" alt=""/>
-      <caption webpage="ec56" alt=""/>
-      <caption webpage="ec56" alt=""/>
-      <caption webpage="ec56" alt=""/>
-      <caption webpage="ec56" alt=""/>
-      <caption webpage="ec56" alt=""/>
-      <caption webpage="ec56" alt=""/>
-      <caption webpage="ec56" alt=""/>
-      <caption webpage="ec56" alt=""/>
-      <caption webpage="ec56" alt=""/>
-      <caption webpage="ec56" alt=""/>
-      <caption webpage="ec56" alt=""/>
-      <caption webpage="ec56" alt=""/>
+      <caption webpage="exm-tricks" alt=""/>
+      <caption webpage="exm-tricks" alt=""/>
+      <caption webpage="exm-tricks" alt=""/>
+      <caption webpage="exm-tricks" alt=""/>
+      <caption webpage="exm-tricks" alt=""/>
+      <caption webpage="exm-tricks" alt=""/>
+      <caption webpage="exm-tricks" alt=""/>
+      <caption webpage="exm-tricks" alt=""/>
+      <caption webpage="exm-tricks" alt=""/>
+      <caption webpage="exm-tricks" alt=""/>
+      <caption webpage="exm-tricks" alt=""/>
+      <caption webpage="exm-tricks" alt=""/>
+      <caption webpage="exm-tricks" alt=""/>
       <caption webpage="tt" alt=""/>
       <caption webpage="tt" alt=""/>
       <caption webpage="tt" alt=""/>
@@ -1969,19 +1969,19 @@
       <caption webpage="cs78" alt=""/>
       <caption webpage="cs78" alt=""/>
       <caption webpage="cs78" alt=""/>
-      <caption webpage="aec" alt=""/>
-      <caption webpage="aec" alt=""/>
-      <caption webpage="aec" alt=""/>
-      <caption webpage="aec" alt=""/>
-      <caption webpage="aec" alt=""/>
-      <caption webpage="aec" alt=""/>
-      <caption webpage="aec" alt=""/>
-      <caption webpage="aec" alt=""/>
-      <caption webpage="aec" alt=""/>
-      <caption webpage="aec" alt=""/>
-      <caption webpage="aec" alt=""/>
-      <caption webpage="aec" alt=""/>
-      <caption webpage="aec" alt=""/>
+      <caption webpage="semister" alt=""/>
+      <caption webpage="semister" alt=""/>
+      <caption webpage="semister" alt=""/>
+      <caption webpage="semister" alt=""/>
+      <caption webpage="semister" alt=""/>
+      <caption webpage="semister" alt=""/>
+      <caption webpage="semister" alt=""/>
+      <caption webpage="semister" alt=""/>
+      <caption webpage="semister" alt=""/>
+      <caption webpage="semister" alt=""/>
+      <caption webpage="semister" alt=""/>
+      <caption webpage="semister" alt=""/>
+      <caption webpage="semister" alt=""/>
       <caption webpage="mec" alt=""/>
       <caption webpage="mec" alt=""/>
       <caption webpage="mec" alt=""/>
@@ -2193,19 +2193,19 @@
       <caption webpage="is12" alt=""/>
       <caption webpage="is12" alt=""/>
       <caption webpage="is12" alt=""/>
-      <caption webpage="eln" alt=""/>
-      <caption webpage="eln" alt=""/>
-      <caption webpage="eln" alt=""/>
-      <caption webpage="eln" alt=""/>
-      <caption webpage="eln" alt=""/>
-      <caption webpage="eln" alt=""/>
-      <caption webpage="eln" alt=""/>
-      <caption webpage="eln" alt=""/>
-      <caption webpage="eln" alt=""/>
-      <caption webpage="eln" alt=""/>
-      <caption webpage="eln" alt=""/>
-      <caption webpage="eln" alt=""/>
-      <caption webpage="eln" alt=""/>
+      <caption webpage="ec78" alt=""/>
+      <caption webpage="ec78" alt=""/>
+      <caption webpage="ec78" alt=""/>
+      <caption webpage="ec78" alt=""/>
+      <caption webpage="ec78" alt=""/>
+      <caption webpage="ec78" alt=""/>
+      <caption webpage="ec78" alt=""/>
+      <caption webpage="ec78" alt=""/>
+      <caption webpage="ec78" alt=""/>
+      <caption webpage="ec78" alt=""/>
+      <caption webpage="ec78" alt=""/>
+      <caption webpage="ec78" alt=""/>
+      <caption webpage="ec78" alt=""/>
       <caption webpage="ec34" alt=""/>
       <caption webpage="ec34" alt=""/>
       <caption webpage="ec34" alt=""/>
@@ -2245,58 +2245,58 @@
       <caption webpage="cs12" alt=""/>
       <caption webpage="cs12" alt=""/>
       <caption webpage="cs12" alt=""/>
-      <caption webpage="cv56" alt=""/>
-      <caption webpage="cv56" alt=""/>
-      <caption webpage="cv56" alt=""/>
-      <caption webpage="cv56" alt=""/>
-      <caption webpage="cv56" alt=""/>
-      <caption webpage="cv56" alt=""/>
-      <caption webpage="cv56" alt=""/>
-      <caption webpage="cv56" alt=""/>
-      <caption webpage="cv56" alt=""/>
-      <caption webpage="cv56" alt=""/>
-      <caption webpage="cv56" alt=""/>
-      <caption webpage="cv56" alt=""/>
-      <caption webpage="cv56" alt=""/>
-      <caption webpage="maths" alt=""/>
-      <caption webpage="maths" alt=""/>
-      <caption webpage="maths" alt=""/>
-      <caption webpage="maths" alt=""/>
-      <caption webpage="maths" alt=""/>
-      <caption webpage="maths" alt=""/>
-      <caption webpage="maths" alt=""/>
-      <caption webpage="maths" alt=""/>
-      <caption webpage="maths" alt=""/>
-      <caption webpage="maths" alt=""/>
-      <caption webpage="maths" alt=""/>
-      <caption webpage="maths" alt=""/>
-      <caption webpage="maths" alt=""/>
-      <caption webpage="cs" alt=""/>
-      <caption webpage="cs" alt=""/>
-      <caption webpage="cs" alt=""/>
-      <caption webpage="cs" alt=""/>
-      <caption webpage="cs" alt=""/>
-      <caption webpage="cs" alt=""/>
-      <caption webpage="cs" alt=""/>
-      <caption webpage="cs" alt=""/>
-      <caption webpage="cs" alt=""/>
-      <caption webpage="cs" alt=""/>
-      <caption webpage="cs" alt=""/>
-      <caption webpage="cs" alt=""/>
-      <caption webpage="cs" alt=""/>
-      <caption webpage="is" alt=""/>
-      <caption webpage="is" alt=""/>
-      <caption webpage="is" alt=""/>
-      <caption webpage="is" alt=""/>
-      <caption webpage="is" alt=""/>
-      <caption webpage="is" alt=""/>
-      <caption webpage="is" alt=""/>
-      <caption webpage="is" alt=""/>
-      <caption webpage="is" alt=""/>
-      <caption webpage="is" alt=""/>
-      <caption webpage="is" alt=""/>
-      <caption webpage="is" alt=""/>
-      <caption webpage="is" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="phy" alt=""/>
+      <caption webpage="phy" alt=""/>
+      <caption webpage="phy" alt=""/>
+      <caption webpage="phy" alt=""/>
+      <caption webpage="phy" alt=""/>
+      <caption webpage="phy" alt=""/>
+      <caption webpage="phy" alt=""/>
+      <caption webpage="phy" alt=""/>
+      <caption webpage="phy" alt=""/>
+      <caption webpage="phy" alt=""/>
+      <caption webpage="phy" alt=""/>
+      <caption webpage="phy" alt=""/>
+      <caption webpage="phy" alt=""/>
+      <caption webpage="ec" alt=""/>
+      <caption webpage="ec" alt=""/>
+      <caption webpage="ec" alt=""/>
+      <caption webpage="ec" alt=""/>
+      <caption webpage="ec" alt=""/>
+      <caption webpage="ec" alt=""/>
+      <caption webpage="ec" alt=""/>
+      <caption webpage="ec" alt=""/>
+      <caption webpage="ec" alt=""/>
+      <caption webpage="ec" alt=""/>
+      <caption webpage="ec" alt=""/>
+      <caption webpage="ec" alt=""/>
+      <caption webpage="ec" alt=""/>
+      <caption webpage="civil" alt=""/>
+      <caption webpage="civil" alt=""/>
+      <caption webpage="civil" alt=""/>
+      <caption webpage="civil" alt=""/>
+      <caption webpage="civil" alt=""/>
+      <caption webpage="civil" alt=""/>
+      <caption webpage="civil" alt=""/>
+      <caption webpage="civil" alt=""/>
+      <caption webpage="civil" alt=""/>
+      <caption webpage="civil" alt=""/>
+      <caption webpage="civil" alt=""/>
+      <caption webpage="civil" alt=""/>
+      <caption webpage="civil" alt=""/>
       <caption webpage="is56" alt=""/>
       <caption webpage="is56" alt=""/>
       <caption webpage="is56" alt=""/>
@@ -2310,19 +2310,19 @@
       <caption webpage="is56" alt=""/>
       <caption webpage="is56" alt=""/>
       <caption webpage="is56" alt=""/>
-      <caption webpage="civ" alt=""/>
-      <caption webpage="civ" alt=""/>
-      <caption webpage="civ" alt=""/>
-      <caption webpage="civ" alt=""/>
-      <caption webpage="civ" alt=""/>
-      <caption webpage="civ" alt=""/>
-      <caption webpage="civ" alt=""/>
-      <caption webpage="civ" alt=""/>
-      <caption webpage="civ" alt=""/>
-      <caption webpage="civ" alt=""/>
-      <caption webpage="civ" alt=""/>
-      <caption webpage="civ" alt=""/>
-      <caption webpage="civ" alt=""/>
+      <caption webpage="maths" alt=""/>
+      <caption webpage="maths" alt=""/>
+      <caption webpage="maths" alt=""/>
+      <caption webpage="maths" alt=""/>
+      <caption webpage="maths" alt=""/>
+      <caption webpage="maths" alt=""/>
+      <caption webpage="maths" alt=""/>
+      <caption webpage="maths" alt=""/>
+      <caption webpage="maths" alt=""/>
+      <caption webpage="maths" alt=""/>
+      <caption webpage="maths" alt=""/>
+      <caption webpage="maths" alt=""/>
+      <caption webpage="maths" alt=""/>
       <caption webpage="pic-galary" alt=""/>
       <caption webpage="pic-galary" alt=""/>
       <caption webpage="pic-galary" alt=""/>
@@ -2806,10 +2806,10 @@
       <caption webpage="fb-cmnt" alt=""/>
     </file>
   </folder>
-  <file name="home.html" crc="433338640" seo="true" mt="1516707871492" redirect="true"/>
+  <file name="home.html" crc="410068556" seo="true" mt="1516712180798" redirect="true"/>
   <file name="index.html" crc="4185294529" seo="true" mt="1516702442861" redirect="true"/>
   <file name="class-arena.html" crc="19454862" seo="true" mt="1515831571407" redirect="true"/>
-  <file name="news.html" crc="346784784" seo="true" mt="1516711787911" redirect="true"/>
+  <file name="news.html" crc="481744796" seo="true" mt="1516712155163" redirect="true"/>
   <file name="semister.html" crc="316247698" seo="true" mt="1516707871492" redirect="true"/>
   <file name="1st2nd.html" crc="4008682445" seo="true" mt="1516707871492" redirect="true"/>
   <file name="3rd.html" crc="394498978" seo="true" mt="1516707871492" redirect="true"/>
