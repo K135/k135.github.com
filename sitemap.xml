@@ -98,15 +98,6 @@
     <lastmod>2018-01-23</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/photo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/menu_icon_04_white_3line-crop-u14811.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/close_light.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://k135.github.io/news.html</loc>
