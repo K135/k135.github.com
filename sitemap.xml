@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://k135.github.io/index.html</loc>
-    <lastmod>2018-01-23</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -11,81 +11,9 @@
   </url>
   <url>
     <loc>http://k135.github.io/home.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/919640_645609698787151_1575441357_o.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/944655_139228056266586_1314664118_n.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/10498264_751851691547862_2905110643826272024_o.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/10623930_364826563713119_913287904126587620_o.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/11879195_971675462882803_6540340150170608876_o.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/15895809_1818989861708293_3454621915634792776_o.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/17017070_1107927916002886_93508154744323640_o.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/17308974_1338112499612018_2670949743840173358_n.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/17807635_1867227863551159_1150622815762493134_o.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/17814407_1867241283549817_2213413436206092322_o.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/17855616_1867239830216629_5575951197224521046_o.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/17880279_1867241170216495_3379367898951389447_o.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/17880375_1867237183550227_4410171942946316158_o.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/17917531_1867239833549962_8835431084361499059_o.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/17917610_1867240026883276_4331466286102484591_o.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/18199499_1879029529037242_414271486870980734_n.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/18274813_1879029505703911_2341616446771790682_n.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/18491373_1882802565327022_8593137062054927299_o.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/18698253_1204476276348049_2909079173344367843_n.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/22181408_1618039608271874_2465178973078226541_o.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/top%20engineering%20colleges%20in%20karnataka%20rank%20wise.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/photo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/menu_icon_04_white_3line-crop-u14811.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/close_light.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://k135.github.io/all-ap.html</loc>
@@ -95,18 +23,9 @@
   </url>
   <url>
     <loc>http://k135.github.io/class-arena.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/photo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/menu_icon_04_white_3line-crop-u14811.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/close_light.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://k135.github.io/news.html</loc>
@@ -116,7 +35,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/semister.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -131,7 +50,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/1st2nd.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -146,7 +65,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/3rd.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -191,7 +110,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/civil.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -212,7 +131,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/maths.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -227,7 +146,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/ele.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -242,7 +161,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/eme.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -425,7 +344,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/phy.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -440,7 +359,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/cc.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -455,7 +374,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/caed.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -470,7 +389,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/eln.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -485,7 +404,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/pcd.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -500,7 +419,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/chem.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -515,7 +434,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/aec.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -806,7 +725,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/tt.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -821,7 +740,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/cs.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -836,7 +755,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/is.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -851,7 +770,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/mec.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -866,7 +785,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/ec.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -881,7 +800,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/civ.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -896,7 +815,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/cs34.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -911,7 +830,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/cs78.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -926,7 +845,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/cs56.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -941,7 +860,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/ec34.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -956,7 +875,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/ec78.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -971,7 +890,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/ec56.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -986,7 +905,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/mc34.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1001,7 +920,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/mc76.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1016,7 +935,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/mc56.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1031,7 +950,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/cs12.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1046,7 +965,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/ec12.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1061,7 +980,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/mc12.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1076,7 +995,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/is12.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1091,7 +1010,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/is78.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1106,7 +1025,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/is56.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1121,7 +1040,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/is34.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1136,7 +1055,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/cv78.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1151,7 +1070,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/cv56.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1166,7 +1085,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/cv34.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1181,7 +1100,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/cv12.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1202,7 +1121,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/feed.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1217,7 +1136,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/exm-tricks.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1232,7 +1151,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/pic-galary.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1499,7 +1418,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/lib.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1514,7 +1433,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/impotant-cnts.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1547,7 +1466,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/moti-vds.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -1574,7 +1493,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/results.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -2309,7 +2228,7 @@
   </url>
   <url>
     <loc>http://k135.github.io/e-store.html</loc>
-    <lastmod>2018-01-24</lastmod>
+    <lastmod>2018-01-25</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
