@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="k135.github.io" resolutions="1x" timestamp="1517175105417">
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="k135.github.io" resolutions="1x" timestamp="1517175168790">
   <folder name="css">
     <file name="site_global.css" crc="4058872297"/>
     <file name="master_d-master.css" crc="243252737" ref="cs34:cs78:cs56:ec34:ec78:ec56:mc34:mc76:mc56:cs12:ec12:mc12:is12:is78:is56:is34:cv78:cv56:cv34:cv12"/>
@@ -321,7 +321,7 @@
     <file name="nomq_preview_master_e-master.css" crc="3824530138" ref="tt:360:feed:exm-tricks:pic-galary:lib:impotant-cnts:moti-vds:results:e-store:news"/>
     <file name="nomq_360.css" crc="82774036" ref="360"/>
     <file name="nomq_news.css" crc="4194331690" ref="news"/>
-    <file name="master_f-master.css" crc="476536670" ref="class-arena"/>
+    <file name="master_f-master.css" crc="3998324191" ref="class-arena"/>
     <file name="untitled-273.css" crc="262780114" ref="untitled-273"/>
   </folder>
   <folder name="assets">
@@ -2950,7 +2950,7 @@
   </folder>
   <file name="home.html" crc="45740812" seo="true" mt="1516898956370" redirect="true"/>
   <file name="index.html" crc="217096467" seo="true" mt="1516991735603" redirect="true"/>
-  <file name="class-arena.html" crc="4048184292" seo="true" mt="1517175087770" redirect="true"/>
+  <file name="class-arena.html" crc="104472241" seo="true" mt="1517175149126" redirect="true"/>
   <file name="news.html" crc="192905795" seo="true" mt="1517161880913" redirect="true"/>
   <file name="semister.html" crc="76968000" seo="true" mt="1517158403192" redirect="true"/>
   <file name="1st2nd.html" crc="3917910886" seo="true" mt="1517158403192" redirect="true"/>
