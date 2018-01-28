@@ -11,14 +11,14 @@
 document.documentElement.className = document.documentElement.className.replace(/\bnojs\b/g, 'js');
 
 // Check that all required assets are uploaded and up-to-date
-if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.musemenu.js", "jquery.museresponsive.js", "require.js", "cs.css"], "outOfDate":[]};
+if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["museutils.js", "museconfig.js", "jquery.watch.js", "jquery.museresponsive.js", "require.js", "webpro.js", "musewpslideshow.js", "jquery.museoverlay.js", "touchswipe.js", "jquery.musemenu.js", "cs.css"], "outOfDate":[]};
 </script>
   
   <title>CS</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=3947600981"/>
-  <link rel="stylesheet" type="text/css" href="css/master_c-master.css?crc=3888323730"/>
-  <link rel="stylesheet" type="text/css" href="css/cs.css?crc=4196776585" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4058872297"/>
+  <link rel="stylesheet" type="text/css" href="css/master_c-master.css?crc=3953044374"/>
+  <link rel="stylesheet" type="text/css" href="css/cs.css?crc=73863653" id="pagesheet"/>
   <!-- IE-only CSS -->
   <!--[if lt IE 9]>
   <link rel="stylesheet" type="text/css" href="css/nomq_preview_master_c-master.css?crc=3824530138"/>
@@ -1056,7 +1056,7 @@ Muse.Utils.prepHyperlinks(true);/* body */
 Muse.Utils.resizeHeight('.popup_anchor.allow_click_through');/* resize height */
 Muse.Utils.makeButtonsVisibleAfterSettingMinWidth();/* body */
 Muse.Utils.initWidget('.MenuBar', ['#bp_infinity', '#bp_1055', '#bp_841', '#bp_545', '#bp_520', '#bp_490', '#bp_464', '#bp_427', '#bp_382', '#bp_357', '#bp_320', '#bp_285', '#bp_248'], function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
-Muse.Utils.initWidget('#pamphletu14118', ['#bp_infinity', '#bp_1055', '#bp_841', '#bp_545', '#bp_520', '#bp_490', '#bp_464', '#bp_427', '#bp_382', '#bp_357', '#bp_320', '#bp_285', '#bp_248'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'click',deactivationEvent:'none',autoPlay:false,displayInterval:3000,transitionStyle:'horizontal',transitionDuration:500,hideAllContentsFirst:true,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:true}); });/* #pamphletu14118 */
+Muse.Utils.initWidget('#pamphletu14118', ['#bp_infinity', '#bp_1055', '#bp_841', '#bp_545', '#bp_520', '#bp_490', '#bp_464', '#bp_427', '#bp_382', '#bp_357', '#bp_320', '#bp_285', '#bp_248'], function(elem) { return new WebPro.Widget.ContentSlideShow(elem, {contentLayout_runtime:'stack',event:'mouseover',deactivationEvent:'none',autoPlay:false,displayInterval:3000,transitionStyle:'horizontal',transitionDuration:500,hideAllContentsFirst:true,shuffle:false,enableSwipe:true,resumeAutoplay:true,resumeAutoplayInterval:3000,playOnce:false,autoActivate_runtime:false,isResponsive:true}); });/* #pamphletu14118 */
 Muse.Utils.fullPage('#page');/* 100% height page */
 $( '.breakpoint' ).registerBreakpoint();/* Register breakpoints */
 Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
