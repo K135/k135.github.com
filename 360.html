@@ -16,9 +16,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   
   <title>360</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=3998876361"/>
-  <link rel="stylesheet" type="text/css" href="css/master_g-master.css?crc=217360706"/>
-  <link rel="stylesheet" type="text/css" href="css/360.css?crc=421007778" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=171772317"/>
+  <link rel="stylesheet" type="text/css" href="css/master_g-master.css?crc=216982235"/>
+  <link rel="stylesheet" type="text/css" href="css/360.css?crc=93022166" id="pagesheet"/>
     <!--custom head HTML-->
   <style>
 #buttonu72568
@@ -80,12 +80,58 @@ right: 0px
       <p><span id="u35886">&nbsp;Explore the college</span></p>
      </div>
     </div>
-    <div class="colelem" id="u35906"><!-- custom html -->
-     <script src="https://360player.io/static/dist/scripts/embed.js" async></script>
+    <div class="clearfix colelem" id="pu86828"><!-- group -->
+     <div class="grpelem" id="u86828"><!-- custom html -->
+      	<head>
+		<meta charset="utf-8" />
+		<title>Photo Sphere Viewer</title>
+		<meta name="viewport" content="initial-scale=1.0" />
+		<script src="../three.min.js"></script>
+		<script src="../photo-sphere-viewer.min.js"></script>
+		<style>
+			html, body {
+				margin: 0;
+				width: 100%;
+				height: 100%;
+				overflow: hidden;
+			}
+
+			#container {
+				width: 100%;
+				height: 100%;
+			}
+		</style>
+	</head>
+
+	<body>
+		<div id="container"></div>
+
+		<script>
+			var div = document.getElementById('container');
+			var PSV = new PhotoSphereViewer({
+					panorama: 'http://tassedecafe.org/wp-content/uploads/2013/01/parc-saint-pierre-amiens.jpg',
+					container: div,
+					time_anim: 3000,
+					navbar: true,
+					navbar_style: {
+						backgroundColor: 'rgba(58, 67, 77, 0.7)'
+					},
+				});
+		</script>
+	</body>
+
+</html>
+
+     </div>
+     <div class="grpelem" id="u35906"><!-- custom html -->
+      <script src="https://360player.io/static/dist/scripts/embed.js" async></script>
 <iframe src="https://360player.io/p/THtmJF/" frameborder="0" width=280 height=315 allowfullscreen data-token="jRYKD8"></iframe>
+     </div>
     </div>
-    <div class="colelem" id="u86821"><!-- custom html -->
-     <iframe width="320" height="320" src="https://embed.imajize.com/6184545" frameborder="0" scrolling="no" style="background-color: #fff; border: 0;" allowfullscreen></iframe>
+    <div class="browser_width colelem" id="u86962-bw">
+     <div id="u86962"><!-- custom html -->
+      <iframe id="ado-18864" src="about:blank" frameborder="0" width="100%" height="261" webkitAllowFullScreen="1" mozallowfullscreen="1" allowFullScreen="1"></iframe><script type="text/javascript">document.getElementById("ado-18864").setAttribute("src", "//www.vroptimal-3dx-assets.com/content/18864?player=true&autoplay=true&referer=" + encodeURIComponent(window.location.href));</script><noscript><a href='https://www.omnivirt.com/content/18864/'>Virtual Reality Marketing</a>. <a href='https://www.omnivirt.com/'>Virtual Reality Advertising</a></noscript><script type="text/javascript" src="//remote.vroptimal-3dx-assets.com/scripts/vroptimal.js"></script>
+     </div>
     </div>
    </div>
    <div class="Button rounded-corners clearfix" id="buttonu72568" data-visibility="changed" style="visibility:hidden"><!-- container box -->
@@ -161,7 +207,7 @@ right: 0px
 </html>
     </div>
    </div>
-   <div class="verticalspacer" data-offset-top="899" data-content-above-spacer="899" data-content-below-spacer="62" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   <div class="verticalspacer" data-offset-top="838" data-content-above-spacer="837" data-content-below-spacer="108" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
   </div>
   <!-- JS includes -->
   <script type="text/javascript">
