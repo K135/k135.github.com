@@ -2,11 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://k135.github.io/index.html</loc>
-    <lastmod>2018-01-30</lastmod>
+    <lastmod>2018-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://k135.github.io/images/photo.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://k135.github.io/images/exam.png</image:loc>
     </image:image>
   </url>
   <url>
