@@ -3094,7 +3094,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://k135.github.io/untitled-260.html</loc>
+    <loc>http://k135.github.io/untitled-261.html</loc>
     <lastmod>2018-01-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -3190,13 +3190,13 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://k135.github.io/untitled-268.html</loc>
+    <loc>http://k135.github.io/untitled-260.html</loc>
     <lastmod>2018-01-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://k135.github.io/untitled-261.html</loc>
+    <loc>http://k135.github.io/untitled-269.html</loc>
     <lastmod>2018-01-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -3238,37 +3238,10 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://k135.github.io/untitled-272.html</loc>
+    <loc>http://k135.github.io/untitled-268.html</loc>
     <lastmod>2018-01-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-269.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-270.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-271.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/fb-cmnt.html</loc>
-    <lastmod>2018-01-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/pasted%20image%20250x250.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://k135.github.io/e-store.html</loc>
@@ -3319,14 +3292,47 @@
     </image:image>
   </url>
   <url>
-    <loc>http://k135.github.io/untitled-275.html</loc>
-    <lastmod>2018-01-30</lastmod>
+    <loc>http://k135.github.io/untitled-270.html</loc>
+    <lastmod>2018-01-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://k135.github.io/untitled-273.html</loc>
-    <lastmod>2018-01-29</lastmod>
+    <loc>http://k135.github.io/untitled-271.html</loc>
+    <lastmod>2018-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://k135.github.io/untitled-272.html</loc>
+    <lastmod>2018-01-19</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://k135.github.io/games.html</loc>
+    <lastmod>2018-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://k135.github.io/fb-cmnt.html</loc>
+    <lastmod>2018-01-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://k135.github.io/images/pasted%20image%20250x250.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://k135.github.io/vtu.html</loc>
+    <lastmod>2018-01-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://k135.github.io/jokes.html</loc>
+    <lastmod>2018-01-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
