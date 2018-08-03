@@ -1,3347 +1,677 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://k135.github.io/index.html</loc>
-    <lastmod>2018-02-02</lastmod>
+    <loc>http://appries.com/index.html</loc>
+    <lastmod>2018-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
+      <image:loc>http://appries.com/images/ic_home_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
+      <image:loc>http://appries.com/images/ic_class_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
+      <image:loc>http://appries.com/images/folded-newspaper%20(1).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
+      <image:loc>http://appries.com/images/table-clock.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
+      <image:loc>http://appries.com/images/college-graduation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
+      <image:loc>http://appries.com/images/feedback.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
+      <image:loc>http://appries.com/images/gallery.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
+      <image:loc>http://appries.com/images/agenda.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
+      <image:loc>http://appries.com/images/evaluation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
+      <image:loc>http://appries.com/images/exam.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/blinking-arrow-gif-3.gif</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://k135.github.io/home.html</loc>
-    <lastmod>2018-01-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/cnt-me.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://k135.github.io/class-arena.html</loc>
-    <lastmod>2018-01-31</lastmod>
+    <loc>http://appries.com/library.html</loc>
+    <lastmod>2018-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
-    </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
+      <image:loc>http://appries.com/images/ic_home_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
+      <image:loc>http://appries.com/images/ic_class_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
+      <image:loc>http://appries.com/images/folded-newspaper%20(1).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
+      <image:loc>http://appries.com/images/table-clock.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
+      <image:loc>http://appries.com/images/college-graduation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
+      <image:loc>http://appries.com/images/feedback.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
+      <image:loc>http://appries.com/images/gallery.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
+      <image:loc>http://appries.com/images/agenda.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
+      <image:loc>http://appries.com/images/evaluation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/blackboard.png</image:loc>
+      <image:loc>http://appries.com/images/exam.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/smart_guy_teaching_hg_wht.gif</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://k135.github.io/news.html</loc>
-    <lastmod>2018-02-01</lastmod>
+    <loc>http://appries.com/e-store.html</loc>
+    <lastmod>2018-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://appries.com/images/ic_home_white_24dp_2x.png</image:loc>
+    </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
+      <image:loc>http://appries.com/images/ic_class_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
+      <image:loc>http://appries.com/images/folded-newspaper%20(1).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
+      <image:loc>http://appries.com/images/table-clock.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
+      <image:loc>http://appries.com/images/college-graduation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
+      <image:loc>http://appries.com/images/feedback.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
+      <image:loc>http://appries.com/images/gallery.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
+      <image:loc>http://appries.com/images/agenda.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
+      <image:loc>http://appries.com/images/evaluation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
+      <image:loc>http://appries.com/images/exam.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
+      <image:loc>http://appries.com/images/wk2-min.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/newspaper.png</image:loc>
+      <image:loc>http://appries.com/images/wk3-min.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/stick_figure_reading_newspaper_500_clr.gif</image:loc>
+      <image:loc>http://appries.com/images/wk1-min.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://k135.github.io/semister.html</loc>
-    <lastmod>2018-01-31</lastmod>
+    <loc>http://appries.com/class-arena.html</loc>
+    <lastmod>2018-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://k135.github.io/images/photo.png</image:loc>
+      <image:loc>http://appries.com/images/ic_home_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/menu_icon_04_white_3line-crop-u14811.png</image:loc>
+      <image:loc>http://appries.com/images/ic_class_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/close_light.png</image:loc>
+      <image:loc>http://appries.com/images/folded-newspaper%20(1).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
+      <image:loc>http://appries.com/images/table-clock.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
+      <image:loc>http://appries.com/images/college-graduation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
+      <image:loc>http://appries.com/images/feedback.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
+      <image:loc>http://appries.com/images/gallery.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
+      <image:loc>http://appries.com/images/agenda.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
+      <image:loc>http://appries.com/images/evaluation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
+      <image:loc>http://appries.com/images/exam.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
+      <image:loc>http://appries.com/images/blackboard.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
+      <image:loc>http://appries.com/images/ezgifcom-optimize.gif</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://k135.github.io/1st2nd.html</loc>
-    <lastmod>2018-01-31</lastmod>
+    <loc>http://appries.com/live.html</loc>
+    <lastmod>2018-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/photo.png</image:loc>
-    </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/menu_icon_04_white_3line-crop-u14811.png</image:loc>
+      <image:loc>http://appries.com/images/ic_home_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/close_light.png</image:loc>
+      <image:loc>http://appries.com/images/ic_class_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
+      <image:loc>http://appries.com/images/folded-newspaper%20(1).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
+      <image:loc>http://appries.com/images/table-clock.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
+      <image:loc>http://appries.com/images/college-graduation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
+      <image:loc>http://appries.com/images/feedback.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
+      <image:loc>http://appries.com/images/gallery.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
+      <image:loc>http://appries.com/images/agenda.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
+      <image:loc>http://appries.com/images/evaluation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
+      <image:loc>http://appries.com/images/exam.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
+      <image:loc>http://appries.com/images/live.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
+      <image:loc>http://appries.com/images/live-online.gif</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://k135.github.io/3rd.html</loc>
-    <lastmod>2018-01-31</lastmod>
+    <loc>http://appries.com/360.html</loc>
+    <lastmod>2018-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/photo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/menu_icon_04_white_3line-crop-u14811.png</image:loc>
-    </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/close_light.png</image:loc>
+      <image:loc>http://appries.com/images/ic_home_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
+      <image:loc>http://appries.com/images/ic_class_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
+      <image:loc>http://appries.com/images/folded-newspaper%20(1).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
+      <image:loc>http://appries.com/images/table-clock.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
+      <image:loc>http://appries.com/images/college-graduation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
+      <image:loc>http://appries.com/images/feedback.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
+      <image:loc>http://appries.com/images/gallery.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
+      <image:loc>http://appries.com/images/agenda.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
+      <image:loc>http://appries.com/images/evaluation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
+      <image:loc>http://appries.com/images/exam.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
+      <image:loc>http://appries.com/images/360-degrees.png</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://k135.github.io/4th.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/8th.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://k135.github.io/7th.html</loc>
-    <lastmod>2018-01-13</lastmod>
+    <loc>http://appries.com/untitled-5.html</loc>
+    <lastmod>2018-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/6th.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/5th.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/civil.html</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/photo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/menu_icon_04_white_3line-crop-u14811.png</image:loc>
-    </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/close_light.png</image:loc>
+      <image:loc>http://appries.com/images/ic_home_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
+      <image:loc>http://appries.com/images/ic_class_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
+      <image:loc>http://appries.com/images/folded-newspaper%20(1).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
+      <image:loc>http://appries.com/images/table-clock.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
+      <image:loc>http://appries.com/images/college-graduation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
+      <image:loc>http://appries.com/images/feedback.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
+      <image:loc>http://appries.com/images/gallery.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
+      <image:loc>http://appries.com/images/agenda.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
+      <image:loc>http://appries.com/images/evaluation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
+      <image:loc>http://appries.com/images/exam.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
+      <image:loc>http://appries.com/images/live.gif</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://k135.github.io/7mec.html</loc>
-    <lastmod>2018-01-13</lastmod>
+    <loc>http://appries.com/untitled-6.html</loc>
+    <lastmod>2018-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/maths.html</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/photo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/menu_icon_04_white_3line-crop-u14811.png</image:loc>
-    </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/close_light.png</image:loc>
+      <image:loc>http://appries.com/images/ic_home_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
+      <image:loc>http://appries.com/images/ic_class_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
+      <image:loc>http://appries.com/images/folded-newspaper%20(1).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
+      <image:loc>http://appries.com/images/table-clock.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
+      <image:loc>http://appries.com/images/college-graduation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
+      <image:loc>http://appries.com/images/feedback.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
+      <image:loc>http://appries.com/images/gallery.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
+      <image:loc>http://appries.com/images/agenda.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
+      <image:loc>http://appries.com/images/evaluation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
+      <image:loc>http://appries.com/images/exam.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
+      <image:loc>http://appries.com/images/live.gif</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://k135.github.io/ele.html</loc>
-    <lastmod>2018-01-31</lastmod>
+    <loc>http://appries.com/untitled-7.html</loc>
+    <lastmod>2018-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://k135.github.io/images/photo.png</image:loc>
+      <image:loc>http://appries.com/images/ic_home_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/menu_icon_04_white_3line-crop-u14811.png</image:loc>
+      <image:loc>http://appries.com/images/ic_class_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/close_light.png</image:loc>
+      <image:loc>http://appries.com/images/folded-newspaper%20(1).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
+      <image:loc>http://appries.com/images/table-clock.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
+      <image:loc>http://appries.com/images/college-graduation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
+      <image:loc>http://appries.com/images/feedback.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
+      <image:loc>http://appries.com/images/gallery.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
+      <image:loc>http://appries.com/images/agenda.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
+      <image:loc>http://appries.com/images/evaluation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
+      <image:loc>http://appries.com/images/exam.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
+      <image:loc>http://appries.com/images/live.gif</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://k135.github.io/eme.html</loc>
-    <lastmod>2018-01-31</lastmod>
+    <loc>http://appries.com/vr.html</loc>
+    <lastmod>2018-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/photo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/menu_icon_04_white_3line-crop-u14811.png</image:loc>
-    </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/close_light.png</image:loc>
+      <image:loc>http://appries.com/images/ic_home_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
+      <image:loc>http://appries.com/images/ic_class_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
+      <image:loc>http://appries.com/images/folded-newspaper%20(1).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
+      <image:loc>http://appries.com/images/table-clock.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
+      <image:loc>http://appries.com/images/college-graduation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
+      <image:loc>http://appries.com/images/feedback.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
+      <image:loc>http://appries.com/images/gallery.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
+      <image:loc>http://appries.com/images/agenda.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
+      <image:loc>http://appries.com/images/evaluation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
+      <image:loc>http://appries.com/images/exam.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
+      <image:loc>http://appries.com/images/a-logo.png</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://k135.github.io/3mech.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/3civil.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/3cs.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/3ec.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/4mech.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/4civil.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/4cs.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/4ec.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/5mec.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/5cv.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/5is.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/5cs.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/5ec.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/6mec.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/6cv.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/6is.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://k135.github.io/6cs.html</loc>
-    <lastmod>2018-01-13</lastmod>
+    <loc>http://appries.com/motivation.html</loc>
+    <lastmod>2018-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/6ec.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/7cv.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/7is.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/7cs.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/7ec.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/8mec.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/8cv.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/8is.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/8cs.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/8ec.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/pc.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/phy.html</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
     <image:image>
-      <image:loc>http://k135.github.io/images/photo.png</image:loc>
+      <image:loc>http://appries.com/images/ic_home_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/menu_icon_04_white_3line-crop-u14811.png</image:loc>
+      <image:loc>http://appries.com/images/ic_class_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/close_light.png</image:loc>
+      <image:loc>http://appries.com/images/folded-newspaper%20(1).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
+      <image:loc>http://appries.com/images/table-clock.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
+      <image:loc>http://appries.com/images/college-graduation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
+      <image:loc>http://appries.com/images/feedback.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
+      <image:loc>http://appries.com/images/gallery.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
+      <image:loc>http://appries.com/images/agenda.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
+      <image:loc>http://appries.com/images/evaluation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
+      <image:loc>http://appries.com/images/exam.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
+      <image:loc>http://appries.com/images/a-logo.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://k135.github.io/cc.html</loc>
-    <lastmod>2018-01-31</lastmod>
+    <loc>http://appries.com/user.html</loc>
+    <lastmod>2018-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/photo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/menu_icon_04_white_3line-crop-u14811.png</image:loc>
-    </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/close_light.png</image:loc>
+      <image:loc>http://appries.com/images/ic_home_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
+      <image:loc>http://appries.com/images/ic_class_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
+      <image:loc>http://appries.com/images/folded-newspaper%20(1).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
+      <image:loc>http://appries.com/images/table-clock.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
+      <image:loc>http://appries.com/images/college-graduation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
+      <image:loc>http://appries.com/images/feedback.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
+      <image:loc>http://appries.com/images/gallery.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
+      <image:loc>http://appries.com/images/agenda.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
+      <image:loc>http://appries.com/images/evaluation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
+      <image:loc>http://appries.com/images/exam.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://k135.github.io/caed.html</loc>
-    <lastmod>2018-01-31</lastmod>
+    <loc>http://appries.com/info.html</loc>
+    <lastmod>2018-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/photo.png</image:loc>
-    </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/menu_icon_04_white_3line-crop-u14811.png</image:loc>
+      <image:loc>http://appries.com/images/ic_home_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/close_light.png</image:loc>
+      <image:loc>http://appries.com/images/ic_class_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
+      <image:loc>http://appries.com/images/folded-newspaper%20(1).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
+      <image:loc>http://appries.com/images/table-clock.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
+      <image:loc>http://appries.com/images/college-graduation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
+      <image:loc>http://appries.com/images/feedback.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
+      <image:loc>http://appries.com/images/gallery.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
+      <image:loc>http://appries.com/images/agenda.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
+      <image:loc>http://appries.com/images/evaluation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
+      <image:loc>http://appries.com/images/exam.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
+      <image:loc>http://appries.com/images/a-logo.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://k135.github.io/eln.html</loc>
-    <lastmod>2018-01-31</lastmod>
+    <loc>http://appries.com/news.html</loc>
+    <lastmod>2018-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/photo.png</image:loc>
-    </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/menu_icon_04_white_3line-crop-u14811.png</image:loc>
+      <image:loc>http://appries.com/images/ic_home_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/close_light.png</image:loc>
+      <image:loc>http://appries.com/images/ic_class_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
+      <image:loc>http://appries.com/images/folded-newspaper%20(1).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
+      <image:loc>http://appries.com/images/table-clock.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
+      <image:loc>http://appries.com/images/college-graduation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
+      <image:loc>http://appries.com/images/feedback.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
+      <image:loc>http://appries.com/images/gallery.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
+      <image:loc>http://appries.com/images/agenda.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
+      <image:loc>http://appries.com/images/evaluation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
+      <image:loc>http://appries.com/images/exam.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
+      <image:loc>http://appries.com/images/a-logo.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://k135.github.io/pcd.html</loc>
-    <lastmod>2018-01-31</lastmod>
+    <loc>http://appries.com/contact.html</loc>
+    <lastmod>2018-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/photo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/menu_icon_04_white_3line-crop-u14811.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/close_light.png</image:loc>
-    </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
+      <image:loc>http://appries.com/images/ic_home_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
+      <image:loc>http://appries.com/images/ic_class_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
+      <image:loc>http://appries.com/images/folded-newspaper%20(1).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
+      <image:loc>http://appries.com/images/table-clock.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
+      <image:loc>http://appries.com/images/college-graduation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
+      <image:loc>http://appries.com/images/feedback.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
+      <image:loc>http://appries.com/images/gallery.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
+      <image:loc>http://appries.com/images/agenda.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
+      <image:loc>http://appries.com/images/evaluation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
+      <image:loc>http://appries.com/images/exam.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://k135.github.io/chem.html</loc>
-    <lastmod>2018-01-31</lastmod>
+    <loc>http://appries.com/roll-model.html</loc>
+    <lastmod>2018-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://k135.github.io/images/photo.png</image:loc>
+      <image:loc>http://appries.com/images/ic_home_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/menu_icon_04_white_3line-crop-u14811.png</image:loc>
+      <image:loc>http://appries.com/images/ic_class_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/close_light.png</image:loc>
+      <image:loc>http://appries.com/images/folded-newspaper%20(1).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
+      <image:loc>http://appries.com/images/table-clock.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
+      <image:loc>http://appries.com/images/college-graduation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
+      <image:loc>http://appries.com/images/feedback.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
+      <image:loc>http://appries.com/images/gallery.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
+      <image:loc>http://appries.com/images/agenda.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
+      <image:loc>http://appries.com/images/evaluation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
+      <image:loc>http://appries.com/images/exam.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
+      <image:loc>http://appries.com/images/a-logo.png</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
   </url>
   <url>
-    <loc>http://k135.github.io/aec.html</loc>
-    <lastmod>2018-01-31</lastmod>
+    <loc>http://appries.com/appries-talk.html</loc>
+    <lastmod>2018-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/photo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/menu_icon_04_white_3line-crop-u14811.png</image:loc>
-    </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/close_light.png</image:loc>
+      <image:loc>http://appries.com/images/ic_home_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
+      <image:loc>http://appries.com/images/ic_class_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
+      <image:loc>http://appries.com/images/folded-newspaper%20(1).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
+      <image:loc>http://appries.com/images/table-clock.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
+      <image:loc>http://appries.com/images/college-graduation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
+      <image:loc>http://appries.com/images/feedback.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
+      <image:loc>http://appries.com/images/gallery.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
+      <image:loc>http://appries.com/images/agenda.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
+      <image:loc>http://appries.com/images/evaluation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
+      <image:loc>http://appries.com/images/exam.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
+      <image:loc>http://appries.com/images/ezgifcom-resize(1).png</image:loc>
     </image:image>
-  </url>
-  <url>
-    <loc>http://k135.github.io/qp3ec.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/em.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/ei.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/na.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/de.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/dms.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/usp.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/co.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/dsc.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/ade.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/qp3cs.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/som.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/qp3cv.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/bmc.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/eg.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/bs.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/fm.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/bdt.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/qp3mec.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/mcw.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/ms.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/mom.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/mp.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/qp4ec.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/lic.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/psc.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/ss.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/csy.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/se.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/qp4cs.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/dc.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/oops.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/mm.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/daa.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/ads.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/qp4cv.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/as.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/bgte.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/ct.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/ah.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/adt.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/qp4mc.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/kom.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/mmm.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/mto.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/fme.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/tt.html</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/table-clock%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/clock.gif</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://k135.github.io/cs.html</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://k135.github.io/is.html</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://k135.github.io/mec.html</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://k135.github.io/ec.html</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://k135.github.io/civ.html</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://k135.github.io/cs34.html</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://k135.github.io/cs78.html</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://k135.github.io/cs56.html</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://k135.github.io/ec34.html</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://k135.github.io/ec78.html</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://k135.github.io/ec56.html</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://k135.github.io/mc34.html</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://k135.github.io/mc76.html</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://k135.github.io/mc56.html</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://k135.github.io/cs12.html</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://k135.github.io/ec12.html</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://k135.github.io/mc12.html</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://k135.github.io/is12.html</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://k135.github.io/is78.html</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://k135.github.io/is56.html</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://k135.github.io/is34.html</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://k135.github.io/cv78.html</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://k135.github.io/cv56.html</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://k135.github.io/cv34.html</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://k135.github.io/cv12.html</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://k135.github.io/360.html</loc>
-    <lastmod>2018-02-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/360-degrees.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/earth-spinning-rotating-animation-14.gif</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://k135.github.io/feed.html</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/facebook-emoji-reactions.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/707692.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://k135.github.io/exm-tricks.html</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/giphy.gif</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://k135.github.io/pic-galary.html</loc>
-    <lastmod>2018-02-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/unnamed.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/giphy%20(1).gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/video-camera.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://k135.github.io/lib.html</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://k135.github.io/impotant-cnts.html</loc>
-    <lastmod>2018-02-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/phone_calling.gif</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/phone-book.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://k135.github.io/all-ap.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-211.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/add.html</loc>
-    <lastmod>2018-01-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/moti-vds.html</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://k135.github.io/sngs.html</loc>
-    <lastmod>2018-01-28</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/movies.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/results.html</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/photo.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/menu_icon_04_white_3line-crop-u14811.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/close_light.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://k135.github.io/more-news.html</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-153.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-154.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-155.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-156.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-157.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-158.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-159.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-160.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-161.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-162.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-163.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-164.html</loc>
-    <lastmod>2018-01-13</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-152.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-165.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-166.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-167.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-168.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-169.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-170.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-171.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-172.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-173.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-174.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-175.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-176.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-177.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-178.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-179.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-180.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-181.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-182.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-183.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-184.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-185.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-186.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-187.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-188.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-189.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-190.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-191.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-192.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-193.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-194.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-195.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-196.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-197.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-198.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-199.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-200.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-201.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-202.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-203.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-204.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-205.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-206.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-207.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-208.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-209.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-210.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-244.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-212.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-213.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-214.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-215.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-216.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-217.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-218.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-219.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-220.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-221.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-222.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-223.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-224.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-225.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-226.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-227.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-228.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-229.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-230.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-231.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-232.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-233.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-234.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-235.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-236.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-237.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-238.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-239.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-240.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-241.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-242.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-243.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-261.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-245.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-246.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-247.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-248.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-249.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-250.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-251.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-252.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-253.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-254.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-255.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-256.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-257.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-258.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-259.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-260.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-269.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-262.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-263.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-264.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-265.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-266.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-267.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-268.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/e-store.html</loc>
-    <lastmod>2018-02-02</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/psd.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_home_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/folded-newspaper%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/college-graduation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/evaluation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/ic_class_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/table-clock.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/feedback.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.github.io/images/exam.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-270.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-271.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/untitled-272.html</loc>
-    <lastmod>2018-01-19</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/games.html</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://k135.github.io/fb-cmnt.html</loc>
-    <lastmod>2018-01-21</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://k135.github.io/images/pasted%20image%20250x250.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://k135.github.io/vtu.html</loc>
-    <lastmod>2018-01-31</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://k135.github.io/jokes.html</loc>
-    <lastmod>2018-01-31</lastmod>
+    <loc>http://appries.com/assets/2.gif</loc>
+    <lastmod>2018-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://k135.github.io/assets/samplegif.gif</loc>
-    <lastmod>2014-02-28</lastmod>
+    <loc>http://appries.com/assets/ezgif.com-optimize.gif</loc>
+    <lastmod>2018-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
