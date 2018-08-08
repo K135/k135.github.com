@@ -1,380 +1,317 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="k135.com" resolutions="1x" timestamp="1533663626058">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1533730424822">
+  <folder name="assets">
+    <file name="ezgif.com-optimize.gif" crc="4016622575" seo="true" mt="1533248845000"/>
+    <file name="2.gif" crc="3872288782" seo="true" mt="1533290408000"/>
+  </folder>
   <folder name="css">
-    <file name="site_global.css" crc="31777617"/>
-    <file name="master_a-master.css" crc="297078927" ref="index:other-services:laptops:desktop:contact-us"/>
-    <file name="index.css" crc="4194646166" ref="index"/>
-    <file name="other-services.css" crc="3792772841" ref="other-services"/>
-    <file name="laptops.css" crc="7017732" ref="laptops"/>
-    <file name="desktop.css" crc="3792772841" ref="desktop"/>
-    <file name="contact-us.css" crc="241840780" ref="contact-us"/>
+    <file name="site_global.css" crc="4043075392"/>
+    <file name="master_a-master.css" crc="354096969" ref="index:class-arena:360:live:vr:news:e-store:library:appries-talk:untitled-7:untitled-5:motivation:user:contact:info:roll-model:untitled-6"/>
+    <file name="index.css" crc="4084354178" ref="index"/>
+    <file name="master_c-master.css" crc="442082512" ref="live:untitled-7:untitled-5:untitled-6"/>
+    <file name="master_b-master.css" crc="4182994614" ref="class-arena:360:live:vr:news:e-store:library:appries-talk:untitled-7:untitled-5:motivation:user:contact:info:index:roll-model:untitled-6"/>
+    <file name="class-arena.css" crc="4249306701" ref="class-arena"/>
+    <file name="360.css" crc="383617024" ref="360"/>
+    <file name="live.css" crc="3796256764" ref="live"/>
+    <file name="vr.css" crc="4277264295" ref="vr"/>
+    <file name="news.css" crc="313326213" ref="news"/>
+    <file name="e-store.css" crc="238871128" ref="e-store"/>
+    <file name="library.css" crc="4288066729" ref="library"/>
+    <file name="appries-talk.css" crc="91933449" ref="appries-talk"/>
+    <file name="untitled-7.css" crc="437381922" ref="untitled-7"/>
+    <file name="untitled-5.css" crc="3981103854" ref="untitled-5"/>
+    <file name="motivation.css" crc="415029974" ref="motivation"/>
+    <file name="user.css" crc="200453917" ref="user"/>
+    <file name="contact.css" crc="200453917" ref="contact"/>
+    <file name="info.css" crc="87022232" ref="info"/>
+    <file name="roll-model.css" crc="142061245" ref="roll-model"/>
+    <file name="untitled-6.css" crc="486655501" ref="untitled-6"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:desktop:other-services:contact-us:laptops"/>
-    <file name="museutils.js" crc="340535759" ref="index:desktop:other-services:contact-us:laptops"/>
-    <file name="whatinput.js" crc="86476730" ref="index:desktop:other-services:contact-us:laptops"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:desktop:other-services:contact-us:laptops"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:desktop:other-services:contact-us:laptops"/>
-    <file name="require.js" crc="7928878" ref="index:desktop:other-services:contact-us:laptops"/>
-    <file name="webpro.js" crc="4059564322" ref="index:desktop:other-services:contact-us:laptops"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="index:contact-us:laptops"/>
-    <file name="form_check.php" crc="4020933626" ref="contact-us"/>
-    <file name="form_throttle.php" crc="4259590256" ref="contact-us"/>
-    <file name="form_process.php" crc="37464564" ref="contact-us"/>
-    <file name="musewpslideshow.js" crc="3862962738" ref="index:desktop:other-services:contact-us:laptops"/>
-    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:desktop:other-services:contact-us:laptops"/>
-    <file name="touchswipe.js" crc="4075097462" ref="index:desktop:other-services:contact-us:laptops"/>
-    <file name="jquery.scrolleffects.js" crc="39568856" ref="index:contact-us:laptops"/>
-    <file name="form-u20286.php" crc="226115295" ref="contact-us"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact"/>
+    <file name="museutils.js" crc="340535759" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact"/>
+    <file name="whatinput.js" crc="86476730" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact"/>
+    <file name="require.js" crc="7928878" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact"/>
+    <file name="webpro.js" crc="4059564322" ref="class-arena:untitled-5:library:e-store:info:motivation:vr:appries-talk:news"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="live:untitled-5:untitled-6:untitled-7"/>
+    <file name="form_check.php" crc="4020933626" ref="info"/>
+    <file name="form_throttle.php" crc="4259590256" ref="info"/>
+    <file name="form_process.php" crc="37464564" ref="info"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="class-arena:untitled-5:library:e-store:info:motivation:vr:appries-talk:news"/>
+    <file name="form-u3685.php" crc="3918452887" ref="info"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="index:laptops"/>
-    <file name="favicon.ico" crc="334736253" ref="index"/>
-    <file name="c18fbcdaf2964faf8f9c6454071ffb34-min.jpg" crc="190506168" seo="true" ref="index">
+    <file name="blank.gif" crc="4208392903" ref="index:class-arena:untitled-5:library:e-store:info:motivation:vr:appries-talk:news"/>
+    <file name="ic_home_white_24dp_2x.png" crc="216099558" seo="true" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact">
+      <caption webpage="360" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="class-arena" alt=""/>
+      <caption webpage="untitled-6" alt=""/>
+      <caption webpage="library" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="user" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="info" alt=""/>
+      <caption webpage="vr" alt=""/>
+      <caption webpage="motivation" alt=""/>
+      <caption webpage="live" alt=""/>
+      <caption webpage="untitled-5" alt=""/>
+      <caption webpage="roll-model" alt=""/>
+      <caption webpage="appries-talk" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
     </file>
-    <file name="computer-wallpaper-on-wallpaper-hd-20-min.jpg" crc="3806326351" seo="true" ref="index">
+    <file name="ic_class_white_24dp_2x.png" crc="3953811801" seo="true" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact">
+      <caption webpage="360" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="class-arena" alt=""/>
+      <caption webpage="untitled-6" alt=""/>
+      <caption webpage="library" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="user" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="info" alt=""/>
+      <caption webpage="vr" alt=""/>
+      <caption webpage="motivation" alt=""/>
+      <caption webpage="live" alt=""/>
+      <caption webpage="untitled-5" alt=""/>
+      <caption webpage="roll-model" alt=""/>
+      <caption webpage="appries-talk" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
     </file>
-    <file name="intel-cpu-1-min.jpg" crc="4161158817" seo="true" ref="index">
+    <file name="folded-newspaper (1).png" crc="354703472" seo="true" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact">
+      <caption webpage="360" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="class-arena" alt=""/>
+      <caption webpage="untitled-6" alt=""/>
+      <caption webpage="library" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="user" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="info" alt=""/>
+      <caption webpage="vr" alt=""/>
+      <caption webpage="motivation" alt=""/>
+      <caption webpage="live" alt=""/>
+      <caption webpage="untitled-5" alt=""/>
+      <caption webpage="roll-model" alt=""/>
+      <caption webpage="appries-talk" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
     </file>
-    <file name="maxresdefault-min.jpg" crc="95885457" seo="true" ref="index">
+    <file name="table-clock.png" crc="15504003" seo="true" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact">
+      <caption webpage="360" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="class-arena" alt=""/>
+      <caption webpage="untitled-6" alt=""/>
+      <caption webpage="library" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="user" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="info" alt=""/>
+      <caption webpage="vr" alt=""/>
+      <caption webpage="motivation" alt=""/>
+      <caption webpage="live" alt=""/>
+      <caption webpage="untitled-5" alt=""/>
+      <caption webpage="roll-model" alt=""/>
+      <caption webpage="appries-talk" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
     </file>
-    <file name="wallpaper2you_398570-min.jpg" crc="4164250732" seo="true" ref="index">
+    <file name="college-graduation.png" crc="4159836101" seo="true" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact">
+      <caption webpage="360" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="class-arena" alt=""/>
+      <caption webpage="untitled-6" alt=""/>
+      <caption webpage="library" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="user" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="info" alt=""/>
+      <caption webpage="vr" alt=""/>
+      <caption webpage="motivation" alt=""/>
+      <caption webpage="live" alt=""/>
+      <caption webpage="untitled-5" alt=""/>
+      <caption webpage="roll-model" alt=""/>
+      <caption webpage="appries-talk" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
     </file>
-    <file name="work-desk-wallpaper-cool-work-ac29dc2a4-4k-hd-desktop-wallpaper-for-4k-ultra-hd-tv-e280a2-wide-ultra-of-work-desk-wallpaper-1024x574-min.jpg" crc="3821644590" seo="true" ref="index">
+    <file name="feedback.png" crc="321401819" seo="true" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact">
+      <caption webpage="360" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="class-arena" alt=""/>
+      <caption webpage="untitled-6" alt=""/>
+      <caption webpage="library" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="user" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="info" alt=""/>
+      <caption webpage="vr" alt=""/>
+      <caption webpage="motivation" alt=""/>
+      <caption webpage="live" alt=""/>
+      <caption webpage="untitled-5" alt=""/>
+      <caption webpage="roll-model" alt=""/>
+      <caption webpage="appries-talk" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
     </file>
-    <file name="loading.gif" crc="3815509949" ref="index:laptops"/>
-    <file name="spectre_1-min.jpg" crc="4088049535" ref="index">
+    <file name="gallery.png" crc="4137936359" seo="true" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact">
+      <caption webpage="360" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="class-arena" alt=""/>
+      <caption webpage="untitled-6" alt=""/>
+      <caption webpage="library" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="user" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="info" alt=""/>
+      <caption webpage="vr" alt=""/>
+      <caption webpage="motivation" alt=""/>
+      <caption webpage="live" alt=""/>
+      <caption webpage="untitled-5" alt=""/>
+      <caption webpage="roll-model" alt=""/>
+      <caption webpage="appries-talk" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
     </file>
-    <file name="accord-laptop-min.png" crc="524329203" seo="true" ref="index">
+    <file name="agenda.png" crc="3940889591" seo="true" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact">
+      <caption webpage="360" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="class-arena" alt=""/>
+      <caption webpage="untitled-6" alt=""/>
+      <caption webpage="library" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="user" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="info" alt=""/>
+      <caption webpage="vr" alt=""/>
+      <caption webpage="motivation" alt=""/>
+      <caption webpage="live" alt=""/>
+      <caption webpage="untitled-5" alt=""/>
+      <caption webpage="roll-model" alt=""/>
+      <caption webpage="appries-talk" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
     </file>
-    <file name="accord desktop.png" crc="325970190" seo="true" ref="index">
+    <file name="evaluation.png" crc="493922299" seo="true" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact">
+      <caption webpage="360" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="class-arena" alt=""/>
+      <caption webpage="untitled-6" alt=""/>
+      <caption webpage="library" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="user" alt=""/>
       <caption webpage="index" alt=""/>
+      <caption webpage="info" alt=""/>
+      <caption webpage="vr" alt=""/>
+      <caption webpage="motivation" alt=""/>
+      <caption webpage="live" alt=""/>
+      <caption webpage="untitled-5" alt=""/>
+      <caption webpage="roll-model" alt=""/>
+      <caption webpage="appries-talk" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
     </file>
-    <file name="printers-min.png" crc="3795900008" seo="true" ref="index">
+    <file name="exam.png" crc="4086142318" seo="true" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact">
+      <caption webpage="360" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="class-arena" alt=""/>
+      <caption webpage="untitled-6" alt=""/>
+      <caption webpage="library" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="user" alt=""/>
       <caption webpage="index" alt=""/>
-    </file>
-    <file name="mobile accord.png" crc="455245251" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="intel-core-i5-8400-cpu-1000px-0002-v1-min.png" crc="4043935843" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="comp-accessories-min.png" crc="4142003895" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="accord services.png" crc="3871985824" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="computer_networking-min.png" crc="254374718" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="fasted-barcode-scanning-min.png" crc="141453827" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="u2141.png" crc="3775758128" ref="index"/>
-    <file name="u2141-r.png" crc="14953582" ref="index"/>
-    <file name="acer_logo-min.jpg" crc="3988935358" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="images-min.jpg" crc="22541734" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="1280px-toshiba_logosvg-min.png" crc="372462613" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="asus-logo-min.png" crc="424285822" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="canon-min.jpg" crc="219970619" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="index-min.jpg" crc="137964379" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="index-min-1.jpg" crc="223296006" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="weplogo-1-min.png" crc="3885562084" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="widget_aro_left.png" crc="4029003314" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="widget_aro_left-u2303-r-fr.png" crc="4264499881" ref="index"/>
-    <file name="widget_aro_left-u2303-m-fr.png" crc="4024866469" ref="index"/>
-    <file name="widget_aro_right.png" crc="3929504806" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="widget_aro_right-u2310-r-fr.png" crc="212878688" ref="index"/>
-    <file name="widget_aro_right-u2310-m-fr.png" crc="424184261" ref="index"/>
-    <file name="quote-white.png" crc="3776266627" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img.jpg" crc="402635456" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="laptop-min.jpg" crc="4190045307" ref="index"/>
-    <file name="accordsystem.png" crc="4235587245" seo="true" ref="index:desktop:other-services:contact-us:laptops">
-      <caption webpage="index" alt=""/>
-      <caption webpage="other-services" alt=""/>
-      <caption webpage="laptops" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="desktop" alt=""/>
-    </file>
-    <file name="accord laptop.png" crc="4207276365" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="img_computersandit1-min.jpg" crc="4157921992" seo="true" ref="index:desktop:other-services:contact-us:laptops">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="other-services" alt=""/>
-      <caption webpage="other-services" alt=""/>
-      <caption webpage="laptops" alt=""/>
-      <caption webpage="laptops" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="desktop" alt=""/>
-      <caption webpage="desktop" alt=""/>
-    </file>
-    <file name="services-systems-min.jpg" crc="95247115" seo="true" ref="index:desktop:other-services:contact-us:laptops">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="other-services" alt=""/>
-      <caption webpage="other-services" alt=""/>
-      <caption webpage="laptops" alt=""/>
-      <caption webpage="laptops" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="desktop" alt=""/>
-      <caption webpage="desktop" alt=""/>
-    </file>
-    <file name="green-splash-png-3.png" crc="499583139" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="183b149830549b19fa104048d07c72d7-crop-u4600.jpg" crc="3903669114" seo="true" ref="index:desktop:other-services:contact-us:laptops">
-      <caption webpage="index" alt=""/>
-      <caption webpage="other-services" alt=""/>
-      <caption webpage="laptops" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="desktop" alt=""/>
-    </file>
-    <file name="pred1-min117x74.png" crc="4283489051" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="hp-spectre-x360-156-133-4k-oled-e1451999689165-min.jpg" crc="4250467230" seo="true" ref="index:desktop:other-services:contact-us:laptops">
-      <caption webpage="index" alt=""/>
-      <caption webpage="other-services" alt=""/>
-      <caption webpage="laptops" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="desktop" alt=""/>
-    </file>
-    <file name="183b149830549b19fa104048d07c72d7-crop-u15631.jpg" crc="3903669114" seo="true" ref="index:desktop:other-services:contact-us:laptops">
-      <caption webpage="index" alt=""/>
-      <caption webpage="other-services" alt=""/>
-      <caption webpage="laptops" alt=""/>
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="desktop" alt=""/>
-    </file>
-    <file name="call-now.gif" crc="4261625131" seo="true" ref="contact-us">
-      <caption webpage="contact-us" alt=""/>
-    </file>
-    <file name="587169207-samsung-wallpapers-for-computers.jpg" crc="44525608" ref="contact-us">
-      <caption webpage="contact-us" alt=""/>
-    </file>
-    <file name="background_texture.jpg" crc="3868618883" ref="contact-us:laptops">
-      <caption webpage="contact-us" alt=""/>
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="hd-laptop-wallpapers-min.jpg" crc="69694496" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="acer e5-576.jpg" crc="3759900388" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="71mcr6m-0jl_sl1500_.jpg" crc="3846301822" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="81mfdtdmedl_sl1500_.jpg" crc="4156718516" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="81ng3dkixwl_sl1500_.jpg" crc="2851921" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="81-pjss5qyl_sl1500_.jpg" crc="3805401210" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="81e0j4c625l_sl1500_.jpg" crc="3864664662" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="81hkjahx27l_sl1500_.jpg" crc="4204612638" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="81n-8jj3bll_sl1500_.jpg" crc="4233066270" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="81qjwywoqnl_sl1500_.jpg" crc="260176298" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="81-pjss5qyl_sl1500_60x50.jpg" crc="380411151" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="81e0j4c625l_sl1500_60x51.jpg" crc="4092053716" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="81qjwywoqnl_sl1500_-crop-u9403.jpg" crc="3941718242" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="41emh1esghl.jpg" crc="300587263" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="41irdk3zyol.jpg" crc="3926695524" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="41vzk1bnw-l.jpg" crc="4202724365" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="31iyjwv2kjl.jpg" crc="8040745" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="41yhy-ybsql.jpg" crc="3835198464" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="51pbitzqy5l.jpg" crc="3976132661" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="wall.jpg" crc="4055079223" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="mp_q3fy17_ksp2_nvid_img1-min.png" crc="231093020" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="9877_thumb-359x280-min.png" crc="254561385" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="tb-laptops-with-character-min.png" crc="4247559935" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="main-qimg-e43371bba51e5239073d14d657e28aee-min.png" crc="4269449140" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="branding_lenovo-logo_lenovologoposred_low_res-min.png" crc="4083262638" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="u12594-5.png" crc="171441271" ref="laptops"/>
-    <file name="441895877lenovo-legion-y520-80wk0080ri.png" crc="303598767" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="lenovo-laptop-legion-1y720-15-front1.png" crc="4159407133" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="lenovo-laptop-legion-y520-15-hero227x161.png" crc="183112479" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="lenovo-laptop-legion-y720-15-front1215x161.png" crc="3875922463" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="lenovo-laptop-legion-y720-15-front3.png" crc="372897841" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="lenovo-laptop-legion-y520-15-hero.png" crc="263847583" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="lenovo-laptop-legion-y720-15-front1.png" crc="3796074839" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="u12121.png" crc="3969183710" ref="laptops"/>
-    <file name="u12121-r.png" crc="3969183710" ref="laptops"/>
-    <file name="u12128.png" crc="3948962594" ref="laptops"/>
-    <file name="u12128-r.png" crc="3959753469" ref="laptops"/>
-    <file name="u12126.png" crc="406960944" ref="laptops"/>
-    <file name="u12126-r.png" crc="3830232456" ref="laptops"/>
-    <file name="030117_lenovo_legion_2-min.jpg" crc="4054028741" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="acer-logo_2011-min.png" crc="83027403" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="u13234-6.png" crc="4153156630" ref="laptops"/>
-    <file name="untitled-3-min.png" crc="4019780719" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="prd3-min.png" crc="507182946" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="pred1-min207x130.png" crc="3993575779" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="pred2-min.png" crc="386830481" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="pred4-min207x130.png" crc="4138660502" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="pred1-min.png" crc="3804973100" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="pred4-min.png" crc="3889143795" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="u12967.png" crc="3775758128" ref="laptops"/>
-    <file name="u12967-r.png" crc="79028296" ref="laptops"/>
-    <file name="fw-min.jpg" crc="372316289" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="back_macbook1.png" crc="250440829" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="back_macbook2.png" crc="349899585" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-    </file>
-    <file name="lenovo-laptop-legion-y720-15-front.png" crc="4286607329" seo="true" ref="laptops">
-      <caption webpage="laptops" alt=""/>
-    </file>
+      <caption webpage="info" alt=""/>
+      <caption webpage="vr" alt=""/>
+      <caption webpage="motivation" alt=""/>
+      <caption webpage="live" alt=""/>
+      <caption webpage="untitled-5" alt=""/>
+      <caption webpage="roll-model" alt=""/>
+      <caption webpage="appries-talk" alt=""/>
+      <caption webpage="e-store" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
+    </file>
+    <file name="blackboard.png" crc="3903745103" seo="true" ref="class-arena">
+      <caption webpage="class-arena" alt=""/>
+    </file>
+    <file name="ezgifcom-optimize.gif" crc="4239198289" seo="true" ref="class-arena">
+      <caption webpage="class-arena" alt=""/>
+    </file>
+    <file name="live.gif" crc="731979" seo="true" ref="live:untitled-5:untitled-6:untitled-7">
+      <caption webpage="untitled-5" alt=""/>
+      <caption webpage="live" alt=""/>
+      <caption webpage="untitled-6" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
+    </file>
+    <file name="live-online.gif" crc="4173961902" seo="true" ref="live">
+      <caption webpage="live" alt=""/>
+    </file>
+    <file name="u1653-4.png" crc="4197426532" ref="live"/>
+    <file name="u1656-5.png" crc="475783774" ref="live"/>
+    <file name="new(1).jpg" crc="4169499292" ref="live:untitled-5:untitled-6:untitled-7">
+      <caption webpage="untitled-5" alt=""/>
+      <caption webpage="live" alt=""/>
+      <caption webpage="untitled-6" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
+    </file>
+    <file name="360-degrees.png" crc="4047945759" seo="true" ref="360">
+      <caption webpage="360" alt=""/>
+    </file>
+    <file name="u1827.png" crc="3961191361" ref="untitled-5"/>
+    <file name="u1827-a.png" crc="3769891314" ref="untitled-5"/>
+    <file name="u1873-5.png" crc="4138945161" ref="untitled-7"/>
+    <file name="wk2-min.png" crc="4058114455" seo="true" ref="e-store">
+      <caption webpage="e-store" alt=""/>
+    </file>
+    <file name="wk3-min.png" crc="3927965858" seo="true" ref="e-store">
+      <caption webpage="e-store" alt=""/>
+    </file>
+    <file name="wk1-min.png" crc="4090174943" seo="true" ref="e-store">
+      <caption webpage="e-store" alt=""/>
+    </file>
+    <file name="a-logo.png" crc="355027145" seo="true" ref="info:motivation:vr:roll-model:news">
+      <caption webpage="info" alt=""/>
+      <caption webpage="vr" alt=""/>
+      <caption webpage="motivation" alt=""/>
+      <caption webpage="roll-model" alt=""/>
+      <caption webpage="news" alt=""/>
+    </file>
+    <file name="u3364-12.png" crc="4292863099" ref="info"/>
+    <file name="u3652.png" crc="258660476" ref="info"/>
+    <file name="u3652-a.png" crc="4275788155" ref="info"/>
+    <file name="u3688.png" crc="367801736" ref="info"/>
+    <file name="u3688-ferr.png" crc="4167419731" ref="info"/>
+    <file name="u3698.png" crc="64063507" ref="info"/>
+    <file name="u3698-ferr.png" crc="236448411" ref="info"/>
+    <file name="u3693.png" crc="476800045" ref="info"/>
+    <file name="u3693-ferr.png" crc="155627648" ref="info"/>
+    <file name="u4189.png" crc="4090365695" ref="vr"/>
+    <file name="u4189-a.png" crc="3770894615" ref="vr"/>
+    <file name="ezgifcom-resize(1).png" crc="3997572877" seo="true" ref="appries-talk">
+      <caption webpage="appries-talk" alt=""/>
+    </file>
+    <file name="u4467.png" crc="3914663155" ref="appries-talk"/>
+    <file name="u4467-a.png" crc="3914663155" ref="appries-talk"/>
   </folder>
-  <file name="index.html" crc="22709221" seo="true" mt="1533663437094" redirect="true"/>
-  <file name="desktop.html" crc="53913799" seo="true" mt="1533663437094" redirect="true"/>
-  <file name="other-services.html" crc="4223230283" seo="true" mt="1533663437094" redirect="true"/>
-  <file name="contact-us.html" crc="3763407308" seo="true" mt="1533663437094" redirect="true"/>
-  <file name="laptops.html" crc="55104683" seo="true" mt="1533663519966" redirect="true"/>
+  <file name="index.html" crc="391723621" seo="true" mt="1533730325741" redirect="true"/>
+  <file name="class-arena.html" crc="3851308584" seo="true" mt="1533730325741" redirect="true"/>
+  <file name="live.html" crc="4289866486" seo="true" mt="1533730325741" redirect="true"/>
+  <file name="360.html" crc="433456803" seo="true" mt="1533730325741" redirect="true"/>
+  <file name="untitled-5.html" crc="311349334" seo="true" mt="1533730325741" redirect="true"/>
+  <file name="untitled-6.html" crc="4168856881" seo="true" mt="1533730325741" redirect="true"/>
+  <file name="untitled-7.html" crc="123668149" seo="true" mt="1533730325741" redirect="true"/>
+  <file name="library.html" crc="4075651286" seo="true" mt="1533730325741" redirect="true"/>
+  <file name="e-store.html" crc="474645645" seo="true" mt="1533730325741" redirect="true"/>
+  <file name="user.html" crc="4253404822" seo="true" mt="1533730325741" redirect="true"/>
+  <file name="info.html" crc="150610466" seo="true" mt="1533730325741" redirect="true"/>
+  <file name="motivation.html" crc="308705174" seo="true" mt="1533730325741" redirect="true"/>
+  <file name="vr.html" crc="3955626196" seo="true" mt="1533730325741" redirect="true"/>
+  <file name="roll-model.html" crc="258369471" seo="true" mt="1533730325741" redirect="true"/>
+  <file name="appries-talk.html" crc="292679522" seo="true" mt="1533730325741" redirect="true"/>
+  <file name="news.html" crc="3812206707" seo="true" mt="1533730325741" redirect="true"/>
+  <file name="contact.html" crc="4174938790" seo="true" mt="1533730325741" redirect="true"/>
 </manifest>

@@ -1,306 +1,678 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://k135.com/index.html</loc>
-    <lastmod>2018-08-07</lastmod>
+    <loc>http://appries.com/index.html</loc>
+    <lastmod>2018-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://k135.com/images/c18fbcdaf2964faf8f9c6454071ffb34-min.jpg</image:loc>
+      <image:loc>http://appries.com/images/ic_home_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/computer-wallpaper-on-wallpaper-hd-20-min.jpg</image:loc>
+      <image:loc>http://appries.com/images/ic_class_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/intel-cpu-1-min.jpg</image:loc>
+      <image:loc>http://appries.com/images/folded-newspaper%20(1).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/maxresdefault-min.jpg</image:loc>
+      <image:loc>http://appries.com/images/table-clock.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/wallpaper2you_398570-min.jpg</image:loc>
+      <image:loc>http://appries.com/images/college-graduation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/work-desk-wallpaper-cool-work-ac29dc2a4-4k-hd-desktop-wallpaper-for-4k-ultra-hd-tv-e280a2-wide-ultra-of-work-desk-wallpaper-1024x574-min.jpg</image:loc>
+      <image:loc>http://appries.com/images/feedback.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/accord-laptop-min.png</image:loc>
+      <image:loc>http://appries.com/images/gallery.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/accord%20desktop.png</image:loc>
+      <image:loc>http://appries.com/images/agenda.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/printers-min.png</image:loc>
+      <image:loc>http://appries.com/images/evaluation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/mobile%20accord.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.com/images/intel-core-i5-8400-cpu-1000px-0002-v1-min.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.com/images/comp-accessories-min.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.com/images/accord%20services.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.com/images/computer_networking-min.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.com/images/fasted-barcode-scanning-min.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.com/images/quote-white.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.com/images/accordsystem.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.com/images/img_computersandit1-min.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.com/images/services-systems-min.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.com/images/183b149830549b19fa104048d07c72d7-crop-u4600.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.com/images/pred1-min117x74.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.com/images/hp-spectre-x360-156-133-4k-oled-e1451999689165-min.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://k135.com/images/183b149830549b19fa104048d07c72d7-crop-u15631.jpg</image:loc>
+      <image:loc>http://appries.com/images/exam.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://k135.com/desktop.html</loc>
-    <lastmod>2018-08-07</lastmod>
+    <loc>http://appries.com/library.html</loc>
+    <lastmod>2018-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://k135.com/images/accordsystem.png</image:loc>
+      <image:loc>http://appries.com/images/ic_home_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/img_computersandit1-min.jpg</image:loc>
+      <image:loc>http://appries.com/images/ic_class_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/services-systems-min.jpg</image:loc>
+      <image:loc>http://appries.com/images/folded-newspaper%20(1).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/183b149830549b19fa104048d07c72d7-crop-u4600.jpg</image:loc>
+      <image:loc>http://appries.com/images/table-clock.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/hp-spectre-x360-156-133-4k-oled-e1451999689165-min.jpg</image:loc>
+      <image:loc>http://appries.com/images/college-graduation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/183b149830549b19fa104048d07c72d7-crop-u15631.jpg</image:loc>
+      <image:loc>http://appries.com/images/feedback.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/gallery.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/agenda.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/evaluation.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/exam.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://k135.com/other-services.html</loc>
-    <lastmod>2018-08-07</lastmod>
+    <loc>http://appries.com/e-store.html</loc>
+    <lastmod>2018-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://k135.com/images/accordsystem.png</image:loc>
+      <image:loc>http://appries.com/images/ic_home_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/img_computersandit1-min.jpg</image:loc>
+      <image:loc>http://appries.com/images/ic_class_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/services-systems-min.jpg</image:loc>
+      <image:loc>http://appries.com/images/folded-newspaper%20(1).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/183b149830549b19fa104048d07c72d7-crop-u4600.jpg</image:loc>
+      <image:loc>http://appries.com/images/table-clock.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/hp-spectre-x360-156-133-4k-oled-e1451999689165-min.jpg</image:loc>
+      <image:loc>http://appries.com/images/college-graduation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/183b149830549b19fa104048d07c72d7-crop-u15631.jpg</image:loc>
+      <image:loc>http://appries.com/images/feedback.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/gallery.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/agenda.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/evaluation.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/exam.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/wk2-min.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/wk3-min.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/wk1-min.png</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://k135.com/contact-us.html</loc>
-    <lastmod>2018-08-07</lastmod>
+    <loc>http://appries.com/class-arena.html</loc>
+    <lastmod>2018-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://k135.com/images/accordsystem.png</image:loc>
+      <image:loc>http://appries.com/images/ic_home_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/img_computersandit1-min.jpg</image:loc>
+      <image:loc>http://appries.com/images/ic_class_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/services-systems-min.jpg</image:loc>
+      <image:loc>http://appries.com/images/folded-newspaper%20(1).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/183b149830549b19fa104048d07c72d7-crop-u4600.jpg</image:loc>
+      <image:loc>http://appries.com/images/table-clock.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/hp-spectre-x360-156-133-4k-oled-e1451999689165-min.jpg</image:loc>
+      <image:loc>http://appries.com/images/college-graduation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/183b149830549b19fa104048d07c72d7-crop-u15631.jpg</image:loc>
+      <image:loc>http://appries.com/images/feedback.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/call-now.gif</image:loc>
+      <image:loc>http://appries.com/images/gallery.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/agenda.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/evaluation.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/exam.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/blackboard.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/ezgifcom-optimize.gif</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://k135.com/laptops.html</loc>
-    <lastmod>2018-08-07</lastmod>
+    <loc>http://appries.com/live.html</loc>
+    <lastmod>2018-08-08</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://k135.com/images/accordsystem.png</image:loc>
+      <image:loc>http://appries.com/images/ic_home_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/img_computersandit1-min.jpg</image:loc>
+      <image:loc>http://appries.com/images/ic_class_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/services-systems-min.jpg</image:loc>
+      <image:loc>http://appries.com/images/folded-newspaper%20(1).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/183b149830549b19fa104048d07c72d7-crop-u4600.jpg</image:loc>
+      <image:loc>http://appries.com/images/table-clock.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/hp-spectre-x360-156-133-4k-oled-e1451999689165-min.jpg</image:loc>
+      <image:loc>http://appries.com/images/college-graduation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/183b149830549b19fa104048d07c72d7-crop-u15631.jpg</image:loc>
+      <image:loc>http://appries.com/images/feedback.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/acer%20e5-576.jpg</image:loc>
+      <image:loc>http://appries.com/images/gallery.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/71mcr6m-0jl_sl1500_.jpg</image:loc>
+      <image:loc>http://appries.com/images/agenda.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/81mfdtdmedl_sl1500_.jpg</image:loc>
+      <image:loc>http://appries.com/images/evaluation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/81ng3dkixwl_sl1500_.jpg</image:loc>
+      <image:loc>http://appries.com/images/exam.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/81-pjss5qyl_sl1500_.jpg</image:loc>
+      <image:loc>http://appries.com/images/live.gif</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/81e0j4c625l_sl1500_.jpg</image:loc>
+      <image:loc>http://appries.com/images/live-online.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://appries.com/360.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://appries.com/images/ic_home_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/81hkjahx27l_sl1500_.jpg</image:loc>
+      <image:loc>http://appries.com/images/ic_class_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/81n-8jj3bll_sl1500_.jpg</image:loc>
+      <image:loc>http://appries.com/images/folded-newspaper%20(1).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/81qjwywoqnl_sl1500_.jpg</image:loc>
+      <image:loc>http://appries.com/images/table-clock.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/81-pjss5qyl_sl1500_60x50.jpg</image:loc>
+      <image:loc>http://appries.com/images/college-graduation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/81e0j4c625l_sl1500_60x51.jpg</image:loc>
+      <image:loc>http://appries.com/images/feedback.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/81qjwywoqnl_sl1500_-crop-u9403.jpg</image:loc>
+      <image:loc>http://appries.com/images/gallery.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/41emh1esghl.jpg</image:loc>
+      <image:loc>http://appries.com/images/agenda.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/41irdk3zyol.jpg</image:loc>
+      <image:loc>http://appries.com/images/evaluation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/41vzk1bnw-l.jpg</image:loc>
+      <image:loc>http://appries.com/images/exam.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/31iyjwv2kjl.jpg</image:loc>
+      <image:loc>http://appries.com/images/360-degrees.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://appries.com/untitled-5.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://appries.com/images/ic_home_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/41yhy-ybsql.jpg</image:loc>
+      <image:loc>http://appries.com/images/ic_class_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/51pbitzqy5l.jpg</image:loc>
+      <image:loc>http://appries.com/images/folded-newspaper%20(1).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/mp_q3fy17_ksp2_nvid_img1-min.png</image:loc>
+      <image:loc>http://appries.com/images/table-clock.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/9877_thumb-359x280-min.png</image:loc>
+      <image:loc>http://appries.com/images/college-graduation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/tb-laptops-with-character-min.png</image:loc>
+      <image:loc>http://appries.com/images/feedback.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/main-qimg-e43371bba51e5239073d14d657e28aee-min.png</image:loc>
+      <image:loc>http://appries.com/images/gallery.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/branding_lenovo-logo_lenovologoposred_low_res-min.png</image:loc>
+      <image:loc>http://appries.com/images/agenda.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/441895877lenovo-legion-y520-80wk0080ri.png</image:loc>
+      <image:loc>http://appries.com/images/evaluation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/lenovo-laptop-legion-1y720-15-front1.png</image:loc>
+      <image:loc>http://appries.com/images/exam.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/lenovo-laptop-legion-y520-15-hero227x161.png</image:loc>
+      <image:loc>http://appries.com/images/live.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://appries.com/untitled-6.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://appries.com/images/ic_home_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/lenovo-laptop-legion-y720-15-front1215x161.png</image:loc>
+      <image:loc>http://appries.com/images/ic_class_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/lenovo-laptop-legion-y720-15-front3.png</image:loc>
+      <image:loc>http://appries.com/images/folded-newspaper%20(1).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/lenovo-laptop-legion-y520-15-hero.png</image:loc>
+      <image:loc>http://appries.com/images/table-clock.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/lenovo-laptop-legion-y720-15-front1.png</image:loc>
+      <image:loc>http://appries.com/images/college-graduation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/030117_lenovo_legion_2-min.jpg</image:loc>
+      <image:loc>http://appries.com/images/feedback.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/acer-logo_2011-min.png</image:loc>
+      <image:loc>http://appries.com/images/gallery.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/untitled-3-min.png</image:loc>
+      <image:loc>http://appries.com/images/agenda.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/prd3-min.png</image:loc>
+      <image:loc>http://appries.com/images/evaluation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/pred1-min207x130.png</image:loc>
+      <image:loc>http://appries.com/images/exam.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/pred2-min.png</image:loc>
+      <image:loc>http://appries.com/images/live.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://appries.com/untitled-7.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://appries.com/images/ic_home_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/pred4-min207x130.png</image:loc>
+      <image:loc>http://appries.com/images/ic_class_white_24dp_2x.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/pred1-min.png</image:loc>
+      <image:loc>http://appries.com/images/folded-newspaper%20(1).png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/pred4-min.png</image:loc>
+      <image:loc>http://appries.com/images/table-clock.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/fw-min.jpg</image:loc>
+      <image:loc>http://appries.com/images/college-graduation.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/back_macbook1.png</image:loc>
+      <image:loc>http://appries.com/images/feedback.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/back_macbook2.png</image:loc>
+      <image:loc>http://appries.com/images/gallery.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://k135.com/images/lenovo-laptop-legion-y720-15-front.png</image:loc>
+      <image:loc>http://appries.com/images/agenda.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/evaluation.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/exam.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/live.gif</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://appries.com/vr.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://appries.com/images/ic_home_white_24dp_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/ic_class_white_24dp_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/folded-newspaper%20(1).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/table-clock.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/college-graduation.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/feedback.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/gallery.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/agenda.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/evaluation.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/exam.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/a-logo.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://appries.com/motivation.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://appries.com/images/ic_home_white_24dp_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/ic_class_white_24dp_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/folded-newspaper%20(1).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/table-clock.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/college-graduation.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/feedback.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/gallery.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/agenda.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/evaluation.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/exam.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/a-logo.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://appries.com/user.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://appries.com/images/ic_home_white_24dp_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/ic_class_white_24dp_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/folded-newspaper%20(1).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/table-clock.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/college-graduation.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/feedback.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/gallery.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/agenda.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/evaluation.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/exam.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://appries.com/info.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://appries.com/images/ic_home_white_24dp_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/ic_class_white_24dp_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/folded-newspaper%20(1).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/table-clock.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/college-graduation.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/feedback.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/gallery.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/agenda.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/evaluation.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/exam.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/a-logo.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://appries.com/news.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://appries.com/images/ic_home_white_24dp_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/ic_class_white_24dp_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/folded-newspaper%20(1).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/table-clock.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/college-graduation.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/feedback.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/gallery.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/agenda.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/evaluation.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/exam.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/a-logo.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://appries.com/contact.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://appries.com/images/ic_home_white_24dp_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/ic_class_white_24dp_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/folded-newspaper%20(1).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/table-clock.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/college-graduation.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/feedback.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/gallery.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/agenda.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/evaluation.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/exam.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://appries.com/roll-model.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://appries.com/images/ic_home_white_24dp_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/ic_class_white_24dp_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/folded-newspaper%20(1).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/table-clock.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/college-graduation.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/feedback.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/gallery.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/agenda.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/evaluation.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/exam.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/a-logo.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://appries.com/appries-talk.html</loc>
+    <lastmod>2018-08-08</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://appries.com/images/ic_home_white_24dp_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/ic_class_white_24dp_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/folded-newspaper%20(1).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/table-clock.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/college-graduation.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/feedback.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/gallery.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/agenda.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/evaluation.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/exam.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/ezgifcom-resize(1).png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://appries.com/assets/2.gif</loc>
+    <lastmod>2018-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://appries.com/assets/ezgif.com-optimize.gif</loc>
+    <lastmod>2018-08-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
