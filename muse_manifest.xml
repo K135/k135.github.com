@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1533919747560">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1533920536094">
   <folder name="assets">
     <file name="ezgif.com-optimize.gif" crc="4016622575" seo="true" mt="1533248845000"/>
     <file name="2.gif" crc="3872288782" seo="true" mt="1533290408000"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="4043075392"/>
+    <file name="site_global.css" crc="310137785"/>
     <file name="master_a-master.css" crc="354096969" ref="index:class-arena:360:live:vr:news:e-store:library:appries-talk:untitled-7:untitled-5:motivation:user:contact:info:roll-model:untitled-6:home"/>
     <file name="index.css" crc="296978536" ref="index"/>
     <file name="master_c-master.css" crc="442082512" ref="live:untitled-7:untitled-5:untitled-6"/>
