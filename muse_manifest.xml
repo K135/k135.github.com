@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1537466277374">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1537466421123">
   <folder name="assets">
     <file name="ezgif.com-optimize.gif" crc="4016622575" seo="true" mt="1533248845000"/>
     <file name="2.gif" crc="3872288782" seo="true" mt="1533290408000"/>
@@ -14,7 +14,7 @@
     <file name="live.css" crc="416858500" ref="live"/>
     <file name="vr.css" crc="4167134868" ref="vr"/>
     <file name="news.css" crc="38985023" ref="news"/>
-    <file name="e-store.css" crc="41632071" ref="e-store"/>
+    <file name="e-store.css" crc="179266442" ref="e-store"/>
     <file name="library.css" crc="456631345" ref="library"/>
     <file name="appries-talk.css" crc="3902626425" ref="appries-talk"/>
     <file name="untitled-7.css" crc="423930342" ref="untitled-7"/>
@@ -51,13 +51,13 @@
       <caption webpage="library" alt=""/>
       <caption webpage="roll-model" alt=""/>
       <caption webpage="info" alt=""/>
-      <caption webpage="untitled-6" alt=""/>
       <caption webpage="home" alt=""/>
-      <caption webpage="class-arena" alt=""/>
+      <caption webpage="untitled-6" alt=""/>
+      <caption webpage="news" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="live" alt=""/>
       <caption webpage="untitled-7" alt=""/>
-      <caption webpage="news" alt=""/>
+      <caption webpage="class-arena" alt=""/>
       <caption webpage="motivation" alt=""/>
       <caption webpage="untitled-5" alt=""/>
     </file>
@@ -71,13 +71,13 @@
       <caption webpage="library" alt=""/>
       <caption webpage="roll-model" alt=""/>
       <caption webpage="info" alt=""/>
-      <caption webpage="untitled-6" alt=""/>
       <caption webpage="home" alt=""/>
-      <caption webpage="class-arena" alt=""/>
+      <caption webpage="untitled-6" alt=""/>
+      <caption webpage="news" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="live" alt=""/>
       <caption webpage="untitled-7" alt=""/>
-      <caption webpage="news" alt=""/>
+      <caption webpage="class-arena" alt=""/>
       <caption webpage="motivation" alt=""/>
       <caption webpage="untitled-5" alt=""/>
     </file>
@@ -91,13 +91,13 @@
       <caption webpage="library" alt=""/>
       <caption webpage="roll-model" alt=""/>
       <caption webpage="info" alt=""/>
-      <caption webpage="untitled-6" alt=""/>
       <caption webpage="home" alt=""/>
-      <caption webpage="class-arena" alt=""/>
+      <caption webpage="untitled-6" alt=""/>
+      <caption webpage="news" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="live" alt=""/>
       <caption webpage="untitled-7" alt=""/>
-      <caption webpage="news" alt=""/>
+      <caption webpage="class-arena" alt=""/>
       <caption webpage="motivation" alt=""/>
       <caption webpage="untitled-5" alt=""/>
     </file>
@@ -111,13 +111,13 @@
       <caption webpage="library" alt=""/>
       <caption webpage="roll-model" alt=""/>
       <caption webpage="info" alt=""/>
-      <caption webpage="untitled-6" alt=""/>
       <caption webpage="home" alt=""/>
-      <caption webpage="class-arena" alt=""/>
+      <caption webpage="untitled-6" alt=""/>
+      <caption webpage="news" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="live" alt=""/>
       <caption webpage="untitled-7" alt=""/>
-      <caption webpage="news" alt=""/>
+      <caption webpage="class-arena" alt=""/>
       <caption webpage="motivation" alt=""/>
       <caption webpage="untitled-5" alt=""/>
     </file>
@@ -131,13 +131,13 @@
       <caption webpage="library" alt=""/>
       <caption webpage="roll-model" alt=""/>
       <caption webpage="info" alt=""/>
-      <caption webpage="untitled-6" alt=""/>
       <caption webpage="home" alt=""/>
-      <caption webpage="class-arena" alt=""/>
+      <caption webpage="untitled-6" alt=""/>
+      <caption webpage="news" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="live" alt=""/>
       <caption webpage="untitled-7" alt=""/>
-      <caption webpage="news" alt=""/>
+      <caption webpage="class-arena" alt=""/>
       <caption webpage="motivation" alt=""/>
       <caption webpage="untitled-5" alt=""/>
     </file>
@@ -151,13 +151,13 @@
       <caption webpage="library" alt=""/>
       <caption webpage="roll-model" alt=""/>
       <caption webpage="info" alt=""/>
-      <caption webpage="untitled-6" alt=""/>
       <caption webpage="home" alt=""/>
-      <caption webpage="class-arena" alt=""/>
+      <caption webpage="untitled-6" alt=""/>
+      <caption webpage="news" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="live" alt=""/>
       <caption webpage="untitled-7" alt=""/>
-      <caption webpage="news" alt=""/>
+      <caption webpage="class-arena" alt=""/>
       <caption webpage="motivation" alt=""/>
       <caption webpage="untitled-5" alt=""/>
     </file>
@@ -171,13 +171,13 @@
       <caption webpage="library" alt=""/>
       <caption webpage="roll-model" alt=""/>
       <caption webpage="info" alt=""/>
-      <caption webpage="untitled-6" alt=""/>
       <caption webpage="home" alt=""/>
-      <caption webpage="class-arena" alt=""/>
+      <caption webpage="untitled-6" alt=""/>
+      <caption webpage="news" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="live" alt=""/>
       <caption webpage="untitled-7" alt=""/>
-      <caption webpage="news" alt=""/>
+      <caption webpage="class-arena" alt=""/>
       <caption webpage="motivation" alt=""/>
       <caption webpage="untitled-5" alt=""/>
     </file>
@@ -191,13 +191,13 @@
       <caption webpage="library" alt=""/>
       <caption webpage="roll-model" alt=""/>
       <caption webpage="info" alt=""/>
-      <caption webpage="untitled-6" alt=""/>
       <caption webpage="home" alt=""/>
-      <caption webpage="class-arena" alt=""/>
+      <caption webpage="untitled-6" alt=""/>
+      <caption webpage="news" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="live" alt=""/>
       <caption webpage="untitled-7" alt=""/>
-      <caption webpage="news" alt=""/>
+      <caption webpage="class-arena" alt=""/>
       <caption webpage="motivation" alt=""/>
       <caption webpage="untitled-5" alt=""/>
     </file>
@@ -211,13 +211,13 @@
       <caption webpage="library" alt=""/>
       <caption webpage="roll-model" alt=""/>
       <caption webpage="info" alt=""/>
-      <caption webpage="untitled-6" alt=""/>
       <caption webpage="home" alt=""/>
-      <caption webpage="class-arena" alt=""/>
+      <caption webpage="untitled-6" alt=""/>
+      <caption webpage="news" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="live" alt=""/>
       <caption webpage="untitled-7" alt=""/>
-      <caption webpage="news" alt=""/>
+      <caption webpage="class-arena" alt=""/>
       <caption webpage="motivation" alt=""/>
       <caption webpage="untitled-5" alt=""/>
     </file>
@@ -231,13 +231,13 @@
       <caption webpage="library" alt=""/>
       <caption webpage="roll-model" alt=""/>
       <caption webpage="info" alt=""/>
-      <caption webpage="untitled-6" alt=""/>
       <caption webpage="home" alt=""/>
-      <caption webpage="class-arena" alt=""/>
+      <caption webpage="untitled-6" alt=""/>
+      <caption webpage="news" alt=""/>
       <caption webpage="contact" alt=""/>
       <caption webpage="live" alt=""/>
       <caption webpage="untitled-7" alt=""/>
-      <caption webpage="news" alt=""/>
+      <caption webpage="class-arena" alt=""/>
       <caption webpage="motivation" alt=""/>
       <caption webpage="untitled-5" alt=""/>
     </file>
@@ -301,7 +301,7 @@
   <file name="untitled-6.html" crc="3853712195" seo="true" mt="1536544775624" redirect="true"/>
   <file name="untitled-7.html" crc="3758644076" seo="true" mt="1536544775624" redirect="true"/>
   <file name="library.html" crc="3970392095" seo="true" mt="1536544775624" redirect="true"/>
-  <file name="e-store.html" crc="4112745156" seo="true" mt="1537466254127" redirect="true"/>
+  <file name="e-store.html" crc="166715974" seo="true" mt="1537466410885" redirect="true"/>
   <file name="user.html" crc="317207951" seo="true" mt="1536544775624" redirect="true"/>
   <file name="info.html" crc="424111374" seo="true" mt="1536544775624" redirect="true"/>
   <file name="motivation.html" crc="310416865" seo="true" mt="1536544775624" redirect="true"/>
