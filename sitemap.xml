@@ -662,6 +662,9 @@
     <image:image>
       <image:loc>http://appries.com/images/ezgifcom-resize(1).png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/loading-gears-animation-13-2.gif</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://appries.com/assets/2.gif</loc>
