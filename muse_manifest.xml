@@ -1,21 +1,21 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1539255436947">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1540299782538">
   <folder name="assets">
     <file name="ezgif.com-optimize.gif" crc="4016622575" seo="true" mt="1533248845000"/>
     <file name="2.gif" crc="3872288782" seo="true" mt="1533290408000"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="286428978"/>
+    <file name="site_global.css" crc="219438036"/>
     <file name="master_a-master.css" crc="354096969" ref="index:class-arena:360:live:vr:news:e-store:library:appries-talk:untitled-7:untitled-5:motivation:user:contact:info:roll-model:untitled-6:check"/>
-    <file name="index.css" crc="4164852418" ref="index"/>
+    <file name="index.css" crc="108664319" ref="index"/>
     <file name="master_c-master.css" crc="442082512" ref="live:untitled-7:untitled-5:untitled-6"/>
-    <file name="master_b-master.css" crc="102892361" ref="class-arena:360:live:vr:news:e-store:library:appries-talk:untitled-7:untitled-5:motivation:user:contact:info:index:roll-model:untitled-6:check"/>
+    <file name="master_b-master.css" crc="102892361" ref="class-arena:360:live:vr:news:e-store:appries-talk:untitled-7:untitled-5:motivation:user:contact:info:roll-model:untitled-6:check"/>
     <file name="class-arena.css" crc="4141890894" ref="class-arena"/>
     <file name="360.css" crc="72041905" ref="360"/>
     <file name="live.css" crc="416858500" ref="live"/>
     <file name="vr.css" crc="4167134868" ref="vr"/>
     <file name="news.css" crc="38985023" ref="news"/>
     <file name="e-store.css" crc="4120973637" ref="e-store"/>
-    <file name="library.css" crc="456631345" ref="library"/>
+    <file name="library.css" crc="4022033172" ref="library"/>
     <file name="appries-talk.css" crc="4171816232" ref="appries-talk"/>
     <file name="untitled-7.css" crc="423930342" ref="untitled-7"/>
     <file name="untitled-5.css" crc="3967741812" ref="untitled-5"/>
@@ -26,6 +26,7 @@
     <file name="roll-model.css" crc="3978519913" ref="roll-model"/>
     <file name="untitled-6.css" crc="4120853344" ref="untitled-6"/>
     <file name="check.css" crc="3926421630" ref="check"/>
+    <file name="master_d-master.css" crc="203892654" ref="index:library"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check"/>
@@ -34,15 +35,15 @@
     <file name="museconfig.js" crc="4286661555" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check"/>
     <file name="jquery.watch.js" crc="51536988" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check"/>
     <file name="require.js" crc="7928878" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check"/>
-    <file name="webpro.js" crc="4059564322" ref="class-arena:untitled-5:library:e-store:motivation:vr:appries-talk:news"/>
+    <file name="webpro.js" crc="4059564322" ref="class-arena:untitled-5:library:e-store:motivation:vr:appries-talk:news:index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="live:untitled-5:untitled-6:untitled-7"/>
     <file name="jquery.musemenu.js" crc="510910590" ref="index"/>
     <file name="html5shiv.js" crc="4241844378" ref="class-arena:live:360:untitled-5:untitled-6:untitled-7:library:user:info:motivation:vr:roll-model:news:contact:index:appries-talk:check"/>
-    <file name="musewpdisclosure.js" crc="3883500470" ref="class-arena:untitled-5:library:e-store:motivation:vr:appries-talk:news"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="class-arena:untitled-5:library:e-store:motivation:vr:appries-talk:news:index"/>
   </folder>
   <folder name="images">
-    <file name="blank.gif" crc="4208392903" ref="class-arena:untitled-5:library:e-store:motivation:vr:appries-talk:news:index"/>
-    <file name="ic_home_white_24dp_2x.png" crc="216099558" seo="true" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check">
+    <file name="blank.gif" crc="4208392903" ref="class-arena:untitled-5:library:e-store:motivation:vr:appries-talk:news"/>
+    <file name="ic_home_white_24dp_2x.png" crc="216099558" seo="true" ref="class-arena:live:360:untitled-5:untitled-6:untitled-7:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check">
       <caption webpage="360" alt=""/>
       <caption webpage="library" alt=""/>
       <caption webpage="roll-model" alt=""/>
@@ -63,7 +64,7 @@
       <caption webpage="appries-talk" alt=""/>
       <caption webpage="untitled-7" alt=""/>
     </file>
-    <file name="ic_class_white_24dp_2x.png" crc="3953811801" seo="true" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check">
+    <file name="ic_class_white_24dp_2x.png" crc="3953811801" seo="true" ref="class-arena:live:360:untitled-5:untitled-6:untitled-7:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check">
       <caption webpage="360" alt=""/>
       <caption webpage="library" alt=""/>
       <caption webpage="roll-model" alt=""/>
@@ -84,7 +85,7 @@
       <caption webpage="appries-talk" alt=""/>
       <caption webpage="untitled-7" alt=""/>
     </file>
-    <file name="folded-newspaper (1).png" crc="354703472" seo="true" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check">
+    <file name="folded-newspaper (1).png" crc="354703472" seo="true" ref="class-arena:live:360:untitled-5:untitled-6:untitled-7:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check">
       <caption webpage="360" alt=""/>
       <caption webpage="library" alt=""/>
       <caption webpage="roll-model" alt=""/>
@@ -105,7 +106,7 @@
       <caption webpage="appries-talk" alt=""/>
       <caption webpage="untitled-7" alt=""/>
     </file>
-    <file name="table-clock.png" crc="15504003" seo="true" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check">
+    <file name="table-clock.png" crc="15504003" seo="true" ref="class-arena:live:360:untitled-5:untitled-6:untitled-7:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check">
       <caption webpage="360" alt=""/>
       <caption webpage="library" alt=""/>
       <caption webpage="roll-model" alt=""/>
@@ -126,7 +127,7 @@
       <caption webpage="appries-talk" alt=""/>
       <caption webpage="untitled-7" alt=""/>
     </file>
-    <file name="college-graduation.png" crc="4159836101" seo="true" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check">
+    <file name="college-graduation.png" crc="4159836101" seo="true" ref="class-arena:live:360:untitled-5:untitled-6:untitled-7:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check">
       <caption webpage="360" alt=""/>
       <caption webpage="library" alt=""/>
       <caption webpage="roll-model" alt=""/>
@@ -147,7 +148,7 @@
       <caption webpage="appries-talk" alt=""/>
       <caption webpage="untitled-7" alt=""/>
     </file>
-    <file name="feedback.png" crc="321401819" seo="true" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check">
+    <file name="feedback.png" crc="321401819" seo="true" ref="class-arena:live:360:untitled-5:untitled-6:untitled-7:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check">
       <caption webpage="360" alt=""/>
       <caption webpage="library" alt=""/>
       <caption webpage="roll-model" alt=""/>
@@ -168,7 +169,7 @@
       <caption webpage="appries-talk" alt=""/>
       <caption webpage="untitled-7" alt=""/>
     </file>
-    <file name="gallery.png" crc="4137936359" seo="true" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check">
+    <file name="gallery.png" crc="4137936359" seo="true" ref="class-arena:live:360:untitled-5:untitled-6:untitled-7:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check">
       <caption webpage="360" alt=""/>
       <caption webpage="library" alt=""/>
       <caption webpage="roll-model" alt=""/>
@@ -189,7 +190,7 @@
       <caption webpage="appries-talk" alt=""/>
       <caption webpage="untitled-7" alt=""/>
     </file>
-    <file name="agenda.png" crc="3940889591" seo="true" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check">
+    <file name="agenda.png" crc="3940889591" seo="true" ref="class-arena:live:360:untitled-5:untitled-6:untitled-7:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check">
       <caption webpage="360" alt=""/>
       <caption webpage="library" alt=""/>
       <caption webpage="roll-model" alt=""/>
@@ -210,7 +211,7 @@
       <caption webpage="appries-talk" alt=""/>
       <caption webpage="untitled-7" alt=""/>
     </file>
-    <file name="evaluation.png" crc="493922299" seo="true" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check">
+    <file name="evaluation.png" crc="493922299" seo="true" ref="class-arena:live:360:untitled-5:untitled-6:untitled-7:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check">
       <caption webpage="360" alt=""/>
       <caption webpage="library" alt=""/>
       <caption webpage="roll-model" alt=""/>
@@ -231,7 +232,7 @@
       <caption webpage="appries-talk" alt=""/>
       <caption webpage="untitled-7" alt=""/>
     </file>
-    <file name="exam.png" crc="4086142318" seo="true" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check">
+    <file name="exam.png" crc="4086142318" seo="true" ref="class-arena:live:360:untitled-5:untitled-6:untitled-7:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check">
       <caption webpage="360" alt=""/>
       <caption webpage="library" alt=""/>
       <caption webpage="roll-model" alt=""/>
@@ -306,15 +307,35 @@
     <file name="loading-gears-animation-13-2.gif" crc="385982580" seo="true" ref="appries-talk">
       <caption webpage="appries-talk" alt=""/>
     </file>
+    <file name="webpnet-resizeimage.png" crc="4087974770" seo="true" ref="index:library">
+      <caption webpage="index" alt=""/>
+      <caption webpage="library" alt=""/>
+    </file>
+    <file name="icons8-sms-24.png" crc="473640245" seo="true" ref="index:library">
+      <caption webpage="index" alt=""/>
+      <caption webpage="library" alt=""/>
+    </file>
+    <file name="icons8-picture-24.png" crc="264214786" seo="true" ref="index:library">
+      <caption webpage="index" alt=""/>
+      <caption webpage="library" alt=""/>
+    </file>
+    <file name="icons8-book-24.png" crc="204327072" seo="true" ref="index:library">
+      <caption webpage="index" alt=""/>
+      <caption webpage="library" alt=""/>
+    </file>
+    <file name="icons8-planner-24.png" crc="251138349" seo="true" ref="index:library">
+      <caption webpage="index" alt=""/>
+      <caption webpage="library" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="3859481348" seo="true" mt="1539255280732" redirect="true"/>
+  <file name="index.html" crc="3884374397" seo="true" mt="1540299767076" redirect="true"/>
   <file name="class-arena.html" crc="383674199" seo="true" mt="1536544775624" redirect="true"/>
   <file name="live.html" crc="3798794387" seo="true" mt="1537464422298" redirect="true"/>
   <file name="360.html" crc="4092229204" seo="true" mt="1537409773429" redirect="true"/>
   <file name="untitled-5.html" crc="273207339" seo="true" mt="1536544775624" redirect="true"/>
   <file name="untitled-6.html" crc="3853712195" seo="true" mt="1536544775624" redirect="true"/>
   <file name="untitled-7.html" crc="3758644076" seo="true" mt="1536544775624" redirect="true"/>
-  <file name="library.html" crc="3970392095" seo="true" mt="1536544775624" redirect="true"/>
+  <file name="library.html" crc="181060372" seo="true" mt="1540299633215" redirect="true"/>
   <file name="e-store.html" crc="128208246" seo="true" mt="1537466535547" redirect="true"/>
   <file name="user.html" crc="317207951" seo="true" mt="1536544775624" redirect="true"/>
   <file name="info.html" crc="424111374" seo="true" mt="1536544775624" redirect="true"/>
