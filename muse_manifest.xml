@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1540300278411">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1540300572273">
   <folder name="assets">
     <file name="ezgif.com-optimize.gif" crc="4016622575" seo="true" mt="1533248845000"/>
     <file name="2.gif" crc="3872288782" seo="true" mt="1533290408000"/>
@@ -26,7 +26,7 @@
     <file name="roll-model.css" crc="3978519913" ref="roll-model"/>
     <file name="untitled-6.css" crc="4120853344" ref="untitled-6"/>
     <file name="check.css" crc="3926421630" ref="check"/>
-    <file name="master_d-master.css" crc="203892654" ref="index:library"/>
+    <file name="master_d-master.css" crc="181158945" ref="index:library"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check"/>
@@ -328,14 +328,14 @@
       <caption webpage="library" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="46085323" seo="true" mt="1540300267314" redirect="true"/>
+  <file name="index.html" crc="3932675975" seo="true" mt="1540300474406" redirect="true"/>
   <file name="class-arena.html" crc="383674199" seo="true" mt="1536544775624" redirect="true"/>
   <file name="live.html" crc="3798794387" seo="true" mt="1537464422298" redirect="true"/>
   <file name="360.html" crc="4092229204" seo="true" mt="1537409773429" redirect="true"/>
   <file name="untitled-5.html" crc="273207339" seo="true" mt="1536544775624" redirect="true"/>
   <file name="untitled-6.html" crc="3853712195" seo="true" mt="1536544775624" redirect="true"/>
   <file name="untitled-7.html" crc="3758644076" seo="true" mt="1536544775624" redirect="true"/>
-  <file name="library.html" crc="181060372" seo="true" mt="1540299633215" redirect="true"/>
+  <file name="library.html" crc="153303981" seo="true" mt="1540300474406" redirect="true"/>
   <file name="e-store.html" crc="128208246" seo="true" mt="1537466535547" redirect="true"/>
   <file name="user.html" crc="317207951" seo="true" mt="1536544775624" redirect="true"/>
   <file name="info.html" crc="424111374" seo="true" mt="1536544775624" redirect="true"/>
