@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1541016301051">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1541020197048">
   <folder name="assets">
     <file name="ezgif.com-optimize.gif" crc="4016622575" seo="true" mt="1533248845000"/>
     <file name="2.gif" crc="3872288782" seo="true" mt="1533290408000"/>
@@ -7,7 +7,7 @@
   <folder name="css">
     <file name="site_global.css" crc="251547783"/>
     <file name="master_a-master.css" crc="354096969" ref="index:class-arena:360:live:vr:news:e-store:library:appries-talk:untitled-7:untitled-5:motivation:user:info:roll-model:untitled-6:check"/>
-    <file name="index.css" crc="4148150389" ref="index"/>
+    <file name="index.css" crc="220296661" ref="index"/>
     <file name="master_c-master.css" crc="442082512" ref="live:untitled-7:untitled-5:untitled-6"/>
     <file name="master_b-master.css" crc="4070852261" ref="class-arena:360:live:vr:news:e-store:appries-talk:untitled-7:untitled-5:motivation:user:info:roll-model:untitled-6:check:library"/>
     <file name="class-arena.css" crc="4141890894" ref="class-arena"/>
@@ -27,14 +27,15 @@
     <file name="roll-model.css" crc="4200217915" ref="roll-model"/>
     <file name="untitled-6.css" crc="4120853344" ref="untitled-6"/>
     <file name="check.css" crc="3926421630" ref="check"/>
+    <file name="c1.css" crc="460304743" ref="c1"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check"/>
-    <file name="museutils.js" crc="340535759" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check"/>
-    <file name="whatinput.js" crc="86476730" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check"/>
-    <file name="museconfig.js" crc="4286661555" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check"/>
-    <file name="jquery.watch.js" crc="51536988" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check"/>
-    <file name="require.js" crc="7928878" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check:c1"/>
+    <file name="museutils.js" crc="340535759" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check:c1"/>
+    <file name="whatinput.js" crc="86476730" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check:c1"/>
+    <file name="museconfig.js" crc="4286661555" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check:c1"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check:c1"/>
+    <file name="require.js" crc="7928878" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check:c1"/>
     <file name="webpro.js" crc="4059564322" ref="class-arena:untitled-5:library:e-store:motivation:vr:appries-talk:news"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="live:untitled-5:untitled-6:untitled-7"/>
     <file name="html5shiv.js" crc="4241844378" ref="class-arena:360:untitled-5:untitled-6:untitled-7:library:user:info:motivation:vr:appries-talk:check"/>
@@ -307,7 +308,7 @@
       <caption webpage="appries-talk" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4208491813" seo="true" mt="1541016276621" redirect="true"/>
+  <file name="index.html" crc="4181004584" seo="true" mt="1541016385933" redirect="true"/>
   <file name="class-arena.html" crc="383674199" seo="true" mt="1536544775624" redirect="true"/>
   <file name="live.html" crc="3971412017" seo="true" mt="1540325673299" redirect="true"/>
   <file name="360.html" crc="4092229204" seo="true" mt="1537409773429" redirect="true"/>
@@ -325,4 +326,5 @@
   <file name="news.html" crc="4161125915" seo="true" mt="1540389744889" redirect="true"/>
   <file name="contact.html" crc="4156499093" seo="true" mt="1541015988482" redirect="true"/>
   <file name="check.html" crc="4235440333" seo="true" mt="1539255346020" redirect="true"/>
+  <file name="c1.html" crc="3864702512" seo="true" mt="1541020181401" redirect="true"/>
 </manifest>
