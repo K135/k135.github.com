@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1541020197048">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1541020490049">
   <folder name="assets">
     <file name="ezgif.com-optimize.gif" crc="4016622575" seo="true" mt="1533248845000"/>
     <file name="2.gif" crc="3872288782" seo="true" mt="1533290408000"/>
@@ -27,7 +27,7 @@
     <file name="roll-model.css" crc="4200217915" ref="roll-model"/>
     <file name="untitled-6.css" crc="4120853344" ref="untitled-6"/>
     <file name="check.css" crc="3926421630" ref="check"/>
-    <file name="c1.css" crc="460304743" ref="c1"/>
+    <file name="c1.css" crc="203353832" ref="c1"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check:c1"/>
@@ -326,5 +326,5 @@
   <file name="news.html" crc="4161125915" seo="true" mt="1540389744889" redirect="true"/>
   <file name="contact.html" crc="4156499093" seo="true" mt="1541015988482" redirect="true"/>
   <file name="check.html" crc="4235440333" seo="true" mt="1539255346020" redirect="true"/>
-  <file name="c1.html" crc="3864702512" seo="true" mt="1541020181401" redirect="true"/>
+  <file name="c1.html" crc="3931966269" seo="true" mt="1541020483534" redirect="true"/>
 </manifest>
