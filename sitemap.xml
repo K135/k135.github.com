@@ -2,7 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://appries.com/index.html</loc>
-    <lastmod>2018-10-11</lastmod>
+    <lastmod>2018-11-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://appries.com/library.html</loc>
+    <lastmod>2018-09-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -358,81 +364,6 @@
     </image:image>
   </url>
   <url>
-    <loc>http://appries.com/library.html</loc>
-    <lastmod>2018-09-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://appries.com/images/ic_home_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appries.com/images/ic_class_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appries.com/images/folded-newspaper%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appries.com/images/table-clock.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appries.com/images/college-graduation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appries.com/images/feedback.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appries.com/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appries.com/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appries.com/images/evaluation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appries.com/images/exam.png</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://appries.com/roll-model.html</loc>
-    <lastmod>2018-09-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://appries.com/images/ic_home_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appries.com/images/ic_class_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appries.com/images/folded-newspaper%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appries.com/images/table-clock.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appries.com/images/college-graduation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appries.com/images/feedback.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appries.com/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appries.com/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appries.com/images/evaluation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appries.com/images/exam.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appries.com/images/a-logo.png</image:loc>
-    </image:image>
-  </url>
-  <url>
     <loc>http://appries.com/vr.html</loc>
     <lastmod>2018-09-10</lastmod>
     <changefreq>weekly</changefreq>
@@ -470,6 +401,51 @@
     <image:image>
       <image:loc>http://appries.com/images/a-logo.png</image:loc>
     </image:image>
+  </url>
+  <url>
+    <loc>http://appries.com/roll-model.html</loc>
+    <lastmod>2018-10-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://appries.com/images/ic_home_white_24dp_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/ic_class_white_24dp_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/folded-newspaper%20(1).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/table-clock.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/college-graduation.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/feedback.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/gallery.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/agenda.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/evaluation.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/exam.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/a-logo.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://appries.com/contact.html</loc>
+    <lastmod>2018-11-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
   <url>
     <loc>http://appries.com/info.html</loc>
@@ -550,10 +526,43 @@
     </image:image>
   </url>
   <url>
-    <loc>http://appries.com/contact.html</loc>
-    <lastmod>2018-10-26</lastmod>
+    <loc>http://appries.com/news.html</loc>
+    <lastmod>2018-10-24</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://appries.com/images/ic_home_white_24dp_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/ic_class_white_24dp_2x.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/folded-newspaper%20(1).png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/table-clock.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/college-graduation.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/feedback.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/gallery.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/agenda.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/evaluation.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/exam.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/a-logo.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://appries.com/check.html</loc>
@@ -634,43 +643,10 @@
     </image:image>
   </url>
   <url>
-    <loc>http://appries.com/news.html</loc>
-    <lastmod>2018-10-24</lastmod>
+    <loc>http://appries.com/assets/ezgif.com-optimize.gif</loc>
+    <lastmod>2018-08-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://appries.com/images/ic_home_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appries.com/images/ic_class_white_24dp_2x.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appries.com/images/folded-newspaper%20(1).png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appries.com/images/table-clock.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appries.com/images/college-graduation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appries.com/images/feedback.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appries.com/images/gallery.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appries.com/images/agenda.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appries.com/images/evaluation.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appries.com/images/exam.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://appries.com/images/a-logo.png</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://appries.com/assets/2.gif</loc>
@@ -679,8 +655,8 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://appries.com/assets/ezgif.com-optimize.gif</loc>
-    <lastmod>2018-08-03</lastmod>
+    <loc>http://appries.com/assets/loading-animations-preloader-gifs-ui-ux-effects-23.gif</loc>
+    <lastmod>2018-10-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
