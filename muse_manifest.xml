@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1541095904508">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1541099001591">
   <folder name="assets">
     <file name="ezgif.com-optimize.gif" crc="4016622575" seo="true" mt="1533248845000"/>
     <file name="2.gif" crc="3872288782" seo="true" mt="1533290408000"/>
@@ -7,7 +7,7 @@
   <folder name="css">
     <file name="site_global.css" crc="336575393"/>
     <file name="master_a-master.css" crc="354096969" ref="index:class-arena:360:live:vr:news:e-store:library:appries-talk:untitled-7:untitled-5:motivation:user:info:roll-model:untitled-6:check"/>
-    <file name="index.css" crc="421473151" ref="index"/>
+    <file name="index.css" crc="226571778" ref="index"/>
     <file name="master_c-master.css" crc="442082512" ref="live:untitled-7:untitled-5:untitled-6"/>
     <file name="master_b-master.css" crc="4070852261" ref="class-arena:360:live:vr:news:e-store:appries-talk:untitled-7:untitled-5:motivation:user:info:roll-model:untitled-6:check:library"/>
     <file name="class-arena.css" crc="197201067" ref="class-arena"/>
@@ -323,7 +323,7 @@
       <caption webpage="index" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="4176576894" seo="true" mt="1541095835712" redirect="true"/>
+  <file name="index.html" crc="4098230615" seo="true" mt="1541098970816" redirect="true"/>
   <file name="class-arena.html" crc="516980241" seo="true" mt="1541031237571" redirect="true"/>
   <file name="live.html" crc="3971412017" seo="true" mt="1540325673299" redirect="true"/>
   <file name="360.html" crc="4092229204" seo="true" mt="1537409773429" redirect="true"/>
