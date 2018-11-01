@@ -1,13 +1,13 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1541058665483">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1541095856299">
   <folder name="assets">
     <file name="ezgif.com-optimize.gif" crc="4016622575" seo="true" mt="1533248845000"/>
     <file name="2.gif" crc="3872288782" seo="true" mt="1533290408000"/>
     <file name="loading-animations-preloader-gifs-ui-ux-effects-23.gif" crc="426464855" seo="true" mt="1540999583000"/>
   </folder>
   <folder name="css">
-    <file name="site_global.css" crc="251547783"/>
+    <file name="site_global.css" crc="336575393"/>
     <file name="master_a-master.css" crc="354096969" ref="index:class-arena:360:live:vr:news:e-store:library:appries-talk:untitled-7:untitled-5:motivation:user:info:roll-model:untitled-6:check"/>
-    <file name="index.css" crc="220296661" ref="index"/>
+    <file name="index.css" crc="421473151" ref="index"/>
     <file name="master_c-master.css" crc="442082512" ref="live:untitled-7:untitled-5:untitled-6"/>
     <file name="master_b-master.css" crc="4070852261" ref="class-arena:360:live:vr:news:e-store:appries-talk:untitled-7:untitled-5:motivation:user:info:roll-model:untitled-6:check:library"/>
     <file name="class-arena.css" crc="197201067" ref="class-arena"/>
@@ -36,10 +36,10 @@
     <file name="museconfig.js" crc="4286661555" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check:c1"/>
     <file name="jquery.watch.js" crc="51536988" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check:c1"/>
     <file name="require.js" crc="7928878" ref="index:class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:contact:check:c1"/>
-    <file name="webpro.js" crc="4059564322" ref="class-arena:untitled-5:library:e-store:motivation:vr:appries-talk:news"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="live:untitled-5:untitled-6:untitled-7"/>
+    <file name="webpro.js" crc="4059564322" ref="class-arena:untitled-5:library:e-store:motivation:vr:appries-talk:news:index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4260645839" ref="live:untitled-5:untitled-6:untitled-7:index"/>
     <file name="html5shiv.js" crc="4241844378" ref="360:untitled-5:untitled-6:untitled-7:library:user:info:motivation:vr:appries-talk:check"/>
-    <file name="musewpdisclosure.js" crc="3883500470" ref="class-arena:untitled-5:library:e-store:motivation:vr:appries-talk:news"/>
+    <file name="musewpdisclosure.js" crc="3883500470" ref="class-arena:untitled-5:library:e-store:motivation:vr:appries-talk:news:index"/>
   </folder>
   <folder name="images">
     <file name="blank.gif" crc="4208392903" ref="class-arena:untitled-5:library:e-store:motivation:vr:appries-talk:news:live:roll-model"/>
@@ -307,8 +307,23 @@
     <file name="loading-gears-animation-13-2.gif" crc="385982580" seo="true" ref="appries-talk">
       <caption webpage="appries-talk" alt=""/>
     </file>
+    <file name="icons8-sms-48.png" crc="347702444" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icons8-medium-icons-100.png" crc="4212672446" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icons8-books-filled-100.png" crc="302220415" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="icons8-calendar-filled-100.png" crc="4171402539" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo.png" crc="3919118192" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
   </folder>
-  <file name="index.html" crc="4181004584" seo="true" mt="1541016385933" redirect="true"/>
+  <file name="index.html" crc="4176576894" seo="true" mt="1541095835712" redirect="true"/>
   <file name="class-arena.html" crc="516980241" seo="true" mt="1541031237571" redirect="true"/>
   <file name="live.html" crc="3971412017" seo="true" mt="1540325673299" redirect="true"/>
   <file name="360.html" crc="4092229204" seo="true" mt="1537409773429" redirect="true"/>

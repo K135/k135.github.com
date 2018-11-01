@@ -5,6 +5,18 @@
     <lastmod>2018-11-01</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://appries.com/images/icons8-sms-48.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/icons8-medium-icons-100.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/icons8-books-filled-100.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/icons8-calendar-filled-100.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://appries.com/e-store.html</loc>
