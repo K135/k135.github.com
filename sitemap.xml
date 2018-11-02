@@ -17,10 +17,19 @@
     <image:image>
       <image:loc>http://appries.com/images/icons8-calendar-filled-100.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/icons8-classroom-filled-50.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/icons8-test-passed-filled-50.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://appries.com/images/icons8-light-on-filled-50.png</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://appries.com/e-store.html</loc>
-    <lastmod>2018-09-20</lastmod>
+    <lastmod>2018-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -65,7 +74,7 @@
   </url>
   <url>
     <loc>http://appries.com/user.html</loc>
-    <lastmod>2018-09-10</lastmod>
+    <lastmod>2018-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -101,7 +110,7 @@
   </url>
   <url>
     <loc>http://appries.com/check.html</loc>
-    <lastmod>2018-10-11</lastmod>
+    <lastmod>2018-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -137,7 +146,7 @@
   </url>
   <url>
     <loc>http://appries.com/class-arena.html</loc>
-    <lastmod>2018-11-01</lastmod>
+    <lastmod>2018-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -179,7 +188,7 @@
   </url>
   <url>
     <loc>http://appries.com/live.html</loc>
-    <lastmod>2018-10-24</lastmod>
+    <lastmod>2018-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -221,7 +230,7 @@
   </url>
   <url>
     <loc>http://appries.com/360.html</loc>
-    <lastmod>2018-09-20</lastmod>
+    <lastmod>2018-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -260,7 +269,7 @@
   </url>
   <url>
     <loc>http://appries.com/untitled-5.html</loc>
-    <lastmod>2018-09-10</lastmod>
+    <lastmod>2018-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -299,7 +308,7 @@
   </url>
   <url>
     <loc>http://appries.com/untitled-6.html</loc>
-    <lastmod>2018-09-10</lastmod>
+    <lastmod>2018-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -338,7 +347,7 @@
   </url>
   <url>
     <loc>http://appries.com/untitled-7.html</loc>
-    <lastmod>2018-09-10</lastmod>
+    <lastmod>2018-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -377,7 +386,7 @@
   </url>
   <url>
     <loc>http://appries.com/library.html</loc>
-    <lastmod>2018-09-10</lastmod>
+    <lastmod>2018-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -425,7 +434,7 @@
   </url>
   <url>
     <loc>http://appries.com/info.html</loc>
-    <lastmod>2018-09-10</lastmod>
+    <lastmod>2018-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -464,7 +473,7 @@
   </url>
   <url>
     <loc>http://appries.com/motivation.html</loc>
-    <lastmod>2018-09-10</lastmod>
+    <lastmod>2018-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -503,7 +512,7 @@
   </url>
   <url>
     <loc>http://appries.com/vr.html</loc>
-    <lastmod>2018-09-10</lastmod>
+    <lastmod>2018-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -542,7 +551,7 @@
   </url>
   <url>
     <loc>http://appries.com/roll-model.html</loc>
-    <lastmod>2018-10-31</lastmod>
+    <lastmod>2018-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -581,7 +590,7 @@
   </url>
   <url>
     <loc>http://appries.com/appries-talk.html</loc>
-    <lastmod>2018-10-11</lastmod>
+    <lastmod>2018-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -623,7 +632,7 @@
   </url>
   <url>
     <loc>http://appries.com/news.html</loc>
-    <lastmod>2018-10-24</lastmod>
+    <lastmod>2018-11-02</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
