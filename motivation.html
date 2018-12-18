@@ -16,16 +16,16 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   
   <title>motivation</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=251547783"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4269403968"/>
   <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=354096969"/>
-  <link rel="stylesheet" type="text/css" href="css/master_b-master.css?crc=3761450174"/>
-  <link rel="stylesheet" type="text/css" href="css/motivation.css?crc=55115405" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_b-master.css?crc=4101818138"/>
+  <link rel="stylesheet" type="text/css" href="css/motivation.css?crc=4011687225" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
 </script>
   <!-- JS includes -->
-  <script src="https://webfonts.creativecloud.com/paytone-one:n4:all;emblema-one:n4:all.js" type="text/javascript" async></script>
+  <script src="https://webfonts.creativecloud.com/emblema-one:n4:all;paytone-one:n4:all.js" type="text/javascript" async></script>
     <!--custom head HTML-->
   <style>
 html,boady{
@@ -50,6 +50,30 @@ right: 0px
 </style>
   <!--HTML Widget code-->
   
+<style>
+#preloader {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-color: #000000;
+	z-index: 99999;
+}
+
+#status {
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	background-image: url(./assets/tumblr_n2eccv6dev1rgpzseo1_1280.gif);
+	background-repeat: no-repeat;
+	background-position: center;
+	margin: -100px 0 0 -100px;
+}
+</style>
+
 	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
@@ -78,8 +102,19 @@ right: 0px
  </head>
  <body>
 
+  <!--HTML Widget code-->
+  
+<div id="preloader">
+	<div id="status"></div>
+</div>
+
+  
   <div class="clearfix borderbox" id="page"><!-- group -->
-   <div class="clearfix grpelem" id="pu238"><!-- column -->
+   <div class="clearfix grpelem" id="pu6689"><!-- column -->
+    <div class="size_fixed colelem" id="u6689" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- custom html -->
+     
+
+    </div>
     <div class="size_fixed colelem" id="u238" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- custom html -->
      
 
@@ -327,6 +362,14 @@ Muse.Utils.transformMarkupToFixBrowserProblems();/* body */
   
   <!--HTML Widget code-->
   
+<script type="text/javascript">
+$(window).load(function() {
+	$('#status').fadeOut();
+	$('#preloader').delay(350).fadeOut('slow');
+	$('body').delay(350).css({'overflow':'visible'});
+});
+</script>
+
 	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NQWFQPR"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	

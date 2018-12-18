@@ -16,11 +16,11 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   
   <title>live</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=251547783"/>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4269403968"/>
   <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=354096969"/>
-  <link rel="stylesheet" type="text/css" href="css/master_b-master.css?crc=3761450174"/>
+  <link rel="stylesheet" type="text/css" href="css/master_b-master.css?crc=4101818138"/>
   <link rel="stylesheet" type="text/css" href="css/master_c-master.css?crc=442082512"/>
-  <link rel="stylesheet" type="text/css" href="css/live.css?crc=3937545973" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/live.css?crc=4166564105" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
@@ -66,6 +66,30 @@ right: 0px
 
 				<style>.js body{visibility:visible!important;}</style>
 			
+<style>
+#preloader {
+	position: fixed;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-color: #FFFFFF;
+	z-index: 99999;
+}
+
+#status {
+	width: 200px;
+	height: 200px;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	background-image: url(./assets/live.gif);
+	background-repeat: no-repeat;
+	background-position: center;
+	margin: -100px 0 0 -100px;
+}
+</style>
+
                 <style>
 				body{overflow-x:hidden !important;}
 				html{overflow-x:hidden !important;}
@@ -79,15 +103,28 @@ right: 0px
  </head>
  <body class="museBGSize">
 
+  <!--HTML Widget code-->
+  
+<div id="preloader">
+	<div id="status"></div>
+</div>
+
+  
   <div class="clearfix borderbox" id="page"><!-- group -->
    <div class="clearfix grpelem" id="pu1939"><!-- column -->
     <div class="size_fixed colelem" id="u1939" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- custom html -->
      
             
     </div>
-    <div class="size_fixed colelem" id="u238" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- custom html -->
-     
+    <div class="clearfix colelem" id="pu238"><!-- group -->
+     <div class="size_fixed grpelem" id="u238" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- custom html -->
+      
 
+     </div>
+     <div class="size_fixed grpelem" id="u6677" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- custom html -->
+      
+
+     </div>
     </div>
     <div class="clearfix colelem" id="pu4755"><!-- group -->
      <div class="size_fixed grpelem" id="u4755" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- custom html -->
@@ -112,13 +149,13 @@ right: 0px
     <a class="nonblock nontext Button left_slide shadow rounded-corners clearfix colelem" id="buttonu1617" href="untitled-7.html" data-href="page:U1738" data-muse-uid="U1617" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- container box --><img class="grpelem" id="u1656-5" alt="on going live" width="156" height="29" src="images/u1656-5.png?crc=174070069" data-IBE-flags="txtStyleSrc"/><!-- rasterized frame --></a>
     <!-- /m_editable -->
    </div>
-   <div class="Button clearfix" id="buttonu1438"><!-- container box -->
+   <div class="Button rounded-corners clearfix" id="buttonu1438"><!-- container box -->
     <div class="clearfix colelem" id="ppbuttonu1455"><!-- group -->
      <div class="Button clearfix grpelem" id="pbuttonu1455" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- group -->
-      <a class="nonblock nontext transition clearfix grpelem" id="buttonu1455" href="index.html" data-href="page:U93"><!-- container box --><div class="clearfix grpelem" id="u1458-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p><span id="u1458">Home</span></p></div><div class="clip_frame grpelem" id="u1456" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- image --><img class="block" id="u1456_img" src="images/ic_home_white_24dp_2x.png?crc=216099558" alt="" width="29" height="29"/></div></a>
+      <a class="nonblock nontext transition shadow rounded-corners clearfix grpelem" id="buttonu1455" href="index.html" data-href="page:U93"><!-- container box --><div class="clearfix grpelem" id="u1458-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p><span id="u1458">Home</span></p></div><div class="clip_frame grpelem" id="u1456" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- image --><img class="block" id="u1456_img" src="images/ic_home_white_24dp_2x.png?crc=216099558" alt="" width="29" height="29"/></div></a>
      </div>
      <div class="Button clearfix grpelem" id="pbuttonu1476" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- group -->
-      <div class="transition clearfix grpelem" id="buttonu1476"><!-- container box -->
+      <div class="transition shadow rounded-corners clearfix grpelem" id="buttonu1476"><!-- container box -->
        <div class="clearfix grpelem" id="u1477-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content -->
         <p><span id="u1477">Class Arena</span></p>
        </div>
@@ -130,7 +167,7 @@ right: 0px
     </div>
     <div class="clearfix colelem" id="ppbuttonu1451"><!-- group -->
      <div class="Button clearfix grpelem" id="pbuttonu1451" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- group -->
-      <div class="transition clearfix grpelem" id="buttonu1451"><!-- container box -->
+      <div class="transition shadow rounded-corners clearfix grpelem" id="buttonu1451"><!-- container box -->
        <div class="clearfix grpelem" id="u1454-6" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content -->
         <p><span id="u1454">News</span></p>
         <p><span id="u1454-3">and Feeds</span></p>
@@ -141,7 +178,7 @@ right: 0px
       </div>
      </div>
      <div class="Button clearfix grpelem" id="pbuttonu1460" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- group -->
-      <div class="transition clearfix grpelem" id="buttonu1460"><!-- container box -->
+      <div class="transition shadow rounded-corners clearfix grpelem" id="buttonu1460"><!-- container box -->
        <div class="clearfix grpelem" id="u1461-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content -->
         <p><span id="u1461">Time Table</span></p>
        </div>
@@ -153,10 +190,10 @@ right: 0px
     </div>
     <div class="clearfix colelem" id="ppbuttonu1439"><!-- group -->
      <div class="Button clearfix grpelem" id="pbuttonu1439" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- group -->
-      <a class="nonblock nontext transition clearfix grpelem" id="buttonu1439" href="http://www.knsit.com/"><!-- container box --><div class="clearfix grpelem" id="u1442-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p><span id="u1442">College Website</span></p></div><div class="clip_frame grpelem" id="u1440" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- image --><img class="block" id="u1440_img" src="images/college-graduation.png?crc=4159836101" alt="" width="21" height="21"/></div></a>
+      <a class="nonblock nontext transition shadow rounded-corners clearfix grpelem" id="buttonu1439" href="http://www.knsit.com/"><!-- container box --><div class="clearfix grpelem" id="u1442-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content --><p><span id="u1442">College Website</span></p></div><div class="clip_frame grpelem" id="u1440" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- image --><img class="block" id="u1440_img" src="images/college-graduation.png?crc=4159836101" alt="" width="21" height="21"/></div></a>
      </div>
      <div class="Button clearfix grpelem" id="pbuttonu1447" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- group -->
-      <div class="transition clearfix grpelem" id="buttonu1447"><!-- container box -->
+      <div class="transition shadow rounded-corners clearfix grpelem" id="buttonu1447"><!-- container box -->
        <div class="clearfix grpelem" id="u1448-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content -->
         <p><span id="u1448">Feedbacks</span></p>
        </div>
@@ -168,7 +205,7 @@ right: 0px
     </div>
     <div class="clearfix colelem" id="ppbuttonu1464"><!-- group -->
      <div class="Button clearfix grpelem" id="pbuttonu1464" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- group -->
-      <div class="transition clearfix grpelem" id="buttonu1464"><!-- container box -->
+      <div class="transition shadow rounded-corners clearfix grpelem" id="buttonu1464"><!-- container box -->
        <div class="clearfix grpelem" id="u1467-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content -->
         <p><span id="u1467">&nbsp;Picture Gallery</span></p>
        </div>
@@ -178,7 +215,7 @@ right: 0px
       </div>
      </div>
      <div class="Button clearfix grpelem" id="pbuttonu1443" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- group -->
-      <div class="transition clearfix grpelem" id="buttonu1443"><!-- container box -->
+      <div class="transition shadow rounded-corners clearfix grpelem" id="buttonu1443"><!-- container box -->
        <div class="clearfix grpelem" id="u1446-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content -->
         <p><span id="u1446">Important Contacts</span></p>
        </div>
@@ -190,7 +227,7 @@ right: 0px
     </div>
     <div class="clearfix colelem" id="ppbuttonu1468"><!-- group -->
      <div class="Button clearfix grpelem" id="pbuttonu1468" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- group -->
-      <div class="transition clearfix grpelem" id="buttonu1468"><!-- container box -->
+      <div class="transition shadow rounded-corners clearfix grpelem" id="buttonu1468"><!-- container box -->
        <div class="clearfix grpelem" id="u1469-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content -->
         <p><span id="u1469">Exam Tricks</span></p>
        </div>
@@ -200,7 +237,7 @@ right: 0px
       </div>
      </div>
      <div class="Button clearfix grpelem" id="pbuttonu1472" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- group -->
-      <div class="transition clearfix grpelem" id="buttonu1472"><!-- container box -->
+      <div class="transition shadow rounded-corners clearfix grpelem" id="buttonu1472"><!-- container box -->
        <div class="clearfix grpelem" id="u1473-4" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- content -->
         <p><span id="u1473">Results</span></p>
        </div>
@@ -314,5 +351,13 @@ $(document).ready(function(){$(".left_slide").css("opacity","0")});$(window).loa
 	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-NQWFQPR"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	
+<script type="text/javascript">
+$(window).load(function() {
+	$('#status').fadeOut();
+	$('#preloader').delay(350).fadeOut('slow');
+	$('body').delay(350).css({'overflow':'visible'});
+});
+</script>
+
    </body>
 </html>
