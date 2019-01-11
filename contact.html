@@ -16,19 +16,36 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   
   <title>contact</title>
   <!-- CSS -->
-  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=336575393"/>
-  <link rel="stylesheet" type="text/css" href="css/contact.css?crc=224259843" id="pagesheet"/>
-   </head>
+  <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4269403968"/>
+  <link rel="stylesheet" type="text/css" href="css/contact.css?crc=114422531" id="pagesheet"/>
+    <!--HTML Widget code-->
+  
+                <style>
+				body{overflow-x:hidden !important;}
+				html{overflow-x:hidden !important;}
+				</style>
+            
+<style>
+
+</style>
+
+
+ </head>
  <body>
 
-  <div class="clearfix borderbox" id="page"><!-- column -->
+  <div class="clearfix borderbox" id="page"><!-- group -->
+   <div class="size_fixed grpelem" id="u6767" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- custom html -->
+    
+                <div></div>
+            
+   </div>
    <!-- m_editable region-id="editable-static-tag-U5591-BP_infinity" template="contact.html" data-type="html" data-ice-options="disableImageResize,link,txtStyleTarget" -->
-   <div class="clearfix colelem" id="u5591-32" data-muse-uid="U5591" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- content -->
+   <div class="clearfix grpelem" id="u5591-32" data-muse-uid="U5591" data-muse-type="txt_frame" data-IBE-flags="txtStyleSrc" data-sizePolicy="fluidWidth" data-pintopage="page_fixedCenter"><!-- content -->
     <p class="date" id="u5591-2">[03/02/2018]</p>
     <ul class="list0 nls-None" id="u5591-9">
      <li id="u5591-4">Make sure the classworks and all notes are to be completed before the inspection day.</li>
      <li id="u5591-6">Science exhibition students to make sure to keep their projects (exhibits) in the A/V room</li>
-     <li id="u5591-8">A green Milton lunchbox is lost, if found return it to the office.</li>
+     <li id="u5591-8">A green Milton lunch-box is lost, if found return it to the office.</li>
     </ul>
     <p>&nbsp;</p>
     <p class="date" id="u5591-12">[02/02/2018]</p>
@@ -48,12 +65,41 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
     </ul>
    </div>
    <!-- /m_editable -->
-   <div class="verticalspacer" data-offset-top="340" data-content-above-spacer="340" data-content-below-spacer="0" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
+   <div class="size_fixed grpelem" id="u6766" data-sizePolicy="fixed" data-pintopage="page_fluidx"><!-- custom html -->
+    
+			
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+<script>
+var showAlert = false;
+$(document).ready(function(){
+// this part disables the right click
+$('html').on('contextmenu', function(e) {
+    
+	if (showAlert) {
+        alert("Developed by Appries Group");
+    }
+    showAlert = false;
+	
+return false;
+});
+
+//this part disables dragging of image
+$('img').on('dragstart', function(e) {
+return false;
+});
+
+});
+</script>
+
+
+   </div>
+   <div class="verticalspacer" data-offset-top="357" data-content-above-spacer="357" data-content-below-spacer="0" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"></div>
   </div>
   <!-- Other scripts -->
   <script type="text/javascript">
    // Decide whether to suppress missing file error or not based on preference setting
-var suppressMissingFileError = false
+var suppressMissingFileError = true
 </script>
   <script type="text/javascript">
    window.Muse.assets.check=function(c){if(!window.Muse.assets.checked){window.Muse.assets.checked=!0;var b={},d=function(a,b){if(window.getComputedStyle){var c=window.getComputedStyle(a,null);return c&&c.getPropertyValue(b)||c&&c[b]||""}if(document.documentElement.currentStyle)return(c=a.currentStyle)&&c[b]||a.style&&a.style[b]||"";return""},a=function(a){if(a.match(/^rgb/))return a=a.replace(/\s+/g,"").match(/([\d\,]+)/gi)[0].split(","),(parseInt(a[0])<<16)+(parseInt(a[1])<<8)+parseInt(a[2]);if(a.match(/^\#/))return parseInt(a.substr(1),

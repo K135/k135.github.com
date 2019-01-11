@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1546200260414">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1547231945791">
   <folder name="assets">
     <file name="ezgif.com-optimize.gif" crc="4016622575" seo="true" mt="1533248845000"/>
     <file name="2.gif" crc="3872288782" seo="true" mt="1533290408000"/>
@@ -24,7 +24,7 @@
     <file name="untitled-5.css" crc="3967741812" ref="untitled-5"/>
     <file name="motivation.css" crc="267252952" ref="motivation"/>
     <file name="user.css" crc="3788955641" ref="user"/>
-    <file name="contact.css" crc="224259843" ref="contact"/>
+    <file name="contact.css" crc="114422531" ref="contact"/>
     <file name="info.css" crc="246653871" ref="info"/>
     <file name="roll-model.css" crc="4200217915" ref="roll-model"/>
     <file name="untitled-6.css" crc="4120853344" ref="untitled-6"/>
@@ -361,7 +361,7 @@
   <file name="roll-model.html" crc="4051458701" seo="true" mt="1546199835404" redirect="true"/>
   <file name="appries-talk.html" crc="430484639" seo="true" mt="1546199835404" redirect="true"/>
   <file name="news.html" crc="4159204498" seo="true" mt="1546199835404" redirect="true"/>
-  <file name="contact.html" crc="140906046" seo="true" mt="1541267775233" redirect="true"/>
+  <file name="contact.html" crc="112338181" seo="true" mt="1547231925508" redirect="true"/>
   <file name="check.html" crc="217948592" seo="true" mt="1546199835404" redirect="true"/>
   <file name="c1.html" crc="484146513" seo="true" mt="1541030676879" redirect="true"/>
   <file name="home.html" crc="62300657" seo="true" mt="1546199835410" redirect="true"/>
