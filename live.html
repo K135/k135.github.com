@@ -18,9 +18,9 @@ if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?crc=4269403968"/>
   <link rel="stylesheet" type="text/css" href="css/master_a-master.css?crc=354096969"/>
-  <link rel="stylesheet" type="text/css" href="css/master_b-master.css?crc=67860444"/>
+  <link rel="stylesheet" type="text/css" href="css/master_b-master.css?crc=4095935752"/>
   <link rel="stylesheet" type="text/css" href="css/master_c-master.css?crc=442082512"/>
-  <link rel="stylesheet" type="text/css" href="css/live.css?crc=505145625" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/live.css?crc=4036816189" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    var __adobewebfontsappname__ = "muse";
@@ -164,6 +164,37 @@ right: 0px
      <div class="ContainerGroup clearfix" id="u6838"><!-- none box -->
       <div class="Container invi clearfix" id="u6839"><!-- column -->
        <div class="position_content" id="u6839_position_content">
+        <div class="colelem" id="u7014"><!-- custom html -->
+         
+	<html>
+		<head>
+    		<title>load</title>
+		<style>
+		.reload {
+	border-radius: 0px 13px 0px 0px;
+	width: 73px;
+	height:30px;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	background: #FBB03B;
+	color: #fff;
+}
+.reload:hover {
+	background: #ff0a6d;
+}
+		</style>
+	</head>
+		<body>
+			<button class="reload" onclick="MyFunc()">Reload</button>
+		<script>
+			function MyFunc() {
+				window.location.reload(true);
+			}
+		</script>
+	</body>
+</html>
+        </div>
         <div class="clearfix colelem" id="pu6866"><!-- group -->
          <div class="aicons clip_frame grpelem" id="u6866" data-sizePolicy="fixed" data-pintopage="page_fixedLeft"><!-- image -->
           <img class="block" id="u6866_img" src="images/09_bell-3-512-min.png?crc=478643545" alt="" width="44" height="44"/>
