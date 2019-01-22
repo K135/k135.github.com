@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1548183502796">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1548183680527">
   <folder name="assets">
     <file name="ezgif.com-optimize.gif" crc="4016622575" seo="true" mt="1533248845000"/>
     <file name="2.gif" crc="3872288782" seo="true" mt="1533290408000"/>
@@ -286,7 +286,7 @@
     </file>
   </folder>
   <file name="index.html" crc="4039381956" seo="true" mt="1546200253167" redirect="true"/>
-  <file name="class-arena.html" crc="3788469019" seo="true" mt="1548183461287" redirect="true"/>
+  <file name="class-arena.html" crc="120685534" seo="true" mt="1548183662800" redirect="true"/>
   <file name="live.html" crc="215040182" seo="true" mt="1548166485411" redirect="true"/>
   <file name="360.html" crc="436820819" seo="true" mt="1548166485411" redirect="true"/>
   <file name="untitled-5.html" crc="24790822" seo="true" mt="1548166485411" redirect="true"/>
