@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1548183680527">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1548234488919">
   <folder name="assets">
     <file name="ezgif.com-optimize.gif" crc="4016622575" seo="true" mt="1533248845000"/>
     <file name="2.gif" crc="3872288782" seo="true" mt="1533290408000"/>
@@ -11,8 +11,8 @@
     <file name="master_a-master.css" crc="354096969" ref="class-arena:360:live:vr:news:e-store:library:appries-talk:untitled-7:untitled-5:motivation:user:info:roll-model:untitled-6:check:home"/>
     <file name="index.css" crc="4254744446" ref="index"/>
     <file name="master_c-master.css" crc="442082512" ref="live:untitled-7:untitled-5:untitled-6"/>
-    <file name="master_b-master.css" crc="317938385" ref="class-arena:360:live:vr:news:e-store:appries-talk:untitled-7:untitled-5:motivation:user:info:roll-model:untitled-6:check:library"/>
-    <file name="class-arena.css" crc="4187542421" ref="class-arena"/>
+    <file name="master_b-master.css" crc="4026344306" ref="class-arena:360:live:vr:news:e-store:appries-talk:untitled-7:untitled-5:motivation:user:info:roll-model:untitled-6:check:library"/>
+    <file name="class-arena.css" crc="3985137248" ref="class-arena"/>
     <file name="360.css" crc="4197570113" ref="360"/>
     <file name="live.css" crc="45357213" ref="live"/>
     <file name="vr.css" crc="10355746" ref="vr"/>
@@ -139,154 +139,154 @@
     <file name="u6042-4.png" crc="492850227" ref="home"/>
     <file name="09_bell-3-512-min.png" crc="478643545" seo="true" ref="class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:check">
       <caption webpage="360" alt=""/>
-      <caption webpage="user" alt=""/>
-      <caption webpage="vr" alt=""/>
       <caption webpage="untitled-5" alt=""/>
+      <caption webpage="class-arena" alt=""/>
+      <caption webpage="appries-talk" alt=""/>
       <caption webpage="library" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
       <caption webpage="check" alt=""/>
-      <caption webpage="news" alt=""/>
       <caption webpage="live" alt=""/>
       <caption webpage="info" alt=""/>
       <caption webpage="motivation" alt=""/>
-      <caption webpage="appries-talk" alt=""/>
+      <caption webpage="user" alt=""/>
       <caption webpage="e-store" alt=""/>
-      <caption webpage="class-arena" alt=""/>
-      <caption webpage="untitled-7" alt=""/>
-      <caption webpage="roll-model" alt=""/>
       <caption webpage="untitled-6" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="vr" alt=""/>
+      <caption webpage="roll-model" alt=""/>
     </file>
     <file name="galary-512-min-min.png" crc="4091363124" seo="true" ref="class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:check">
       <caption webpage="360" alt=""/>
-      <caption webpage="user" alt=""/>
-      <caption webpage="vr" alt=""/>
       <caption webpage="untitled-5" alt=""/>
+      <caption webpage="class-arena" alt=""/>
+      <caption webpage="appries-talk" alt=""/>
       <caption webpage="library" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
       <caption webpage="check" alt=""/>
-      <caption webpage="news" alt=""/>
       <caption webpage="live" alt=""/>
       <caption webpage="info" alt=""/>
       <caption webpage="motivation" alt=""/>
-      <caption webpage="appries-talk" alt=""/>
+      <caption webpage="user" alt=""/>
       <caption webpage="e-store" alt=""/>
-      <caption webpage="class-arena" alt=""/>
-      <caption webpage="untitled-7" alt=""/>
-      <caption webpage="roll-model" alt=""/>
       <caption webpage="untitled-6" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="vr" alt=""/>
+      <caption webpage="roll-model" alt=""/>
     </file>
     <file name="lib-min.png" crc="4216130501" seo="true" ref="class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:check">
       <caption webpage="360" alt=""/>
-      <caption webpage="user" alt=""/>
-      <caption webpage="vr" alt=""/>
       <caption webpage="untitled-5" alt=""/>
+      <caption webpage="class-arena" alt=""/>
+      <caption webpage="appries-talk" alt=""/>
       <caption webpage="library" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
       <caption webpage="check" alt=""/>
-      <caption webpage="news" alt=""/>
       <caption webpage="live" alt=""/>
       <caption webpage="info" alt=""/>
       <caption webpage="motivation" alt=""/>
-      <caption webpage="appries-talk" alt=""/>
+      <caption webpage="user" alt=""/>
       <caption webpage="e-store" alt=""/>
-      <caption webpage="class-arena" alt=""/>
-      <caption webpage="untitled-7" alt=""/>
-      <caption webpage="roll-model" alt=""/>
       <caption webpage="untitled-6" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="vr" alt=""/>
+      <caption webpage="roll-model" alt=""/>
     </file>
     <file name="tt-min.png" crc="520529830" seo="true" ref="class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:check">
       <caption webpage="360" alt=""/>
-      <caption webpage="user" alt=""/>
-      <caption webpage="vr" alt=""/>
       <caption webpage="untitled-5" alt=""/>
+      <caption webpage="class-arena" alt=""/>
+      <caption webpage="appries-talk" alt=""/>
       <caption webpage="library" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
       <caption webpage="check" alt=""/>
-      <caption webpage="news" alt=""/>
       <caption webpage="live" alt=""/>
       <caption webpage="info" alt=""/>
       <caption webpage="motivation" alt=""/>
-      <caption webpage="appries-talk" alt=""/>
+      <caption webpage="user" alt=""/>
       <caption webpage="e-store" alt=""/>
-      <caption webpage="class-arena" alt=""/>
-      <caption webpage="untitled-7" alt=""/>
-      <caption webpage="roll-model" alt=""/>
       <caption webpage="untitled-6" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="vr" alt=""/>
+      <caption webpage="roll-model" alt=""/>
     </file>
     <file name="class-min.png" crc="4086451295" seo="true" ref="class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:check">
       <caption webpage="360" alt=""/>
-      <caption webpage="user" alt=""/>
-      <caption webpage="vr" alt=""/>
       <caption webpage="untitled-5" alt=""/>
+      <caption webpage="class-arena" alt=""/>
+      <caption webpage="appries-talk" alt=""/>
       <caption webpage="library" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
       <caption webpage="check" alt=""/>
-      <caption webpage="news" alt=""/>
       <caption webpage="live" alt=""/>
       <caption webpage="info" alt=""/>
       <caption webpage="motivation" alt=""/>
-      <caption webpage="appries-talk" alt=""/>
+      <caption webpage="user" alt=""/>
       <caption webpage="e-store" alt=""/>
-      <caption webpage="class-arena" alt=""/>
-      <caption webpage="untitled-7" alt=""/>
-      <caption webpage="roll-model" alt=""/>
       <caption webpage="untitled-6" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="vr" alt=""/>
+      <caption webpage="roll-model" alt=""/>
     </file>
     <file name="exam-min.png" crc="254276377" seo="true" ref="class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:check">
       <caption webpage="360" alt=""/>
-      <caption webpage="user" alt=""/>
-      <caption webpage="vr" alt=""/>
       <caption webpage="untitled-5" alt=""/>
+      <caption webpage="class-arena" alt=""/>
+      <caption webpage="appries-talk" alt=""/>
       <caption webpage="library" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
       <caption webpage="check" alt=""/>
-      <caption webpage="news" alt=""/>
       <caption webpage="live" alt=""/>
       <caption webpage="info" alt=""/>
       <caption webpage="motivation" alt=""/>
-      <caption webpage="appries-talk" alt=""/>
+      <caption webpage="user" alt=""/>
       <caption webpage="e-store" alt=""/>
-      <caption webpage="class-arena" alt=""/>
-      <caption webpage="untitled-7" alt=""/>
-      <caption webpage="roll-model" alt=""/>
       <caption webpage="untitled-6" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="vr" alt=""/>
+      <caption webpage="roll-model" alt=""/>
     </file>
     <file name="gk-min.png" crc="4201873042" seo="true" ref="class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:check">
       <caption webpage="360" alt=""/>
-      <caption webpage="user" alt=""/>
-      <caption webpage="vr" alt=""/>
       <caption webpage="untitled-5" alt=""/>
+      <caption webpage="class-arena" alt=""/>
+      <caption webpage="appries-talk" alt=""/>
       <caption webpage="library" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
       <caption webpage="check" alt=""/>
-      <caption webpage="news" alt=""/>
       <caption webpage="live" alt=""/>
       <caption webpage="info" alt=""/>
       <caption webpage="motivation" alt=""/>
-      <caption webpage="appries-talk" alt=""/>
+      <caption webpage="user" alt=""/>
       <caption webpage="e-store" alt=""/>
-      <caption webpage="class-arena" alt=""/>
-      <caption webpage="untitled-7" alt=""/>
-      <caption webpage="roll-model" alt=""/>
       <caption webpage="untitled-6" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="vr" alt=""/>
+      <caption webpage="roll-model" alt=""/>
     </file>
     <file name="news.png" crc="452970068" seo="true" ref="class-arena:live:360:untitled-5:untitled-6:untitled-7:library:e-store:user:info:motivation:vr:roll-model:appries-talk:news:check">
       <caption webpage="360" alt=""/>
-      <caption webpage="user" alt=""/>
-      <caption webpage="vr" alt=""/>
       <caption webpage="untitled-5" alt=""/>
+      <caption webpage="class-arena" alt=""/>
+      <caption webpage="appries-talk" alt=""/>
       <caption webpage="library" alt=""/>
+      <caption webpage="untitled-7" alt=""/>
       <caption webpage="check" alt=""/>
-      <caption webpage="news" alt=""/>
       <caption webpage="live" alt=""/>
       <caption webpage="info" alt=""/>
       <caption webpage="motivation" alt=""/>
-      <caption webpage="appries-talk" alt=""/>
+      <caption webpage="user" alt=""/>
       <caption webpage="e-store" alt=""/>
-      <caption webpage="class-arena" alt=""/>
-      <caption webpage="untitled-7" alt=""/>
-      <caption webpage="roll-model" alt=""/>
       <caption webpage="untitled-6" alt=""/>
+      <caption webpage="news" alt=""/>
+      <caption webpage="vr" alt=""/>
+      <caption webpage="roll-model" alt=""/>
     </file>
     <file name="ap.png" crc="4019919158" ref="class-arena">
       <caption webpage="class-arena" alt=""/>
     </file>
   </folder>
   <file name="index.html" crc="4039381956" seo="true" mt="1546200253167" redirect="true"/>
-  <file name="class-arena.html" crc="120685534" seo="true" mt="1548183662800" redirect="true"/>
+  <file name="class-arena.html" crc="4378913" seo="true" mt="1548219513737" redirect="true"/>
   <file name="live.html" crc="215040182" seo="true" mt="1548166485411" redirect="true"/>
   <file name="360.html" crc="436820819" seo="true" mt="1548166485411" redirect="true"/>
   <file name="untitled-5.html" crc="24790822" seo="true" mt="1548166485411" redirect="true"/>
