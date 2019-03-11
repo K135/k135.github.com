@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1552326565349">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1552342881748">
   <folder name="assets">
     <file name="ezgif.com-optimize.gif" crc="4016622575" seo="true" mt="1533248845000"/>
     <file name="2.gif" crc="3872288782" seo="true" mt="1533290408000"/>
@@ -355,7 +355,7 @@
   <file name="roll-model.html" crc="4092670424" seo="true" mt="1552326512315" redirect="true"/>
   <file name="appries-talk.html" crc="9355736" seo="true" mt="1552326512315" redirect="true"/>
   <file name="news.html" crc="3827484089" seo="true" mt="1552326512315" redirect="true"/>
-  <file name="contact.html" crc="112338181" seo="true" mt="1547231925508" redirect="true"/>
+  <file name="contact.html" crc="4047426443" seo="true" mt="1552342869163" redirect="true"/>
   <file name="check.html" crc="3980188475" seo="true" mt="1552326512315" redirect="true"/>
   <file name="c1.html" crc="484146513" seo="true" mt="1541030676879" redirect="true"/>
   <file name="home.html" crc="418465887" seo="true" mt="1552326482833" redirect="true"/>
