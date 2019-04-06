@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1554059893995">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="appries.com" resolutions="1x" timestamp="1554512334803">
   <folder name="assets">
     <file name="ezgif.com-optimize.gif" crc="4016622575" seo="true" mt="1533248845000"/>
     <file name="2.gif" crc="3872288782" seo="true" mt="1533290408000"/>
@@ -24,12 +24,12 @@
     <file name="untitled-5.css" crc="3905425819" ref="untitled-5"/>
     <file name="motivation.css" crc="57964906" ref="motivation"/>
     <file name="user.css" crc="290743957" ref="user"/>
-    <file name="contact.css" crc="487638671" ref="contact"/>
+    <file name="contact.css" crc="152810607" ref="contact"/>
     <file name="info.css" crc="3943366024" ref="info"/>
     <file name="roll-model.css" crc="3816216483" ref="roll-model"/>
     <file name="untitled-6.css" crc="4290382733" ref="untitled-6"/>
     <file name="check.css" crc="434268546" ref="check"/>
-    <file name="c1.css" crc="412742155" ref="c1"/>
+    <file name="c1.css" crc="262303446" ref="c1"/>
     <file name="home.css" crc="27657270" ref="home"/>
     <file name="contact1.css" crc="232857296" ref="contact1"/>
     <file name="c11.css" crc="329343623" ref="c11"/>
@@ -357,9 +357,9 @@
   <file name="roll-model.html" crc="4092670424" seo="true" mt="1552326512315" redirect="true"/>
   <file name="appries-talk.html" crc="9355736" seo="true" mt="1552326512315" redirect="true"/>
   <file name="news.html" crc="3827484089" seo="true" mt="1552326512315" redirect="true"/>
-  <file name="contact.html" crc="3772336792" seo="true" mt="1554055089795" redirect="true"/>
+  <file name="contact.html" crc="3982976315" seo="true" mt="1554512270541" redirect="true"/>
   <file name="check.html" crc="3980188475" seo="true" mt="1552326512315" redirect="true"/>
-  <file name="c1.html" crc="389565428" seo="true" mt="1554055140331" redirect="true"/>
+  <file name="c1.html" crc="4226170586" seo="true" mt="1554512302917" redirect="true"/>
   <file name="home.html" crc="418465887" seo="true" mt="1552326482833" redirect="true"/>
   <file name="contact1.html" crc="3887789462" seo="true" mt="1554056384375" redirect="true"/>
   <file name="c11.html" crc="79577040" seo="true" mt="1554056373664" redirect="true"/>
